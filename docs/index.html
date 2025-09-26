@@ -50,8 +50,24 @@ const norm = t => (t||"").toLowerCase().replace(/https?:\/\/\S+/g," ").replace(/
 const toks = t => norm(t).split(" ").filter(w=>w && !stop.has(w));
 function ngrams(arr,n){const out=[];for(let i=0;i<=arr.length-n;i++) out.push(arr.slice(i,i+n).join(" "));return out;}
 function jaccard(a,b){const A=new Set(a.split(" ")),B=new Set(b.split(" "));let inter=0;for(const x of A) if(B.has(x)) inter++; const uni=A.size+B.size-inter;return uni?inter/uni:0;}
+async function fetchJSON(p){const r=await fetch(p,{cache:"no-store"});if(!r.ok) throw new Error(p+" "+r.status);return r.json();}
 
-async function fetchJSON(p){const r=await fetch(p);if(!r.ok) throw new Error(p+" "+r.status);return r.json();}
+// Tiny English sentiment lexicon (negatives weigh more for "severity")
+const sentimentLex = {
+  "leak":-3,"leaks":-3,"drip":-2,"spills":-3,"smell":-2,"stinks":-3,"dirty":-2,"sticky":-1,
+  "hard":-2,"difficult":-2,"impossible":-3,"pain":-3,"painful":-3,"noisy":-2,"loud":-2,
+  "heavy":-1,"bulky":-1,"broken":-3,"breaks":-2,"fragile":-2,"cheap":-1,"flimsy":-2,
+  "slow":-1,"late":-1,"refund":-2,"return":-2,"bad":-2,"worst":-3,
+  "good":+1,"great":+2,"excellent":+2,"perfect":+2,"better":+1
+};
+function sentimentScore(text){
+  const ts = toks(text);
+  let sum = 0, hits = 0;
+  for(const t of ts){ if(sentimentLex[t]!=null){ sum += sentimentLex[t]; hits++; } }
+  if(!hits) return 0;
+  // Normalize to [-1,1], negatives (complaints) matter most for problem severity
+  return Math.max(-3, Math.min(3, sum)) / 3;
+}
 
 async function loadData(){
   s("status").textContent="Loading index…";
@@ -69,31 +85,52 @@ async function loadData(){
   return items;
 }
 
+function heuristicViability(phrases){
+  const txt = (" "+phrases.join(" ")+" ").toLowerCase();
+  let v = 0.75; // base viability
+  const has = (w)=>txt.includes(" "+w+" ");
+  if(has("clean")) v+=0.10;
+  if(has("leak")||has("leaks")||has("spill")||has("spills")) v+=0.10;
+  if(has("noisy")||has("loud")) v+=0.05;
+  if(has("heavy")||has("bulky")||has("size")) v+=0.05;
+  if(has("broken")||has("fragile")) v+=0.05;
+  if(has("smell")||has("odor")) v+=0.05;
+  return Math.max(0.6, Math.min(1.0, v));
+}
+
 function mine(items){
   const NG = parseInt(s("ng").value,10);
   const MIN = parseInt(s("minc").value,10);
   const SIM = parseFloat(s("sim").value);
-  const counts = new Map();
+
+  // count n-grams + accumulate sentiment
+  const counts = new Map(); // phrase -> {count, examples[], sentSum}
   for(const it of items){
     const ts = toks(it.text);
     const grams = ngrams(ts, NG);
+    const sent = sentimentScore(it.text);
     for(const g of grams){
       if(!g) continue;
-      const o = counts.get(g) || {count:0, examples:[]};
+      let o = counts.get(g);
+      if(!o) o = {count:0, examples:[], sentSum:0};
       o.count++;
+      o.sentSum += sent;
       if(o.examples.length<3) o.examples.push(it.text.slice(0,180));
       counts.set(g,o);
     }
   }
-  // filter min
-  let arr = [...counts.entries()].map(([phrase,o])=>({phrase, count:o.count, examples:o.examples}));
-  arr = arr.filter(x=>x.count>=MIN);
+
+  // base array
+  let arr = [...counts.entries()].map(([phrase,o])=>({
+    phrase, count:o.count, examples:o.examples, sentAvg: o.count? (o.sentSum/o.count) : 0
+  })).filter(x=>x.count>=MIN);
+
   // cluster by jaccard
   const used = new Set(), clusters=[];
   for(let i=0;i<arr.length;i++){
     if(used.has(i)) continue;
     const a = arr[i];
-    const c = {label:a.phrase, phrases:[a.phrase], count:a.count, examples:new Set(a.examples)};
+    const c = {label:a.phrase, phrases:[a.phrase], count:a.count, examples:new Set(a.examples), sentVals:[a.sentAvg]};
     used.add(i);
     for(let j=i+1;j<arr.length;j++){
       if(used.has(j)) continue;
@@ -103,13 +140,31 @@ function mine(items){
         c.phrases.push(b.phrase);
         c.count += b.count;
         b.examples.forEach(e=>c.examples.add(e));
+        c.sentVals.push(b.sentAvg);
       }
     }
+    // severity (0..1) from avg absolute sentiment (complaints => negative)
+    const severityAbs = Math.min(1, Math.abs(c.sentVals.reduce((p,q)=>p+q,0)/c.sentVals.length || 0));
+    const viability = heuristicViability(c.phrases);
+    c.freqNorm = 0; // we compute after we know max
+    c.severityAbs = severityAbs;
+    c.viability = viability;
     clusters.push(c);
   }
-  clusters.sort((x,y)=>y.count-x.count);
+
+  if(!clusters.length) return [];
+  const maxCount = Math.max(...clusters.map(c=>c.count));
+  clusters.forEach(c=>{
+    c.freqNorm = c.count / maxCount;
+    // Opportunity Score: freq * (0.6*severity + 0.4) * viability
+    c.score = c.freqNorm * (0.6*c.severityAbs + 0.4) * c.viability; // 0..1
+  });
+
+  clusters.sort((x,y)=>y.score-x.score);
   return clusters.slice(0,30);
 }
+
+function pct(x){ return Math.round(x*100); }
 
 function render(clusters){
   const R = s("results");
@@ -122,13 +177,55 @@ function render(clusters){
       <div class="card">
         <div style="display:flex;justify-content:space-between;gap:10px">
           <div><b>#${i+1}</b> — ${c.label}</div>
-          <div class="score">${c.count}</div>
+          <div class="score">${pct(c.score)}</div>
         </div>
         <div style="margin-top:6px">${tags}</div>
         <div class="muted" style="margin-top:8px">${ex}</div>
+        <div style="margin-top:8px">
+          <span class="tag">Frequency: ${c.count}</span>
+          <span class="tag">Severity: ${pct(c.severityAbs)}</span>
+          <span class="tag">Viability: ${pct(c.viability)}</span>
+          <span class="tag">Opportunity Score: ${pct(c.score)}</span>
+        </div>
       </div>
     `);
   });
+
+  // Add/refresh export button
+  let btn = document.getElementById("export");
+  if(!btn){
+    btn = document.createElement("button");
+    btn.id = "export";
+    btn.textContent = "Export CSV";
+    btn.style.marginTop = "10px";
+    document.querySelector(".bar").appendChild(btn);
+    btn.addEventListener("click", ()=> exportCSV(clusters));
+  } else {
+    btn.onclick = ()=> exportCSV(clusters);
+  }
+}
+
+function exportCSV(clusters){
+  const rows = [];
+  rows.push(["rank","label","phrases","frequency","severity","viability","score","examples"]);
+  clusters.forEach((c,i)=>{
+    rows.push([
+      i+1,
+      c.label,
+      c.phrases.slice(0,8).join(" | "),
+      c.count,
+      pct(c.severityAbs),
+      pct(c.viability),
+      pct(c.score),
+      [...c.examples].slice(0,3).join(" || ")
+    ]);
+  });
+  const csv = rows.map(r => r.map(x=> `"${String(x).replace(/"/g,'""')}"`).join(",")).join("\n");
+  const blob = new Blob([csv], {type: "text/csv;charset=utf-8;"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "market_problem_miner_results.csv";
+  a.click();
 }
 
 s("load").addEventListener("click", async ()=>{
@@ -142,5 +239,6 @@ s("load").addEventListener("click", async ()=>{
   }
 });
 </script>
+
 </body>
 </html>
