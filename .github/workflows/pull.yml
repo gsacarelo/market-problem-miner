@@ -1,1 +1,33 @@
+name: Pull YouTube reviews → JSON
 
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # every 2 hours (UTC)
+  workflow_dispatch: {}      # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+      - name: Run puller
+        run: node scripts/pull_youtube.mjs
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain docs/data)" ]; then
+            git add docs/data
+            git commit -m "data: update snapshots"
+            git push
+          else
+            echo "No changes to commit"
+          fi
