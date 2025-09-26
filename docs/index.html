@@ -1,8 +1,146 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <title>Title</title>
-    </head>
-    <body></body>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Market Problem Miner (Free v1)</title>
+<style>
+  body{font-family:system-ui,Segoe UI,Roboto,Arial;margin:0;background:#0b0b0c;color:#e8eaed}
+  .wrap{max-width:980px;margin:32px auto;padding:0 16px}
+  h1{margin:0 0 8px} p{color:#aeb4bb}
+  .bar{background:#141416;border:1px solid #24262a;padding:12px;border-radius:12px;margin:12px 0}
+  textarea{width:100%;min-height:120px;background:#0f0f11;color:#e8eaed;border:1px solid #24262a;border-radius:8px;padding:8px}
+  button{background:#7c4dff;border:none;color:#fff;padding:10px 14px;border-radius:10px;cursor:pointer}
+  .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .tag{display:inline-block;border:1px solid #2a2c31;border-radius:999px;padding:2px 8px;margin:2px;color:#b3b8be;font-size:12px}
+  .card{background:#0f0f11;border:1px solid #23252a;border-radius:12px;padding:12px;margin:10px 0}
+  .muted{color:#aeb4bb}
+  input,select{background:#0f0f11;color:#e8eaed;border:1px solid #24262a;border-radius:8px;padding:8px}
+  .score{font-weight:800}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Market Problem Miner — Free v1 (No AI)</h1>
+  <p>Pulls sanitized JSON (YouTube comments) and clusters common problems in your niche. Local-only NLP in the browser.</p>
+
+  <div class="bar">
+    <div class="row">
+      <div>n-gram:</div>
+      <select id="ng"><option>1</option><option selected>2</option><option>3</option></select>
+      <div>min count:</div>
+      <input id="minc" type="number" value="3" min="1" style="width:80px">
+      <div>similarity (0.1–0.9):</div>
+      <input id="sim" type="number" value="0.45" step="0.05" min="0.1" max="0.9" style="width:90px">
+      <button id="load">Load latest data</button>
+    </div>
+    <div class="row" style="margin-top:8px">
+      <small class="muted">Data source: <code>docs/data/</code> from scheduled pulls (GitHub Actions).</small>
+    </div>
+  </div>
+
+  <div id="status" class="muted">Status: idle</div>
+  <div id="results"></div>
+</div>
+
+<script>
+const stop = new Set(("a,about,after,again,all,also,am,an,and,any,are,as,at,be,been,before,being,between,both,but,by,can,could,did,do,does,doing,down,during,each,even,few,for,from,further,had,has,have,having,he,her,here,hers,herself,him,himself,his,how,i,if,in,into,is,it,its,itself,just,me,more,most,my,myself,no,nor,not,now,of,off,on,once,only,or,other,our,ours,ourselves,out,over,own,same,she,should,so,some,such,than,that,the,their,theirs,them,themselves,then,there,these,they,this,those,through,to,too,under,until,up,very,was,we,were,what,when,where,which,while,who,whom,why,with,you,your,yours,yourself,yourselves").split(","));
+const s = (id)=>document.getElementById(id);
+const norm = t => (t||"").toLowerCase().replace(/https?:\/\/\S+/g," ").replace(/[^\p{L}\p{N}\s]/gu," ").replace(/\s+/g," ").trim();
+const toks = t => norm(t).split(" ").filter(w=>w && !stop.has(w));
+function ngrams(arr,n){const out=[];for(let i=0;i<=arr.length-n;i++) out.push(arr.slice(i,i+n).join(" "));return out;}
+function jaccard(a,b){const A=new Set(a.split(" ")),B=new Set(b.split(" "));let inter=0;for(const x of A) if(B.has(x)) inter++; const uni=A.size+B.size-inter;return uni?inter/uni:0;}
+
+async function fetchJSON(p){const r=await fetch(p);if(!r.ok) throw new Error(p+" "+r.status);return r.json();}
+
+async function loadData(){
+  s("status").textContent="Loading index…";
+  const cfg = await fetchJSON("./config.json");
+  const idx = await fetchJSON(cfg.dataBaseUrl + cfg.indexFile).catch(()=>({latest:{},files:[]}));
+  const files = Object.values(idx.latest||{});
+  if(!files.length){ s("status").textContent="No data yet. Wait for the first scheduled pull or run it manually in GitHub Actions."; return []; }
+  s("status").textContent="Loading snapshots…";
+  let items=[];
+  for(const f of files){
+    const j = await fetchJSON(cfg.dataBaseUrl + f);
+    items = items.concat(j.items||[]);
+  }
+  s("status").textContent=`Loaded ${items.length} comments`;
+  return items;
+}
+
+function mine(items){
+  const NG = parseInt(s("ng").value,10);
+  const MIN = parseInt(s("minc").value,10);
+  const SIM = parseFloat(s("sim").value);
+  const counts = new Map();
+  for(const it of items){
+    const ts = toks(it.text);
+    const grams = ngrams(ts, NG);
+    for(const g of grams){
+      if(!g) continue;
+      const o = counts.get(g) || {count:0, examples:[]};
+      o.count++;
+      if(o.examples.length<3) o.examples.push(it.text.slice(0,180));
+      counts.set(g,o);
+    }
+  }
+  // filter min
+  let arr = [...counts.entries()].map(([phrase,o])=>({phrase, count:o.count, examples:o.examples}));
+  arr = arr.filter(x=>x.count>=MIN);
+  // cluster by jaccard
+  const used = new Set(), clusters=[];
+  for(let i=0;i<arr.length;i++){
+    if(used.has(i)) continue;
+    const a = arr[i];
+    const c = {label:a.phrase, phrases:[a.phrase], count:a.count, examples:new Set(a.examples)};
+    used.add(i);
+    for(let j=i+1;j<arr.length;j++){
+      if(used.has(j)) continue;
+      const b = arr[j];
+      if(jaccard(a.phrase,b.phrase)>=SIM){
+        used.add(j);
+        c.phrases.push(b.phrase);
+        c.count += b.count;
+        b.examples.forEach(e=>c.examples.add(e));
+      }
+    }
+    clusters.push(c);
+  }
+  clusters.sort((x,y)=>y.count-x.count);
+  return clusters.slice(0,30);
+}
+
+function render(clusters){
+  const R = s("results");
+  R.innerHTML="";
+  if(!clusters.length){ R.innerHTML='<div class="muted">No patterns found with current parameters.</div>'; return; }
+  clusters.forEach((c,i)=>{
+    const tags = c.phrases.slice(0,6).map(p=>`<span class="tag">${p}</span>`).join("");
+    const ex = [...c.examples].slice(0,2).map(e=>"• "+e).join("<br>");
+    R.insertAdjacentHTML("beforeend", `
+      <div class="card">
+        <div style="display:flex;justify-content:space-between;gap:10px">
+          <div><b>#${i+1}</b> — ${c.label}</div>
+          <div class="score">${c.count}</div>
+        </div>
+        <div style="margin-top:6px">${tags}</div>
+        <div class="muted" style="margin-top:8px">${ex}</div>
+      </div>
+    `);
+  });
+}
+
+s("load").addEventListener("click", async ()=>{
+  try{
+    const items = await loadData();
+    const clusters = mine(items);
+    render(clusters);
+    s("status").textContent = `Done. Showing ${clusters.length} clusters.`;
+  }catch(e){
+    s("status").textContent = "Error: "+e.message;
+  }
+});
+</script>
+</body>
 </html>
