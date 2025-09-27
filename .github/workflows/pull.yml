@@ -20,6 +20,7 @@ jobs:
         run: node scripts/pull_youtube.mjs
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          RETAIN_DAYS: 14
       - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
