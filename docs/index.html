@@ -83,24 +83,46 @@ function sentimentScore(text){
 }
 
 async function loadData(){
-  s("status").textContent="Loading index…";
+  // 1) read index (list of all recent files)
+  s("status").textContent = "Loading index…";
   const cfg = await fetchJSON("./config.json");
   const idx = await fetchJSON(cfg.dataBaseUrl + cfg.indexFile).catch(()=>({latest:{},files:[]}));
-  const files = Object.values(idx.latest||{});
-  if(!files.length){ s("status").textContent="No data yet. Wait for the first scheduled pull or run it manually in GitHub Actions."; return []; }
-  s("status").textContent="Loading snapshots…";
-  let items=[];
+
+  // combine explicit file list + latest map, then de-dup
+  const files = [...new Set([ ...(idx.files||[]), ...Object.values(idx.latest||{}) ])];
+  if(!files.length){
+    s("status").textContent = "No data yet. Run the GitHub Action once, then reload.";
+    return [];
+  }
+
+  s("status").textContent = `Loading ${files.length} snapshot file(s)…`;
+
+  // 2) load all files and tag items with source/topic
+  let items = [];
   for(const f of files){
     const j = await fetchJSON(cfg.dataBaseUrl + f);
-    items = items.concat(j.items||[]);
+    const src = j.source
+      || (f.startsWith("youtube_") ? "youtube"
+      :  f.startsWith("cpsc_")    ? "cpsc"
+      :  f.startsWith("trends_")  ? "trends"
+      :  "unknown");
+    const topic = j.topic_id || null;
+    for(const it of (j.items||[])){
+      items.push({ ...it, _source: src, _topic: topic, _file: f });
+    }
   }
-  s("status").textContent=`Loaded ${items.length} comments`;
-  // De-dup by normalized text AND keep only problem-like comments
+
+  // 3) show per-source counts in the status line
+  const bySrc = items.reduce((a, it) => { a[it._source] = (a[it._source] || 0) + 1; return a; }, {});
+  s("status").textContent =
+    `Loaded ${items.length} items (YouTube ${bySrc.youtube||0}, CPSC ${bySrc.cpsc||0}, Trends ${bySrc.trends||0})`;
+
+  // 4) optional: front-end de-dup + relevance filter (keep if you already added isLikelyProblem)
   const seen = new Set();
   items = items.filter(it => {
     const key = norm(it.text);
-    if (!isLikelyProblem(it.text)) return false; // relevance filter
-    if (seen.has(key)) return false;             // de-dup
+    if (!isLikelyProblem(it.text)) return false; // keep only problem-like text
+    if (seen.has(key)) return false;             // drop duplicates
     seen.add(key);
     return true;
   });
