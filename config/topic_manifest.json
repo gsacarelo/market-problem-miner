@@ -1,15 +1,27 @@
 {
   "version": "2025-09-26",
   "recency_days": 30,
-  "limits": { "videos_per_query": 6, "comments_per_video": 120 },
+  "limits": { "videos_per_query": 6, "comments_per_video": 150 },
   "queries": [
     {
       "id": "portable-anxiety-relief",
-      "include": ["anxiety necklace review", "breathing necklace review", "calm necklace"]
+      "include": [
+        "anxiety necklace review",
+        "breathing necklace review problems",
+        "calm necklace does it work",
+        "calm necklace issues"
+      ],
+      "exclude": ["asmr", "music", "lyrics", "shorts"]
     },
     {
       "id": "hydration-bottles-problems",
-      "include": ["water bottle leak review", "bottle smell review", "smart bottle review"]
+      "include": [
+        "water bottle leak review",
+        "bottle smell problem",
+        "smart bottle broke",
+        "water bottle hard to clean"
+      ],
+      "exclude": ["thermos recipe", "craft", "diy decor"]
     }
   ]
 }
