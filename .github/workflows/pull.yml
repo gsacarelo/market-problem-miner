@@ -1,9 +1,9 @@
-name: Pull YouTube reviews → JSON
+name: Pull data → JSON
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # every 2 hours (UTC)
-  workflow_dispatch: {}      # allow manual runs
+    - cron: "0 */2 * * *"     # every 2 hours (UTC)
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -13,21 +13,40 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
-        with:
-          node-version: "18"
-      - name: Run puller
+        with: { node-version: "18" }
+
+      # --- CPSC (Node) ---
+      - name: Pull CPSC Recalls
+        run: node scripts/pull_cpsc.mjs
+        env:
+          RETAIN_DAYS: 14
+
+      # --- YouTube (Node) you already have ---
+      - name: Pull YouTube
         run: node scripts/pull_youtube.mjs
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
           RETAIN_DAYS: 14
+
+      # --- Google Trends (Python) ---
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Install pytrends
+        run: pip install pytrends
+      - name: Pull Google Trends
+        run: python scripts/pull_trends.py
+        env:
+          RETAIN_DAYS: 14
+
       - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain docs/data)" ]; then
             git add docs/data
-            git commit -m "data: update snapshots"
+            git commit -m "data: update snapshots (cpsc, trends, youtube)"
             git push
           else
             echo "No changes to commit"
