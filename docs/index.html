@@ -26,16 +26,34 @@
 
   <div class="bar">
     <div class="row">
-      <div>n-gram:</div>
+      <div>N-gram:</div>
       <select id="ng"><option>1</option><option selected>2</option><option>3</option></select>
-      <div>min count:</div>
+      <div>Min count:</div>
       <input id="minc" type="number" value="3" min="1" style="width:80px">
-      <div>similarity (0.1–0.9):</div>
+      <div>Similarity (0.1–0.9):</div>
       <input id="sim" type="number" value="0.45" step="0.05" min="0.1" max="0.9" style="width:90px">
       <button id="load">Load latest data</button>
     </div>
     <div class="row" style="margin-top:8px">
       <small class="muted">Data source: <code>docs/data/</code> from scheduled pulls (GitHub Actions).</small>
+    </div>
+  </div>
+
+  <div class="bar" id="ai-panel">
+    <div class="row">
+      <b>AI Analysis (Ollama)</b>
+      <span id="ai-status" class="muted">Detecting local Ollama…</span>
+    </div>
+    <div class="row" style="margin-top:8px">
+      <label>Model</label>
+      <select id="ai-model" style="min-width:220px"></select>
+      <button id="ai-run">Analyze visible clusters</button>
+      <button id="ai-save" title="Download the latest AI analysis as JSON">Save result</button>
+    </div>
+    <div id="ai-result" class="card" style="display:none; white-space:pre-wrap"></div>
+    <div class="muted" style="margin-top:6px">
+      If Ollama isn’t running locally or CORS isn’t enabled, this panel is disabled.
+      You can still <b>upload</b> a previously saved analysis JSON to <code>docs/data/ai_latest.json</code> and it will display here.
     </div>
   </div>
 
@@ -56,6 +74,145 @@ async function fetchJSON(p){const r=await fetch(p,{cache:"no-store"});if(!r.ok) 
 const NEG_HINTS = ["leak","leaks","drip","spill","spills","smell","odor","stinks","hard","difficult","impossible","pain","noisy","loud","heavy","bulky","broken","broke","fragile","flimsy","cheap","slow","refund","return","bad","worst","rust","mold","crack","stain","dirty","clean"];
 const PROD_HINTS = ["bought","buy","using","works","doesn't","doesnt","stopped","after","week","month","review","problem","issue","quality","size","fit","seal","cap","lid","battery","charge","clean"];
 
+// ==== Ollama integration (helpers) ====
+const OLLAMA_CANDIDATES = ["http://127.0.0.1:11434","http://localhost:11434"];
+let OLLAMA_BASE = null;
+let LAST_CLUSTERS = []; // we'll store the clusters we render
+
+async function detectOllamaAndPopulate() {
+  const $status = document.getElementById("ai-status");
+  const $model = document.getElementById("ai-model");
+  const $run   = document.getElementById("ai-run");
+  $run.disabled = true;
+
+  for (const base of OLLAMA_CANDIDATES) {
+    try {
+      // /api/tags lists local models; works with GET
+      // If CORS isn't configured, this will fail.
+      const r = await fetch(base + "/api/tags", { method: "GET" });
+      if (!r.ok) continue;
+      const data = await r.json(); // { models: [{name: "llama3:8b"}, ...] }
+      const models = (data.models || []).map(m => m.name).filter(Boolean);
+      if (!models.length) continue;
+
+      OLLAMA_BASE = base;
+      // Fill the dropdown
+      $model.innerHTML = models.map(m => `<option value="${m}">${m}</option>`).join("");
+      $status.textContent = `Connected to Ollama at ${base}`;
+      $run.disabled = false;
+      // Load a previously saved analysis file if present
+      try {
+        const saved = await fetch("./data/ai_latest.json", { cache: "no-store" });
+        if (saved.ok) {
+          const j = await saved.json();
+          showAIResult(j.result || "(empty)");
+        }
+      } catch {}
+      return true;
+    } catch {
+      // try next candidate
+    }
+  }
+  $status.textContent = "Ollama not reachable. Start Ollama and set OLLAMA_ORIGINS to allow this site.";
+  $run.disabled = true;
+  return false;
+}
+
+// Make the AI prompt from current clusters (top 10)
+function buildPromptFromClusters(clusters) {
+  const top = clusters.slice(0, 10).map((c, i) => {
+    const examples = [...c.examples].slice(0, 2).map(e => `- ${e}`).join("\n");
+    return `#${i+1} ${c.label}  (count=${c.count}, severity=${Math.round(c.severityAbs*100)}%)
+Phrases: ${c.phrases.slice(0,6).join(", ")}
+Examples:
+${examples}`;
+  }).join("\n\n");
+
+  return `You are a product-market analyst. Given complaint clusters from reviews, do three things:
+1) Summarize the top pain themes (bullet list, concrete).
+2) Propose 3–5 product angles or fixes with short rationale.
+3) Flag any safety or compliance risks if present.
+
+Clusters:
+${top}
+
+Output format:
+- Themes: …
+- Angles: …
+- Risks: …`;
+}
+
+async function runAIAnalysis() {
+  const $model = document.getElementById("ai-model");
+  const model = $model.value;
+  const $status = document.getElementById("ai-status");
+
+  if (!OLLAMA_BASE) {
+    $status.textContent = "Ollama not connected.";
+    return;
+  }
+  if (!LAST_CLUSTERS.length) {
+    $status.textContent = "No clusters yet. Click ‘Load latest data’ first.";
+    return;
+  }
+
+  const prompt = buildPromptFromClusters(LAST_CLUSTERS);
+
+  $status.textContent = `Running ${model}…`;
+  const r = await fetch(OLLAMA_BASE + "/api/generate", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      model,
+      prompt,
+      stream: false,         // one-shot JSON, easier in browser
+      options: { temperature: 0.3 }
+    })
+  });
+
+  if (!r.ok) {
+    const txt = await r.text();
+    $status.textContent = `Ollama error ${r.status}: ${txt.slice(0,180)}`;
+    return;
+  }
+  const data = await r.json(); // { response: "...", ... }
+  showAIResult(data.response || "(empty)");
+
+  // stash a copy in memory for “Save result”
+  window.__aiLast = {
+    model,
+    generated_at: new Date().toISOString(),
+    result: data.response || "",
+    clusters_used: LAST_CLUSTERS.map(c => ({
+      label: c.label, count: c.count, severity: c.severityAbs,
+      phrases: c.phrases.slice(0,6), examples: [...c.examples].slice(0,2)
+    }))
+  };
+  $status.textContent = `AI analysis complete with ${model}.`;
+}
+
+function showAIResult(text) {
+  const box = document.getElementById("ai-result");
+  box.style.display = "block";
+  box.textContent = text;
+}
+
+function saveAIResult() {
+  const payload = window.__aiLast || { generated_at: new Date().toISOString(), result: "" };
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "ai_latest.json";           // Upload this to docs/data/ to share across devices
+  a.click();
+}
+
+// ==== wire buttons (call this once on load) ====
+async function initAI() {
+  document.getElementById("ai-run").addEventListener("click", runAIAnalysis);
+  document.getElementById("ai-save").addEventListener("click", saveAIResult);
+  await detectOllamaAndPopulate();
+}
+  
 function isLikelyProblem(text){
   const t = norm(text);
   if (t.length < 25) return false;
@@ -291,6 +448,17 @@ s("load").addEventListener("click", async ()=>{
     s("status").textContent = "Error: "+e.message;
   }
 });
+
+// Keep a copy of clusters for the AI block
+const _renderOrig = render;
+render = function(clusters){
+  LAST_CLUSTERS = clusters; // store for AI
+  _renderOrig(clusters);
+};
+
+// Kick off Ollama detection on page load
+initAI();
+
 </script>
 
 </body>
