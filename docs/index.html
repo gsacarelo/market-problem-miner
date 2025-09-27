@@ -47,10 +47,23 @@
 const stop = new Set(("a,about,after,again,all,also,am,an,and,any,are,as,at,be,been,before,being,between,both,but,by,can,could,did,do,does,doing,down,during,each,even,few,for,from,further,had,has,have,having,he,her,here,hers,herself,him,himself,his,how,i,if,in,into,is,it,its,itself,just,me,more,most,my,myself,no,nor,not,now,of,off,on,once,only,or,other,our,ours,ourselves,out,over,own,same,she,should,so,some,such,than,that,the,their,theirs,them,themselves,then,there,these,they,this,those,through,to,too,under,until,up,very,was,we,were,what,when,where,which,while,who,whom,why,with,you,your,yours,yourself,yourselves").split(","));
 const s = (id)=>document.getElementById(id);
 const norm = t => (t||"").toLowerCase().replace(/https?:\/\/\S+/g," ").replace(/[^\p{L}\p{N}\s]/gu," ").replace(/\s+/g," ").trim();
-const toks = t => norm(t).split(" ").filter(w=>w && !stop.has(w));
+const toks = t => norm(t).split(" ").filter(w=>w && !stop.has(w) && w.length >= 2 && !/^[\d]+$/.test(w));
 function ngrams(arr,n){const out=[];for(let i=0;i<=arr.length-n;i++) out.push(arr.slice(i,i+n).join(" "));return out;}
 function jaccard(a,b){const A=new Set(a.split(" ")),B=new Set(b.split(" "));let inter=0;for(const x of A) if(B.has(x)) inter++; const uni=A.size+B.size-inter;return uni?inter/uni:0;}
 async function fetchJSON(p){const r=await fetch(p,{cache:"no-store"});if(!r.ok) throw new Error(p+" "+r.status);return r.json();}
+
+// Front-end relevance filter (keeps likely product complaints)
+const NEG_HINTS = ["leak","leaks","drip","spill","spills","smell","odor","stinks","hard","difficult","impossible","pain","noisy","loud","heavy","bulky","broken","broke","fragile","flimsy","cheap","slow","refund","return","bad","worst","rust","mold","crack","stain","dirty","clean"];
+const PROD_HINTS = ["bought","buy","using","works","doesn't","doesnt","stopped","after","week","month","review","problem","issue","quality","size","fit","seal","cap","lid","battery","charge","clean"];
+
+function isLikelyProblem(text){
+  const t = norm(text);
+  if (t.length < 25) return false;
+  // must have at least one negative hint AND one product context word
+  const neg = NEG_HINTS.some(w => t.includes(w));
+  const prod = PROD_HINTS.some(w => t.includes(w));
+  return neg && prod;
+}
 
 // Tiny English sentiment lexicon (negatives weigh more for "severity")
 const sentimentLex = {
@@ -82,6 +95,16 @@ async function loadData(){
     items = items.concat(j.items||[]);
   }
   s("status").textContent=`Loaded ${items.length} comments`;
+  // De-dup by normalized text AND keep only problem-like comments
+  const seen = new Set();
+  items = items.filter(it => {
+    const key = norm(it.text);
+    if (!isLikelyProblem(it.text)) return false; // relevance filter
+    if (seen.has(key)) return false;             // de-dup
+    seen.add(key);
+    return true;
+  });
+
   return items;
 }
 
@@ -98,6 +121,13 @@ function heuristicViability(phrases){
   return Math.max(0.6, Math.min(1.0, v));
 }
 
+function isValidGram(g){
+  // reject grams that are mostly numbers or have only very short tokens
+  const parts = g.split(" ");
+  const longTokens = parts.filter(w => w.length >= 3 && !/^\d+$/.test(w));
+  return longTokens.length > 0;
+}
+
 function mine(items){
   const NG = parseInt(s("ng").value,10);
   const MIN = parseInt(s("minc").value,10);
@@ -111,6 +141,7 @@ function mine(items){
     const sent = sentimentScore(it.text);
     for(const g of grams){
       if(!g) continue;
+      if (!isValidGram(g)) continue;
       let o = counts.get(g);
       if(!o) o = {count:0, examples:[], sentSum:0};
       o.count++;
