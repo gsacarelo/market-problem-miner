@@ -1,6 +1,19 @@
 {
   "source": "trends",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2025-09-30T06:38:45.833940Z",
-  "items": []
+  "fetched_at": "2025-09-30T08:35:34.609842Z",
+  "items": [
+    {
+      "id": "hydration-bottles-problems:iot:smart bottle broke",
+      "text": "TRENDS: interest over time average (14d) for 'smart bottle broke' is 0.0",
+      "timestamp": "2025-09-30T08:35:33.538716Z",
+      "lang": "en"
+    },
+    {
+      "id": "hydration-bottles-problems:iot:water bottle hard to clean",
+      "text": "TRENDS: interest over time average (14d) for 'water bottle hard to clean' is 0.4",
+      "timestamp": "2025-09-30T08:35:34.449912Z",
+      "lang": "en"
+    }
+  ]
 }
