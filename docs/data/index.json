@@ -1,7 +1,7 @@
 {
   "latest": {
-    "portable-anxiety-relief": "youtube_portable-anxiety-relief_2025-10-04.json",
-    "hydration-bottles-problems": "youtube_hydration-bottles-problems_2025-10-04.json"
+    "portable-anxiety-relief": "youtube_portable-anxiety-relief_2025-10-05.json",
+    "hydration-bottles-problems": "youtube_hydration-bottles-problems_2025-10-05.json"
   },
   "files": [
     "youtube_portable-anxiety-relief_2025-09-26.json",
@@ -37,6 +37,10 @@
     "cpsc_portable-anxiety-relief_2025-10-04.json",
     "cpsc_hydration-bottles-problems_2025-10-04.json",
     "youtube_portable-anxiety-relief_2025-10-04.json",
-    "youtube_hydration-bottles-problems_2025-10-04.json"
+    "youtube_hydration-bottles-problems_2025-10-04.json",
+    "cpsc_portable-anxiety-relief_2025-10-05.json",
+    "cpsc_hydration-bottles-problems_2025-10-05.json",
+    "youtube_portable-anxiety-relief_2025-10-05.json",
+    "youtube_hydration-bottles-problems_2025-10-05.json"
   ]
 }
