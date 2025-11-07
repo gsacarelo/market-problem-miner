@@ -1,8 +1,35 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2025-11-07T03:16:15.111Z",
+  "fetched_at": "2025-11-07T04:29:05.809Z",
   "items": [
+    {
+      "id": 10468,
+      "text": "F&F Fine Wines Recalls Kirkland Signature Valdobbiadene Prosecco DOCG Bottles sold by Costco Due to Laceration Hazard — This recall involves certain glass bottles of Kirkland Signature Valdobbiadene Prosecco DOCG. The UPC is 196633883742 and the Costco Item Number is 1879870. The product was sold in a green bottle with purple foil on the top and a purple label with the words \"Kirkland Signature Valdobbiadene Prosecco Superiore DOCG\".",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Kirkland Signature Valdobbiadene Prosecco DOCG bottles"
+    },
+    {
+      "id": 10469,
+      "text": "F&F Fine Wines Recalls Kirkland Signature Valdobbiadene Prosecco Entrapment or Suffocation; Violates Mandatory Standards for Mattresses; Sold on Amazon by Mengna Criblike Mattresses Recalled Due to Risk of Serious Injury or Death from Entrapment — This recall involves Criblike aftermarket play yard and non-full sized crib mattresses. The Criblike Pack and Play mattresses, models XCD-001 and XCD-002, come in white and are approximately 38 inches by 26 inches. The Criblike Mini-crib mattresses, model MNCL-001, come in white and are approximately 38 inches by 24 inches. \"Criblike\" and the model number are printed on labels located on the end of the product.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Criblike aftermarket play yard and non-full sized crib mattresses"
+    },
+    {
+      "id": 10467,
+      "text": "Peloton Recalls Original Series Bike+ Exercise Bikes Due to Fall and Injury Hazards — This recall involves Peloton Original Series Bike+ units, with model number PL02 and serial numbers beginning with the letter \"T\". The bike measures 4 ft. long by 2 ft. wide and has an adjustable seat and handlebar. The bike's serial number is located inside the front fork, behind the front fork, or behind the flywheel. Additional information to help locate your Bike+ serial number is available at https://www.onepeloton.com/history-summary.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Peloton Original Series Bike+ Model PL02"
+    },
     {
       "id": 10461,
       "text": "5-in-1 Convertible High Chairs Recalled Due to Risk of Serious Injury or Death from Fall and Entrapment Hazards; Violates Mandatory Standard for High Chairs; Imported by Harppa — This recall involves Harppa branded 5-in-1 convertible high chairs (Model BHC001). Only high chairs with \"Model Number BHC001\" and \"Production Batch Number 202408\" printed on a label on the back of the chair are included in the recall. The high chairs have a plastic seat frame, metal legs, a tray, cushioned seat insert and a footrest. The high chair converts into a toddler arm chair, baby dining chair, and baby rocking chair. They were sold in green, pink and gray.",

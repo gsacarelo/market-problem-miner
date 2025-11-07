@@ -1,6 +1,13 @@
 {
   "source": "trends",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2025-11-07T03:17:34.641714Z",
-  "items": []
+  "fetched_at": "2025-11-07T04:30:26.549292Z",
+  "items": [
+    {
+      "id": "hydration-bottles-problems:iot:bottle smell problem",
+      "text": "TRENDS: interest over time average (14d) for 'bottle smell problem' is 0.0",
+      "timestamp": "2025-11-07T04:30:23.968201Z",
+      "lang": "en"
+    }
+  ]
 }
