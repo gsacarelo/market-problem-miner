@@ -1,8 +1,188 @@
 {
   "source": "cpsc",
-  "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2025-10-31T22:23:26.105Z",
+  "topic_id": "hydration-bottles-problems",
+  "fetched_at": "2025-11-14T01:59:31.954Z",
   "items": [
+    {
+      "id": 10484,
+      "text": "Belkin Recalls Portable Power Banks and Wireless Charging Stands Due to Fire and Burn Hazards — This recall involves charging stands with model number MMA008 and power banks with model numbers BPB002 and PB0003. Model number \"MMA008\" is printed on the bottom of the charging stand. Serial numbers (14 digits) starting with \"57X\" are included in this recall and are also printed on the bottom of the charging stand. Model number \"BPB002\" is printed on the back top of the power bank. Serial numbers (14 digits) starting with \"35S\" are included in this recall and are also printed on the back of the power bank. Model number \"PB0003\" is printed on the back of the power bank. All serial numbers are included in this recall. Both the charging stands and BPB002 power banks were sold in black. The PB0003 power banks were sold in black or white.",
+      "timestamp": "2025-11-13T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Portable Power Banks and Wireless Charging Stands"
+    },
+    {
+      "id": 10480,
+      "text": "Bettina Doll Sets Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys; Sold on Amazon by Shantou Chenghai Xingzigu Toy Industry — This recall involves Bettina Doll Set with Magic Light Unicorn. The Magic Light Unicorn is white with multi-colored hair and a pink saddle, and the doll has a pink dress. The unicorn is 10 inches long and 9.5 inches tall, and the doll is 12 inches tall. There is a pink toy hairbrush included with the set.",
+      "timestamp": "2025-11-13T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Bettina Doll Set with Magic Light Unicorn"
+    },
+    {
+      "id": 10483,
+      "text": "Great Lakes Wholesale International Recalls Select Battery Packs Due to Battery Ingestion; Violates Federal Statute for Child-Resistant Packaging of Button Cell and Coin Batteries — This recall involves Great Lakes Select Battery Packs, each of which displays the name \"Great Lakes Select\" on the back of the packaging, and the item number on the front of the packaging Item Number Description Battery Type Item Price Range 263 Pack of six (6) CR2032 $0.65 to $1.10 264 Pack of nine (9) CR2016/ CR2032/ CR2025 $1.10 to $1.50 265 Pack of nine (9) CR2032 $0.89 to $1.50 271 Pack of thirty (30) Mixed $0.96 to $1.50 272 Pack of forty (40) Mixed Super Alkaline $1.65 to $2.25 276 Pack of twenty-four (24) LR44/357 Super Alkaline $1.10 to $1.50",
+      "timestamp": "2025-11-13T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Great Lakes Select Button Cell and Coin Batteries"
+    },
+    {
+      "id": 10486,
+      "text": "Tesla Recalls Powerwall 2 AC Battery Power Systems Due to Fire and Burn Hazards; Risk of Serious Injury or Death — This recall involves certain Tesla Powerwall 2 units, fully-integrated AC battery systems used for energy storage for self-consumption, time-based control, and backup power. Model number \"Powerwall 2\" is printed on the nameplate label on the side of the unit.",
+      "timestamp": "2025-11-13T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Certain Tesla Powerwall 2 AC Battery Power System"
+    },
+    {
+      "id": 10482,
+      "text": "Trek Recalls Bicycles with Coaster Brakes and Replacement Rear Wheels Due to Crash Hazard — This recall involves certain Trek and Electra-branded bicycle models with coaster brakes and replacement rear wheels. The bikes were sold in a variety of colors, including red, flamingo pink, dark aquatic, Mulsanne blue, volt yellow, pink frosting, Miami green, lithium gray, viper red, purple abyss, buttercup, pixie blue and blue. To determine if your bicycle or replacement rear wheel is included in this recall, enter your bicycle's serial number in the look-up tool at https://www.trekbikes.com/us/en_US/coasterbrake-recall-inquiry/. The serial number is printed under the bottom bracket between the pedals and starts with the letters, \"WTU.\" Recalled Trek and Electra-Branded Bicycles and Replacement Wheels: Brand Name Model Name Model Year Electra Townie Rental 1 Step Thru 2026 Trek Precaliber 12 2026 Trek Precaliber 16 2024 and 2026 Trek Precaliber 20 2024 and 2026 Electra Sprocket 1 16 2026 Trek Precaliber 12 CB replacement wheel 2026 Trek Precaliber 16 CB replacement wheel 2026 Trek Precaliber 20 CB replacement wheel 2026",
+      "timestamp": "2025-11-13T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Trek and Electra-branded Bicycles with Coaster Brakes and Replacement Rear Wheels with Coaster Brakes"
+    },
+    {
+      "id": 10485,
+      "text": "Zigjoy Sleep Sacks with Feet Recalled Due to Risk of Serious Injury or Death from Burn Hazard; Violates Mandatory Standard for Children's Sleepwear; Sold by Zigjoy-US — This recall involves Zigjoy-branded children's one-piece sleep sacks with feet, in blue with an excavator print or pink with a bunny print. The sleep sacks were sold in sizes S, M, and L. \"100% cotton\" and the garment size are printed on a sewn-in side seam label.",
+      "timestamp": "2025-11-13T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Zigjoy Toddler Sleep Sacks with Feet"
+    },
+    {
+      "id": 10481,
+      "text": "Zippee Silicone Activity Toys Recalled Due to Risk of Serious Injury or Death from Choking; Violates Mandatory Standard for Toys; Imported by Mobi Games — This recall involves the Zippee children's activity silicone toy. The body of the toy is a teal flexible silicone cylinder with holes where six different color silicone strings can be pulled. Five of the six silicone strings contain a spherical ball attached to the end of the string. The recalled toy may have the date codes in MMDDYY format ranging from 030620 to 110823 marked inside the toy's silicone cylinder body.",
+      "timestamp": "2025-11-13T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Zippee Activity Toys"
+    },
+    {
+      "id": 10476,
+      "text": "Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed R Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from ails; Sold on Amazon by Neaude — This recall involves Neaude-branded adult portable bed rails model BR0221SL001, sold for use on adult beds. The recalled bed rails were sold in a silver top rail with silver support columns, blue accents, red handle button and a faux wood top rail with silver support columns in a wave design, white accents and a red handle button. The bed rails measure about 37 inches wide and about 14 inches high and can fold or unfold by pressing the red handle button.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Neaude Adult Portable Bed Rails"
+    },
+    {
+      "id": 10478,
+      "text": "Astemrey Recalls Y'all Can DIY Liquid Bioethanol Fireplace Fuel Containers Due to Risk of Serious Injury or Death from Flash Fire; Violates Mandatory Standard for Portable Fuel Containers — This recall involves Y'all Can DIY bioethanol fireplace liquid fuel containers. The fireplace fuel comes in a clear bottle with a black top and a white and black label with orange and white lettering. The fireplace fuels have the brand name and product name in white and orange along with \"No Soot\", \"No Ash\", and \"Clean Burning\" printed on a label on the front and hazard warnings printed on the side.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Y'all Can DIY Liquid Bioethanol Fireplace Fuel Containers"
+    },
+    {
+      "id": 10468,
+      "text": "F&F Fine Wines Recalls Kirkland Signature Valdobbiadene Prosecco DOCG Bottles sold by Costco Due to Laceration Hazard — This recall involves certain glass bottles of Kirkland Signature Valdobbiadene Prosecco DOCG. The UPC is 196633883742 and the Costco Item Number is 1879870. The product was sold in a green bottle with purple foil on the top and a purple label with the words \"Kirkland Signature Valdobbiadene Prosecco Superiore DOCG\".",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Kirkland Signature Valdobbiadene Prosecco DOCG bottles"
+    },
+    {
+      "id": 10469,
+      "text": "F&F Fine Wines Recalls Kirkland Signature Valdobbiadene Prosecco Entrapment or Suffocation; Violates Mandatory Standards for Mattresses; Sold on Amazon by Mengna Criblike Mattresses Recalled Due to Risk of Serious Injury or Death from Entrapment — This recall involves Criblike aftermarket play yard and non-full sized crib mattresses. The Criblike Pack and Play mattresses, models XCD-001 and XCD-002, come in white and are approximately 38 inches by 26 inches. The Criblike Mini-crib mattresses, model MNCL-001, come in white and are approximately 38 inches by 24 inches. \"Criblike\" and the model number are printed on labels located on the end of the product.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Criblike aftermarket play yard and non-full sized crib mattresses"
+    },
+    {
+      "id": 10475,
+      "text": "Inkari Plush Alpaca Toys Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violate Small Parts Ban; Imported by Inkari — This recall involves five collections of Inkari's plush alpaca toys: naturals, baristas, rainbow, monsterfluffs, and limited edition. The recalled wool stuffed toys were sold in white, ivory, light brown, dark brown, black, pink, purple, light blue, and mixed colors, and in four different sizes: mini (about 6 inches tall), small (about 9 inches tall), medium (about 12 inches tall) and large (about 19 inches tall). \"INKARI\" is printed on a label attached to the underside of the toy.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Inkari Plush Alpaca Toys"
+    },
+    {
+      "id": 10477,
+      "text": "Lezyne USA Recalls Bicycle Floor Pumps Due to Serious Injury Hazard — This recall involves two models of Lezyne bicycle floor pumps; the Pressure Over Drive (with analog gauge) and the Digital Pressure Over Drive (with digital gauge). The black tubeless floor pumps are made of steel and aluminum with a natural wood-colored handle and have a nylon-reinforced braided hose. The Lezyne logo is printed on the pump's side. Only floor pumps with a bleed valve on the front of the base are included in this recall.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Lezyne Pressure Over Drive Bicycle Floor Pumps"
+    },
+    {
+      "id": 10471,
+      "text": "Napei Infant Bath Tubs Recalled Due to Risk of Serious Injury or Death from Ingestion Hazard; Violates Mandatory Standard for Consumer Products with Button Cell Batteries; Sold on Amazon by Sefon Store — This recall involves Napei collapsible infant bath tubs made of plastic with two detachable legs. The infant bath tubs were sold in a white/gray color combination, with a removable star print cushion insert, a built-in thermometer, and a blue rubber star-shaped drain plug. \"Model No: Baby Bathtub - 0823\" can be found on a label on the bottom of the bath tub.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Napei Collapsible Infant Bath Tubs"
+    },
+    {
+      "id": 10467,
+      "text": "Peloton Recalls Original Series Bike+ Exercise Bikes Due to Fall and Injury Hazards — This recall involves Peloton Original Series Bike+ units, with model number PL02 and serial numbers beginning with the letter \"T\". The bike measures 4 ft. long by 2 ft. wide and has an adjustable seat and handlebar. The bike's serial number is located inside the front fork, behind the front fork, or behind the flywheel. Additional information to help locate your Bike+ serial number is available at https://www.onepeloton.com/history-summary.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Peloton Original Series Bike+ Model PL02"
+    },
+    {
+      "id": 10474,
+      "text": "Sanven Technology Recalls Vevor Baby Swings Due to Risk of Serious Injury from Suffocation Hazard; Violates Mandatory Standard for Infant Sleep Products and Inclined Sleepers Ban — This recall involves Vevor Baby Swings. The recalled swings are white/gray and black/gray and the base structure includes the \"VEVOR\" trademark. The swings are labeled on the bottom or the back of the base with \"Multi-Function Electric Swing\" and the model number. The white/gray swings with a white base have model number BB501K; the white/gray swings with the gray base have model number BB702A; and the black/gray swings with a black base have model number BB005.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Vevor Baby Swings"
+    },
+    {
+      "id": 10472,
+      "text": "STIHL Recalls BR 800 Backpack Blowers Due to Laceration Hazard — This recall involves the fan wheel of the STIHL BR 800 Magnum, models X and C-E, a backpack blower powered by a combustion engine. The backpack blower is gray and orange. \"STIHL,\" \"BR 800,\" and \"X\" or \"C-E\" are printed on the rear of the blower. The recalled blower's serial number is located on a label on the blower tube. Only backpack blowers with serial numbers ranging from 546515117 to 547916107 are included in the recall.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "STIHL BR 800 Backpack Blower"
+    },
+    {
+      "id": 10470,
+      "text": "Three-Wheeled Children's Scooters Recalled Due to Fall Hazard; Imported by Konges Sløjd — This recall involves a three-wheeled child's scooter with a foot brake. It is beige and has a T-shaped handle. The aluminum frame scooters were sold as two models. Model number KS101544-P00005 features a cherry print and model number KS101544-P00038 features a lemon print. Both models have batch number 062024, which can be found on the information sticker located on the bottom of the scooter.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Three-Wheeled Children's Scooter with Foot Brake"
+    },
+    {
+      "id": 10473,
+      "text": "Umeyda Nightgowns Recalled Due to Risk of Serious Injury or Death from Burns; Violate Mandatory Standards for Children's Sleepwear; Sold on Amazon by Umeyda Company — This recall involves Umeyda children's 100% cotton short-sleeve nightgowns. The nightgowns were sold in black, purple, mint green, baby pink, red, baby pink stripe, hot pink, dark pink, dark green and blue grey in children's sizes 4-5T, 5-6 years, 7-8 years, 9-10 years, 11-12 years, and 13-14 years. The recalled nightgowns have a pocket and buttons down the dress front. The batch number, \"Distributor: StreamBytes LLC\" and \"Made in Xing Tai He Bei China\" are printed on a sewn-in side-seam label.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Umeyda Nightgowns"
+    },
+    {
+      "id": 10479,
+      "text": "WYBITNY Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment; Violates Mandatory Standard for Children's Portable Bed Rails; Sold on Amazon by WYBITNY — This recall involves WYBITNY-branded children's bed rails. The portable bed rails have a white metal frame and dark gray fabric cushions with foam filling. The brand and \"BGRT003\" are printed on a label located on the fabric cushions.",
+      "timestamp": "2025-11-06T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Children's WYBITNY Bed Rails"
+    },
     {
       "id": 10461,
       "text": "5-in-1 Convertible High Chairs Recalled Due to Risk of Serious Injury or Death from Fall and Entrapment Hazards; Violates Mandatory Standard for High Chairs; Imported by Harppa — This recall involves Harppa branded 5-in-1 convertible high chairs (Model BHC001). Only high chairs with \"Model Number BHC001\" and \"Production Batch Number 202408\" printed on a label on the back of the chair are included in the recall. The high chairs have a plastic seat frame, metal legs, a tray, cushioned seat insert and a footrest. The high chair converts into a toddler arm chair, baby dining chair, and baby rocking chair. They were sold in green, pink and gray.",
@@ -326,141 +506,6 @@
       "hazard": null,
       "remedy": null,
       "product": "Model Year 2021-2025 Yamaha Golf Car Vehicles"
-    },
-    {
-      "id": 10427,
-      "text": "Bellabu Bear Recalls Children's Robes Due to Burn Hazard; Violates Mandatory Standards for Children's Sleepwear — This recall involves Bellabu Bear's collection of bamboo sherpa children's robes. The recalled robes are long-sleeved and were sold in the following prints: PAW Patrol, Garfield, Minecraft, Minions, Batman, Justice League, Wonder Woman, Blaze and the Monster Machines, Trolls, Dora, Nutcracker, hearts, Santa, stripes, bows and dragons. The robes have sherpa lining, two front pockets and a matching belt and were sold in children's sizes S/M and M/L. \"Bellabu Bear,\" \"BB-NW12109\" and the size are printed on the robe's neck label.",
-      "timestamp": "2025-10-09T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Bellabu Bear Children's Robes"
-    },
-    {
-      "id": 10421,
-      "text": "Calico Brands Recalls Scripto Premium Torches Due to Risk of Injury or Death from Fires and Burns; Violates Mandatory Standard for Multipurpose Lighters — This recall involves the Scripto® Premium Torch which has a four-position adjustable metal nozzle, adjustable flame, hands free operation lock, black ergonomic non-slip rubber grip, and a metal base with black velvet on the bottom. The UPC number \"0-70257-52226-6\" is printed on the back of the product box.",
-      "timestamp": "2025-10-09T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Scripto® Premium Torch"
-    },
-    {
-      "id": 10430,
-      "text": "Children's LED Tutu Skirts Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Coin Batteries; Sold on Amazon by Bmrwtg — This recall involves Bmrwtg LED Tutu Skirts. The recalled skirts were sold in pink, purple, yellow, red, blue, green, white and black, and have silver circles and stars that light up. The lights' battery compartment has two CR2032 lithium coin batteries. The skirts were marketed for children ages 2 through 8.",
-      "timestamp": "2025-10-09T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Bmrwtg LED Tutu Skirts"
-    },
-    {
-      "id": 10424,
-      "text": "EcoFlow Technology Recalls Delta Max 2000 Power Stations Due to Risk of Serious Burn Injury and Fire Hazard — This recall involves EcoFlow Delta Max 2000 Model EFD310 Power Stations. The recalled power stations are black and silver, with a rectangular LCD display screen on the front and six electrical outlets on the back. \"ECOFLOW MAX\" is printed on the right side. \"EFD310\" and \"EcoFlow DELTA Max (2000)\" are printed on the nameplate on the underside of the product.",
-      "timestamp": "2025-10-09T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "EcoFlow Delta Max 2000 Power Stations"
-    },
-    {
-      "id": 10425,
-      "text": "ESR HaloLock Wireless Power Banks Recall Expanded to Include Additional Model Due to Risk of Serious Burn Injury and Fire Hazard Due to Fire and Burn Hazards; Distributed by Waymeet — This recall expansion includes ESR HaloLock wireless power banks with model number 2G505, in addition to models 2G520, 2G505B and 2G512B, which were previously recalled. \"ESR\" is printed on the back and the model numbers are printed on the right side of the pocket-size power banks. Model 2G505 was sold in black and white. Models 2G520, 2G505B and 2G512B were sold in dark blue, light blue, gray, white and black. All recalled models have five circular LED display lights on one side.",
-      "timestamp": "2025-10-09T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "ESR HaloLock Wireless Power Banks"
-    },
-    {
-      "id": 10426,
-      "text": "Generic Magnetic Ball Sets Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violates Mandatory Standard for Toys; Sold on Amazon by Ritons — This recall involves Generic magnetic ball sets. This recall involves sets of 1,000 multi-colored 3 mm (0.1 inch) magnetic balls that are separable and have a strong magnetic flux. The magnets are encased in clear, plastic packaging and have \"1000 Magnets\" and \"3MM\" printed on the front of the packaging.",
-      "timestamp": "2025-10-09T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Generic Magnetic Balls 1000pcs"
-    },
-    {
-      "id": 10423,
-      "text": "Living Glow Portable Waist Fans Recalled Due to Fire Hazard; Manufactured by Guangzhou Jiguang Lighting; Sold by HSN — The recall includes the Living Glow five-in-one portable waist fan (model number CP-WFLED01). The model number is found on the label on the back of the fan. The recalled waist fan features five fan speeds, a three-mode flashlight and could be used as a power bank. The recalled fans were sold in gray, white, aqua, coral, red, and sage green. They feature a metal clip for attaching to a belt and a strap for wearing around the neck. The fans measure about 3.6 inches wide by 4 inches tall.",
-      "timestamp": "2025-10-09T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Living Glow portable waist fan"
-    },
-    {
-      "id": 10428,
-      "text": "Mom Genius Recalls Retractable Safety Gates Due to Risk of Serious Injury or Death from Entrapment; Violates Mandatory Standard for Gates and Enclosures — This recall involves Mom Genius Retractable Safety Gates. The safety gate comes in black and gray and has a retractable mesh screen in between metal frames. The gates measure about 33 inches high, with a retractable width up to 118 inches. \"Retractable Safety Gate\" and model number \"SH.20.006B02\" are printed on a white label located on the side of the gate.",
-      "timestamp": "2025-10-09T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Mom Genius Retractable Safety Gates"
-    },
-    {
-      "id": 10422,
-      "text": "Tempo USA Recalls Ambiano Electric Pressure Cookers Due to Serious Burn Hazard, Multiple Burn Injuries Reported; Sold at ALDI — This recall involves all Ambiano electric pressure cookers with model numbers 93550 (KY-318B), 96775 (KY-318A), and 98527 (6L-PC). The electric pressure cookers and inner cooker pots are either six-quart or eight-quart capacity. The brand name Ambiano appears on the front of each unit and on its permanent on-product label. The model number of the recalled pressure cookers is also printed on the permanent product label on the bottom of the cooker.",
-      "timestamp": "2025-10-09T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Ambiano Electric Pressure Cookers"
-    },
-    {
-      "id": 10429,
-      "text": "YGJT Baby Loungers Recalled Due to Risk of Serious Injury or Death from Entrapment and Fall; Violates Mandatory Standard for Infant Sleep Products; Sold on SHEIN by YGJT Local Warehouse — This recall involves YGJT baby loungers. The recalled baby loungers are made of a foam sleeping pad and padded bumpers with a cloth cover. The baby loungers are white and light blue with rainbows and bears on the cover. \"YGJT\" is printed on an attached label on the outside of the baby lounger's cover.",
-      "timestamp": "2025-10-09T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "YGJT Baby Loungers"
-    },
-    {
-      "id": 10418,
-      "text": "Blossom Recalls Children's Loungewear Due to Serious Risk of Injury or Death from Burns; Violates Mandatory Standard for Children's Sleepwear — This recall involves Blossom-branded children's two-piece loungewear sets. The recalled loungewear sets consist of a short-sleeved or long-sleeved, button-up shirt with a front pocket and matching shorts or pants. The short-sleeved sets were sold in white, navy, light blue, light pink and lilac; and in four designs: fireworks, multi-stripes, tulips, and sailboats. The long-sleeved sets come in two designs, letter to Santa and Santa paws. The loungewear sets were sold in children's sizes 12M through 12Y. \"Blossom\" and the size are printed on the sewn-in neck label.",
-      "timestamp": "2025-10-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Blossom Children's Loungewear sets"
-    },
-    {
-      "id": 10420,
-      "text": "Dissolved Oxygen Test Kits Recalled Due to Risk of Serious Injury or Death from Poisoning to Young Children; Violates Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by Almpal — This recall involves Almpal dissolved oxygen test kits. The test kits come in a cream-colored box bearing a white label with \"Dissolved Oxygen Test Kit\" and the manufacture date, batch number, and expiration date printed on it.",
-      "timestamp": "2025-10-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Dissolved Oxygen Test Kits"
-    },
-    {
-      "id": 10419,
-      "text": "Gunaito 10-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units; Sold on Walmart.com by Gunaito — This recall involves Gunaito 10-drawer dressers in brown and white. The recalled dressers have a metal frame, a wooden top, 10 collapsing fabric drawers of different sizes with pull knobs, and four side-pockets. The dressers measure about 39 inches by 39 inches by 12 inches and weigh about 30 pounds. \"HD006BN-SLCD\" or \"HD006WH-SLCD\" is printed on the product packaging.",
-      "timestamp": "2025-10-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Gunaito 10-Drawer Dressers"
-    },
-    {
-      "id": 10416,
-      "text": "In Motion Design Recalls Evermore Surprise Eggs Due to Risk of Serious Injury; Violates Federal Lead Content Ban — This recall involves Evermore Surprise Eggs with yellow, pink or green wrap. The Surprise Eggs are gold and contain seven different toys including a toy airplane.",
-      "timestamp": "2025-10-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Evermore Surprise Eggs"
-    },
-    {
-      "id": 10417,
-      "text": "Zyntony Recalls Kogalla Power Banks Due to Fire and Burn Hazards; Sold on Kogalla.com — This recall involves Kogalla-branded power banks, models BP125, BatPak 2F and BatPak 3F. The recalled rechargeable USB power banks have 6,700mAh, 13,400mAh or 20,100mAh lithium-ion batteries and were sold separately and included with Kogalla trail lights. The Kogalla logo is printed on the front of the power banks. The model number appears on the back of the power banks. Power banks model BP125 have a black USB-A jack and models BatPak 2F and 3F have orange USB-A jacks. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact them ahead of time and ask whether it accepts recalled lithium-ion batteries. If they don’t, contact your municipality for further guidance.",
-      "timestamp": "2025-10-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "BP125, BatPak 2F and BatPak 3F Power Banks"
     }
   ]
 }
