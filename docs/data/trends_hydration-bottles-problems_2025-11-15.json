@@ -1,12 +1,18 @@
 {
   "source": "trends",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2025-11-15T01:56:23.559977Z",
+  "fetched_at": "2025-11-15T03:13:43.056811Z",
   "items": [
+    {
+      "id": "hydration-bottles-problems:iot:bottle smell problem",
+      "text": "TRENDS: interest over time average (14d) for 'bottle smell problem' is 0.0",
+      "timestamp": "2025-11-15T03:13:41.066487Z",
+      "lang": "en"
+    },
     {
       "id": "hydration-bottles-problems:iot:smart bottle broke",
       "text": "TRENDS: interest over time average (14d) for 'smart bottle broke' is 0.0",
-      "timestamp": "2025-11-15T01:56:22.673626Z",
+      "timestamp": "2025-11-15T03:13:41.971568Z",
       "lang": "en"
     }
   ]
