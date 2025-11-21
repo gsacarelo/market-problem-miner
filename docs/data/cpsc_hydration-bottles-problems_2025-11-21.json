@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2025-11-21T01:58:30.671Z",
+  "fetched_at": "2025-11-21T03:16:55.088Z",
   "items": [
     {
       "id": 10484,
@@ -407,6 +407,15 @@
       "hazard": null,
       "remedy": null,
       "product": "Scepter Gas and Oil Combination Fuel Containers"
+    },
+    {
+      "id": 10487,
+      "text": "AliExpress Recalls Convertible Strollers Due to Risk of Serious Injury or Death from Fall Hazard; Violates Mandatory Standard for Strollers — This recall involves a stroller that converts into a hand-held infant carrier. The product was sold in pink, light pink, blue, dark blue, green, red, teal, gray and black and comes with a gray or black infant insert. The two larger wheels feature yellow accents. There are no markings on the product.",
+      "timestamp": "2025-11-20T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "4-in-1 Baby Safety Cart Carriage"
     }
   ]
 }
