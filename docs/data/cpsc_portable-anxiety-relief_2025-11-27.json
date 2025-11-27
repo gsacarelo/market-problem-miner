@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2025-11-27T01:57:09.258Z",
+  "fetched_at": "2025-11-27T03:17:23.359Z",
   "items": [
     {
       "id": 10498,
@@ -11,6 +11,15 @@
       "hazard": null,
       "remedy": null,
       "product": "Alinux Baby Loungers"
+    },
+    {
+      "id": 10504,
+      "text": "Convertible High Chairs Recalled Due to Risk of Serious Injury or Death from Fall and Entrapment Hazards; Violate Mandatory Standard for High Chairs; Sold on Amazon by Rotinyard — This recall involves baby high chairs sold in beige or pink with a matching removable seat cushion, detachable tray, and footrest. The high chairs convert into an infant swing and are reclinable and collapsible. \"Product No.: HA-028\" is printed on a tracking label on the seatback.",
+      "timestamp": "2025-11-26T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Baby High Chairs (convertible)"
     },
     {
       "id": 10496,
@@ -47,6 +56,51 @@
       "hazard": null,
       "remedy": null,
       "product": "Macardac Baby Loungers"
+    },
+    {
+      "id": 10506,
+      "text": "McLee Creations Recalls MyOnlyStyler Root Booster Hair Dryers Due to Risk of Serious Injury or Death from Electrocution and Shock Hazards — This recall involves MyOnlyStyler Root Booster Hair Dryers. The hair dryer was sold in white with black bristles and has \"MY ONLY STYLER\" printed on the handle. Model number \"MOS-22\" is printed on the back of the handle. The hair dryer measures 12 inches long by 1.75 inches wide.",
+      "timestamp": "2025-11-26T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "MyOnlyStyler Root Booster Hair Dryers"
+    },
+    {
+      "id": 10505,
+      "text": "Outdoor Master Children's and Youth Helmets Recalled Due to Risk of Serious Injury or Death from Head Injury; Violates Mandatory Standard for Bicycle Helmets; Sold and Imported by Outdoor Master — This recall involves two models of Outdoor Master-branded children's and youth bicycle/multi-purpose helmets. Helmet model OM-TD BIKE is blue with a dinosaur print, has black padding, black straps, a black buckle and a black plastic knob at the back of the helmet for adjusting the fitting; and was sold in children's size small (S), fitting a head circumference from 48 to 52 cm (18.9 to 20.5 inches). \"OM-TD BIKE\" and \"05/2024\" (the manufacture date) is printed on a label inside the helmet, and the brand is printed on the back of the helmet. Helmet model OM-KSKB is deep green with black padding, yellow straps, a black buckle and a black plastic knob at the back of the helmet for adjusting the fitting; and was sold in youth size small (S), fitting a head circumference from 46 to 52 cm (18.1 to 20.5 inches). \"OM-KSKB\" and \"11/2022\" (the manufacture date) is printed on a label inside the helmet and the brand is printed on the front and back of the helmet.",
+      "timestamp": "2025-11-26T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Outdoor Master Children's and Youth Helmets"
+    },
+    {
+      "id": 10503,
+      "text": "Ozark Trail Tabletop 1-Burner Butane Camping Stoves Recalled Due to Serious Burn and Fire Hazards; Imported and Sold by Walmart; Manufactured by China Window Industry Co. — This recall involves Ozark Trail Tabletop 1-Burner Butane Camping Stoves with model number BG2247A1. The model number is printed on a gray label on the inside of the fuel compartment. The camping stoves are dark green with an orange \"Ozark Trail\" logo printed on the front.",
+      "timestamp": "2025-11-26T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Ozark Trail Tabletop 1-Burner Butane Camping Stoves"
+    },
+    {
+      "id": 10502,
+      "text": "Sofoliana and Glotika Baby Loungers Recalled Due to Risk of Serious Injury or Death from Entrapment and Fall Hazards; Violates Mandatory Standard for Infant Sleep Products; Sold on Amazon by Bosen US — This recall involves Sofoliana and Glotika baby loungers. The recalled baby loungers are rectangular in shape and are made of a foam sleeping pad and padded bumpers with a cloth cover. The Sofoliana baby loungers are dark gray with a ribbon tie at the bottom of the lounger. The Glotika baby loungers zip up into a bag with an adjustable strap and came in the following colors: gray-rocket, pink-heart and white-elephant, with the printed design on the inside of the lounger. Neither baby loungers have any markings or labeling.",
+      "timestamp": "2025-11-26T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Sofoliana and Glotika Baby Loungers"
+    },
+    {
+      "id": 10501,
+      "text": "Vivohome Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation Hazards; Violates Mandatory Standard for Adult Portable Bed Rails; Imported by Vivohome — This recall involves Vivohome-branded adult portable bed rails sold for use on adult beds. The recalled bed rails measure about 36.6 inches long, 16.1 inches wide and 15.7 inches in height and have four metallic stand bars with padding, a wooden (model VH1316-WC) or metallic (model VH1316-WH) top bar with a red release button that collapses the bed rail. The model number is printed on the product packaging and the product registration card.",
+      "timestamp": "2025-11-26T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Vivohome Adult Portable Bed Rails"
     },
     {
       "id": 10487,
