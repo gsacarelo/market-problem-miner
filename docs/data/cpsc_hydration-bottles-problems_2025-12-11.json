@@ -1,8 +1,80 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2025-12-11T20:31:00.536Z",
+  "fetched_at": "2025-12-11T22:27:54.070Z",
   "items": [
+    {
+      "id": 10524,
+      "text": "Luyuan Recalls Youth ATVs Due to Risk of Serious Injury or Death from Crash Hazard; Violate Mandatory Standard for All-Terrain Vehicles — This recall involves the X-Pro Eagle 40cc Youth ATV, Model CARTOONS and the FRP Sahara 40cc Youth ATV, Model SHR 40-RED-M. The ATVs come in various colors. Look for \"X PRO\" labels on the sides of the plastic body or \"FRP\" labels on the front small plastic cover as well as the sides of the plastic body.",
+      "timestamp": "2025-12-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "X-Pro Eagle 40cc Youth ATVs and FRP Sahara 40cc Youth ATVs"
+    },
+    {
+      "id": 10518,
+      "text": "Primark Recalls Little Bear 2-Pack Soother Clips Due to Choking and Laceration Hazards — This recall involves the Primark 2-pack Soother Clip - Little Bear. It is a cloth strap with small bears on it and a wooden button to clip on to a child's clothing, designed to hold a pacifier. The product code, 991139699, is printed on the price tag located on the back of the product packaging.",
+      "timestamp": "2025-12-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Little Bear 2-pack Soother Clip"
+    },
+    {
+      "id": 10523,
+      "text": "Sanven Technology Recalls Vevor Ice Crushers Due to Fire Hazard — This recall involves Vevor's ice crushing machines designed for consumer use. The ice crusher has a handle that consumers press down to feed ice into a shoot; the handle activates a cutter within the feed shoot. The products were advertised as Ice Shavers, Ice Crushers, and Snow Cone Makers. The ice crushing machines were all sold under model number BY-300 and BY-300 FS and came in yellow, red, silver and blue. \"Vevor\" and the model number are printed on a label on the top of the product.",
+      "timestamp": "2025-12-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Vevor Ice Crushers"
+    },
+    {
+      "id": 10521,
+      "text": "Sanven Technology Recalls VEVOR Steamers Due to Risk of Serious Injury from Burn Hazard — This recall involves VEVOR Garment Steamers used to remove wrinkles from clothing and textiles. The recalled steamer has an oval-shaped opening for the steam vents and the steamer body is white with \"VEVOR\" and \"TOUGH TOOLS, HALF PRICE\" printed in orange lettering on the side of the product beneath the water reservoir window. There is a red toggle power switch on the handle. \"VEVOR,\" \"Garment Steamer,\" \"FCL-H09,\" and \"Manufacturer: Guangdong ESINO Technology Group Co., Ltd\" are printed on a label on the bottom of the product. The recalled steamer was sold with a silver-colored glove.",
+      "timestamp": "2025-12-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "VEVOR Garment Steamers"
+    },
+    {
+      "id": 10519,
+      "text": "SKCAIHT Children's Costumes Recalled Due to Risk of Injury from Phthalate Exposure; Violates Federal Phthalates Ban; Sold on Amazon by SKCAIHT Direct — This recall involves SKCAIHT-branded Mermaid costumes. The children's recalled costumes consist of a dress and a matching headband. The glittery dress has a blue, purple and pink fabric skirt and a knit purple strapless top with a white starfish and other sea-themed embellishments. The headband has white ears with blue seashells, pink starfish and a mermaid tail. The costumes were sold in children's size XL.",
+      "timestamp": "2025-12-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "SKCAIHT Children's Little Mermaid Costumes"
+    },
+    {
+      "id": 10517,
+      "text": "TREK Recalls Electric Bicycles Due to Fall or Crash Hazard — This recall involves Model Year 2026 Trek-branded Domane+ ALR 5, Domane+ ALR 6 AXS, Checkpoint+ SL 6 and Checkpoint+ SL 7 electric bicycles. The bicycles come in various colors and sizes. The word \"TREK\" is located on the downtube of the frame on the bicycle, and the model's name is printed on the top tube.",
+      "timestamp": "2025-12-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Model Year 2026 Trek-branded Domane+ ALR 5, Domane+ ALR 6 AXS, Checkpoint+ SL 6 and Checkpoint+ SL 7 Electric Bicycles"
+    },
+    {
+      "id": 10520,
+      "text": "Uuoeebb Infant Walkers Recalled Due to Risk of Serious Injury or Death from Fall and Entrapment Hazards; Violate Mandatory Standard for Infant Walkers; Sold on Amazon by BaoD — This recall involves Uuoeebb Infant Walkers. The infant walkers are collapsible with a round base, eight wheels, and seven adjustable height settings. They were sold in gray, black and pink. \"Production Batch: 7654\" is printed on a tracking label located under the seat.",
+      "timestamp": "2025-12-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Uuoeebb Infant Walkers"
+    },
+    {
+      "id": 10522,
+      "text": "YCXXKJ Baby Bath Seats Recalled Due to Risk of Serious Injury or Death to Children from Drowning; Violate Mandatory Standard for Infant Bath Seats; Sold on Amazon by BenTalk — This recall involves YCXXKJ-branded baby bath seats sold in blue, gray, pink, and yellow. The bath seats have two detachable arms that serve as a restraint, four suction cups on the bottom, and three toys; a duck, a turtle, and a whale. \"Model: YD-1958\" is printed on a tracking label located on the back of the bath seat.",
+      "timestamp": "2025-12-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "YCXXKJ Baby Bath Seats"
+    },
     {
       "id": 10516,
       "text": "INIU Recalls Power Banks Due to Fire and Burn Hazards; Sold on Amazon — This recall involves INIU 10,000mAh portable power banks, model BI-B41. The recalled power banks have a black or blue case and the INIU logo and a paw-print LED light are on the front. The model and serial number are printed on the back of the power bank at the bottom. Only portable power banks with serial numbers 000G21, 000H21, 000I21 and 000L21 are included in this recall. Note: Do not throw this recalled lithium-ion battery or device in the trash, in the general recycling stream (e.g., street-level or curbside recycling bins), or in used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
