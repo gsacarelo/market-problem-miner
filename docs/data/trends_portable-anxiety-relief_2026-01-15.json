@@ -1,6 +1,13 @@
 {
   "source": "trends",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-01-15T18:46:52.529379Z",
-  "items": []
+  "fetched_at": "2026-01-15T20:35:00.939972Z",
+  "items": [
+    {
+      "id": "portable-anxiety-relief:iot:calm necklace issues",
+      "text": "TRENDS: interest over time average (14d) for 'calm necklace issues' is 0.0",
+      "timestamp": "2026-01-15T20:35:00.554646Z",
+      "lang": "en"
+    }
+  ]
 }
