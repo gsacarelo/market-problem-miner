@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-01-16T16:38:21.732Z",
+  "fetched_at": "2026-01-16T18:42:27.833Z",
   "items": [
     {
       "id": 10561,
@@ -20,6 +20,15 @@
       "hazard": null,
       "remedy": null,
       "product": "BBWOO Baby Loungers"
+    },
+    {
+      "id": 10566,
+      "text": "Curtis International Expands Recall of Frigidaire-brand Minifridges Due to Fire and Burn Hazards — This recall expansion involves Curtis International 6-can minifridge model EFMIS121. This is in addition to certain minifridges with model numbers EFMIS129, EFMIS137, EFMIS149 and EFMIS175 that were previously recalled. \"Frigidaire\" is printed on the front of the units. The model and serial numbers are on a label on the back of the minifridge. This recall includes only the serial numbers identified below. The minifridges were sold in red at Target stores. Model Number Serial Number EFMIS121 Between A2001 and A2310",
+      "timestamp": "2026-01-15T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Frigidaire-brand Minifridges, model EFMIS121, with limited serial numbers"
     },
     {
       "id": 10557,
@@ -65,6 +74,15 @@
       "hazard": null,
       "remedy": null,
       "product": "R.X.Y Bicycle Helmets"
+    },
+    {
+      "id": 10565,
+      "text": "RootStim Recalls Beard Growth Serum Spray Bottles Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging — This recall involves RootStim Beard Growth Serums spray bottles. The serums come in black boxes with orange and white lettering and have an orange mustache icon on its front panel. The boxes have \"Beard Growth Treatment\" and \"5% Minoxidil - Biotin & Rice Water\" printed on its front, directions and warnings printed on its sides, and \"Distributed By RootStim LLC\" on the bottom. The bottles are black with black spray cap, transparent top cap, and an orange and black wraparound label bearing the same information as the box.",
+      "timestamp": "2026-01-15T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "RootStim Beard Growth Serum, 5% Minoxidil"
     },
     {
       "id": 10556,
