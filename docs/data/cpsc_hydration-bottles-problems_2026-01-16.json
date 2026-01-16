@@ -1,8 +1,89 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-01-16T14:31:47.390Z",
+  "fetched_at": "2026-01-16T16:38:21.732Z",
   "items": [
+    {
+      "id": 10561,
+      "text": "Adams Manufacturing Recalls Adirondack Patio Chairs Due to Injury and Fall Hazards — This recall involves Adirondack-style patio chairs sold under two different brands: Adams RealComfort and StyleWell. The resin chairs with slat backs and seats were sold in blue, dark gray, navy blue, taupe, light blue, lime green and teal. \"ML837-15\" and the manufacture date of August 2025 are molded on the underside of the recalled chairs. The manufacture date is indicated by a dot on a grid, located at the intersection of column \"A\" and row \"25\".",
+      "timestamp": "2026-01-15T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Adams RealComfort and StyleWell Adirondack Patio Chairs"
+    },
+    {
+      "id": 10558,
+      "text": "BBWOO Baby Loungers Recalled Due to Risk of Serious Injury or Death from Head Injury; Violates Mandatory Standard for Bicycle Helmets — This recall involves BBWOO baby loungers. The recalled baby loungers are made of a foam sleeping pad and padded bumpers with a cloth cover and have a ribbon tie at one end. The model number is located on a tracking label stitched on the outside cover. The baby loungers were sold in the following styles and models: Style Model Number Gray Dinosaur BLG26BE Blue Car BLG23BD Green Line BLG04BD Gray Feather BLG01BE Pink Deer BLG17BI Pink Elephant BLG32BI Gray Line BLG04BE Blue CZC44 Gray CZC41 Khaki-Cotton & Velvet CZC43 Red CZC42",
+      "timestamp": "2026-01-15T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "BBWOO Baby Loungers"
+    },
+    {
+      "id": 10557,
+      "text": "Energizer Recalls Rechargeable Lanterns Due to Overheating — This recall involves the Energizer® Large Power Indicator Lantern. The lantern is a cone-shaped portable light with an opaque lens and \"Energizer\" displayed on the side. The top portion of the lantern is gray with a large power button on top and a red handle. The model number of the lantern is BGAAL9 and the SKU number is 039800143341 or 039800143334. The model is located on the bottom of the light, on the removable cover that provides access to the charging cord storage area. The SKU is located on the packaging. Only lanterns with a date code of June 2024 located on the base of the unit, are part of this recall. The date code is shown using two circles, one circle has an arrow pointing to the year (\"24\"), and the other has an arrow pointing to the month (\"6\").",
+      "timestamp": "2026-01-15T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Energizer® Large Power Indicator Lanterns"
+    },
+    {
+      "id": 10564,
+      "text": "Greatale Recalls Self-Feeding Pillows Due to Risk of Serious Injury or Death from Aspiration and Suffocation — This recall involves Greatale self-feeding pillows. The recalled self-feeding pillows are made of stuffed fabric and have an elastic sleeve to hold a bottle in front of an infant's face. They were sold in white with angel wing shaped decorations. \"Greatale\" is on a label sewn into the seam of the pillow.",
+      "timestamp": "2026-01-15T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Self-Feeding Pillows"
+    },
+    {
+      "id": 10563,
+      "text": "HEZI Brand Power Strips Recalled Due to Risk of Serious Injury or Death from Electrocution; Sold by HEZI HOME — This recall involves HEZI brand power strips. The HEZI power strip has either a gray or yellow metal enclosure with eight receptacles made of black plastic. There are a power and a circuit breaker switch located at the end of the metal enclosure closest to the power cord.",
+      "timestamp": "2026-01-15T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "HEZI Branded Power Strips"
+    },
+    {
+      "id": 10562,
+      "text": "Morgan Lane Recalls Children's Pajama Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Flammability Standards for Children's Sleepwear — This recall involves Morgan Lane Asher Pajama Sets, Style 816TR in Petal. The recalled children's pajama sets are printed with tiny roses and have blue cotton piping and imitation mother-of-pearl buttons. The pajamas were sold in sizes 2T to 14. \"MORGAN LANE\" and \"PURE COTTON\" are printed on labels located in the neck and waistband, and \"100% Cotton Made in India\" is printed on the side seam label.",
+      "timestamp": "2026-01-15T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Asher Pajama Sets"
+    },
+    {
+      "id": 10559,
+      "text": "R.X.Y Bicycle Helmets Recalled Due to Risk of Serious Injury or Death from Head Injury; Violates Mandatory Standard for Bicycle Helmets — This recall involves R.X.Y-branded adult bike helmets. The recalled helmets were sold in one size fitting a head circumference of about 22.44 to 24.41 inches. The helmets are blue with black and have gray padding, black straps with a silver reflective pattern in the center and a black and red buckle with a gray chin strap. The helmets have a black plastic knob at the back of the helmet for adjusting the fitting. Item number \"Kx012\" is printed on the helmet's instruction manual.",
+      "timestamp": "2026-01-15T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "R.X.Y Bicycle Helmets"
+    },
+    {
+      "id": 10556,
+      "text": "Ruahouine Hair Growth Serum Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by Ruahouine — This recall involves Ruahouine Hair Growth Serum. The serum comes in 60ml (2.11 fl. oz.) transparent amber dropper bottles. \"Ruahouine\", \"Minoxidil Hair Growth Serum\", and \"5% Minoxidil With Biotin\" are printed on labels wrapped around the bottles.",
+      "timestamp": "2026-01-15T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Ruahouine Hair Growth Serum Bottles"
+    },
+    {
+      "id": 10560,
+      "text": "Yixing Trading Recalls KEAWIS Crib Mattresses Due to Risk of Serious Injury or Death from Entrapment and Suffocation; Violates Mandatory Standard for Crib Mattresses — This recall involves KEAWIS crib mattresses. KEAWIS crib mattresses were sold in white and measure about 38 inches by 24 inches. Model number \"XX-BM-01\" is printed on a label sewn on the side of the mattress.",
+      "timestamp": "2026-01-15T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "KEAWIS Crib Mattress"
+    },
     {
       "id": 10540,
       "text": "Agrish Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Agrish Direct — This recall involves Agrish-branded adult portable bed rails, models 2512, 2513, and 2516, for use on adult beds. The model numbers are printed in the owner's manual. The recalled bed rails have white tubing with rounded gray foam rubber handle grips. Some models include a gray fabric pouch, support legs and a motion-sensor light. Recalled Bed Rails: Model Numbers Size zip 2512 About 11 inches wide and 39 inches in height About 12 inches wide and 42 inches in height 2516 About 37 inches wide and 45 inches in height",
