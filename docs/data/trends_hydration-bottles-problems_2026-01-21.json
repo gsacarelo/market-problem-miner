@@ -1,13 +1,6 @@
 {
   "source": "trends",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-01-21T06:48:48.108575Z",
-  "items": [
-    {
-      "id": "hydration-bottles-problems:iot:water bottle leak review",
-      "text": "TRENDS: interest over time average (14d) for 'water bottle leak review' is 0.0",
-      "timestamp": "2026-01-21T06:48:45.601044Z",
-      "lang": "en"
-    }
-  ]
+  "fetched_at": "2026-01-21T08:41:13.367047Z",
+  "items": []
 }
