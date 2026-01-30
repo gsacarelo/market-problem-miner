@@ -1,8 +1,107 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-01-16T22:28:48.576Z",
+  "fetched_at": "2026-01-30T02:36:01.883Z",
   "items": [
+    {
+      "id": 10575,
+      "text": "Aborder Products Recalls Cumbor Retractable Safety Gates Due to Risk of Serious Injury or Death to Children from Entrapment; Violates Mandatory Standard for Gates and Enclosures — This recall involves Cumbor-branded retractable safety gates. The recalled gates have a metal frame and a mesh screen that measures about 34 inches high with an adjustable width up to 55 inches. The gates were sold in black, gray, and white and came with one or more suction cups. \"Model Name: Retractable Safety Gate,\" \"Model Number: S5V2\" and \"Cohort Information: A202504S5V2A001\" are printed on a label sewn to the mesh screen.",
+      "timestamp": "2026-01-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Cumbor Retractable Safety Gates"
+    },
+    {
+      "id": 10568,
+      "text": "Academy Sports + Outdoors Recalls Magellan Odyssey Rocker Chairs Due to Injury and Fall Hazards — This recall involves Academy Sports + Outdoors' Magellan-branded Odyssey Rocker Chairs with date codes 07/2025 or 08/2025 sold from September 2025 to October 2025. The recalled folding chairs were sold in charcoal, navy, olive green and teal and measure about 25.2\" long by 5.5\" deep by 37.4\" high when folded or 25.4\" long by 25.2\" deep by 37.4\" high when opened. They have a metal frame with a mesh backrest, a carrying handle and a drink holder on the side. The Magellan Outdoors logo is printed on the front of the backrest. Only chairs manufactured between July 2025 through August 2025 are included in this recall. \"ACADEMY, LTD,\" \"177296\" and the manufacture date in MM/YYYY format are printed on the tracking label sewn onto the seat of the chair.",
+      "timestamp": "2026-01-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Magellan Odyssey Rocker Chairs"
+    },
+    {
+      "id": 10573,
+      "text": "Based Online Fidget Magnet Ball Toys Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys — This recall involves Based Online Fidget Magnet Ball Toy Sets. Each set includes four textured, silicone-covered magnet balls in white, yellow, blue and purple. Each ball is about 1.24 inches in diameter. The magnet toys come in a black fabric zippered case. There are no identifying marks on the magnet toys.",
+      "timestamp": "2026-01-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Based Online Fidget Magnet Ball Toys"
+    },
+    {
+      "id": 10571,
+      "text": "Gagaku Children's Ice Cream Toy Playsets Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion Hazard; Violate Mandatory Standard for Toys; Sold on Amazon by Brandworl.USA — This recall involves Gagaku-branded ice cream shop toy playsets. The recalled toy set includes 16 wooden pieces: a cash register, three ice cream cones, six scoops of ice cream, four popsicles, and two cupcakes in varying colors or \"flavors.\" It also comes with one plastic credit card, five plastic dollar bills, one plastic menu and a two-level pink display box labeled \"ICE-CREAM\" on the front, with a black sign on the side. \"GAGAKU\" and \"Model: KABI-0176 G062401IC\" are printed on a label on the underside of the toy.",
+      "timestamp": "2026-01-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Gagaku Wooden Ice Cream Shop Toy Playsets"
+    },
+    {
+      "id": 10576,
+      "text": "Iristar Minoxidil Spray Bottles for Hair and Beard Growth Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by Moralowen — This recall involves Iristar Minoxidil Spray Bottles, 5% minoxidil with biotin for hair and beard growth. The sprays come in black plastic bottles with navy blue labels and white highlights with a spray cap. The bottles and outer packaging are labeled \"Iristar\" and \"Minoxidil Spray\" on the front and ingredients and directions for use are found on the back.",
+      "timestamp": "2026-01-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Iristar Minoxidil Spray Bottles"
+    },
+    {
+      "id": 10569,
+      "text": "Johnson Health Tech Expands Recall to Include Matrix Retail and Vision Treadmills Due to Fire Hazard — This recall involves Matrix Retail models T30, TF30, T50, TF50, and T75 treadmills, and Vision models T9800, TF20, T40, and T80 treadmills with certain serial numbers. The treadmills have a running platform that measures 60 inches long by 20 inches wide, a 33-inch-wide console, and were sold with a straight power cord with no power cord bracket. \"Matrix\" or \"Vision\" is printed on the treadmill and treadmill belt. The model number and frame serial number are located on the lower front crossbar near the power switch. The serial number includes the letters TM, a three-digit model number, and the manufacture date in YY/MM format followed by a five-digit serial. The recalled treadmills were manufactured from June 2007 through January 2024 and do not come with a power cord bracket. This recall is an expansion of the prior recall of Matrix T1 and T3 Series Commercial Treadmills, which were also recalled because the power cord can become loose from the treadmill's power socket. The remedy in the prior recall of commercial treadmills is a power cord bracket that requires tools for installation. For this recall expansion, the remedy for consumers is a power cord with an automatic locking-style plug that does not require any tools for installation. Model Name/ Number Recalled Serial Number(s) or Range Matrix Retail T30 (TM729) TM7291709CA00001 - TM7292104C00380 TF30 (TM693, TM693B) TM6931606CA00001 - TM6931705CA00178 TM693B1707CA00001 - TM693B2201C00601 T50 (TM695, TM767) TM6951607CA00001 - TM6952009C00840 TM7672009C00001 - TM76722011C00051 TF50 (TM694, TM694B, TM768) TM6941607CA00001 - TM69482009C00514 TM694B1605C00008 - TM694B2009K03263 TM7682009C00001 - TM7682104C00580 T75 (TM703, TM703B, TM703C, TM703E) TM7031607CA00001 - TM70381903C00088 TM70382311C00229 TM703B1609CA00015 - TM703B1908C00050 TM703B2309C00164, TM703B2311C00282 TM703C1810C00001 - TM703C2212C00127 TM703C2305C00049, TM703C2308C00409 TM703E2304C00002 - TM703E2401C00087 Vision T9800 (TM87) TM87D070600070, TM87D080600128, TM87D0940059, TM87D120100125, and TM87D1206000127 TF20 (TM432, TM432C) TM4321108BD00255 - TM4321610CA00033 TM432C1210CA00002 - TM432C1606CA00200 T40 (TM433, TM433C) TM4331201BD00466 - TM4331510BD00004 TM433C1408CJ00001 - TM433C1602CA00631 T80 (TM445) TM4451210BC00001 - TM4451505BC00150 TM4451212BD00002 - TM4451406BD00125",
+      "timestamp": "2026-01-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Matrix Retail T30, TF30, T50, TF50, and T75 treadmills, Vision T9800, TF20, T40, and T80 treadmills"
+    },
+    {
+      "id": 10577,
+      "text": "Mikario Trading Convertible Baby Gyms Recalled Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standard for Infant Support Cushions; Sold on TikTok Shop — This recall involves Mikario Trading's 5-in-1 baby gyms. The recalled baby gyms convert from an activity center to a tummy-time pillow mat. They were sold in pink and have a toy bar, six detachable plush toys and a set of milestone cards. \"Baby Gym\" and \"Item No.: CBPBG-PIN\" are printed on a label stitched to the product on the edge of the mat at the bottom.",
+      "timestamp": "2026-01-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Mikario Trading 5-in-1 Convertible Baby Gyms"
+    },
+    {
+      "id": 10567,
+      "text": "Thrasio Recalls Angry Orange Enzyme Stain Removers Due to Risk of Exposure to Bacteria — This recall involves Angry Orange Enzyme Stain Removers in Fresh Clean Scent and Orange Twist Scent sold in 24-oz, 32-oz and 1-gallon sizes. The bottles are orange and white and have \"Angry Orange\" and \"Stain & Odor Remover\" written on the front. Some units were sold as a bundle with a UV light that attaches to the spray bottle.",
+      "timestamp": "2026-01-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Angry Orange Enzyme Stain Removers"
+    },
+    {
+      "id": 10572,
+      "text": "Topkay Lighters Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Violates Mandatory Standard for Multipurpose Lighters; Sold on Amazon by Xiyude — This recall involves Topkay Torch Lighters. The metal lighters are black and come in a two-pack. \"Honest\" is printed on the front of lighter.",
+      "timestamp": "2026-01-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Topkay Torch Lighters"
+    },
+    {
+      "id": 10574,
+      "text": "Vndueey Magnetic Men Toy Sets Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violates Mandatory Standard for Toys — This recall involves Vndueey Magnetic Men toy sets. The toy sets consist of 10 flexible, stick figures in red, orange, pink, yellow, blue, bright red, bright green and transparent. Each stick figure has four small magnets, one in each hand and foot.",
+      "timestamp": "2026-01-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Vndueey Magnetic Men Toy Sets"
+    },
+    {
+      "id": 10570,
+      "text": "Yetonamr Pull String Teething Toys Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by Longyanguiheng — This recall involves the Yetonamr Pull String Teething Toy. The teething toy is an off-white disc shape with either a red ball or blue ball in the middle and six long, silicone pull string \"tentacles\" of various colors running through the ball. There are also three free-spinning rings and soft push buttons on the disc. \"Model no. 688-59\" is printed on the product packaging.",
+      "timestamp": "2026-01-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Yetonamr Pull String Teething Toys"
+    },
     {
       "id": 10561,
       "text": "Adams Manufacturing Recalls Adirondack Patio Chairs Due to Injury and Fall Hazards — This recall involves Adirondack-style patio chairs sold under two different brands: Adams RealComfort and StyleWell. The resin chairs with slat backs and seats were sold in blue, dark gray, navy blue, taupe, light blue, lime green and teal. \"ML837-15\" and the manufacture date of August 2025 are molded on the underside of the recalled chairs. The manufacture date is indicated by a dot on a grid, located at the intersection of column \"A\" and row \"25\".",
@@ -245,141 +344,6 @@
       "hazard": null,
       "remedy": null,
       "product": "YOLAAH Portable Bed Rails"
-    },
-    {
-      "id": 10531,
-      "text": "17 Stories Furniture 18-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units; Imported by Shenzhen Jinhongzhen Technology Co — This recall involves 17 Stories Furniture 18-Drawer Dressers. The recalled dressers were sold in black, brown and gray. They have a metal frame, wooden top and 18 collapsable fabric drawers. HI1382_13, HI1382_01 or HI1382_09 are printed on a label located the outer packaging of the product.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "17 Stories Furniture 18-Drawer Dressers"
-    },
-    {
-      "id": 10525,
-      "text": "Amp Fit Recalls AMP Smart Fitness Machines Due to Laceration and Serious Injury Hazard — This recall involves the MP2 model of the AMP Smart Fitness Machine, a wall-mounted strength-training device. It provides full-body, resistance-based workouts utilizing an adjustable arm and integrates with Amp Fit digital app platform for personalized fitness training.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "AMP MP2 Smart Fitness Machine"
-    },
-    {
-      "id": 10536,
-      "text": "ANNQUAN Brand Power Strips Recalled Due to Risk of Serious Injury or Death from Fire; Sold on Amazon by Hefei Juyuan Sporting Development — This recall involves ANNQUAN-branded power strips models EX-D112-05 and EX-D106-25. Power strip model EX-D112-05 has a black metal enclosure with 12 receptacles made of yellow plastic. There is one on/off switch located at the end of the housing closest to the power cord. Power strip model EX-D106-25 has a yellow metal enclosure with six receptacles made of black plastic and individual on/off switches for each receptacle. The model numbers are found on the order invoice.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "ANNQUAN Power Strips, Models EX-D112-05 and EX-D106-25"
-    },
-    {
-      "id": 10538,
-      "text": "Blue Wave Recalls Above-Ground Pools 48 Inches and Taller Due to Drowning Hazard — This recall involves all Blue Wave brand above-ground pools 48 inches and taller. Model information is printed on the original box and on the instruction manual and the Blue Wave logo is printed on the liner on the outside of the pool. Blue Wave pool models subject to this recall include: Model Description UPC Code NB19790 Blue Wave 15-Ft Rd 48-In Active Frame Pool 672875005895 NB19791 Blue Wave 18-Ft Rd 52-In Active Frame Pool 672875005925 NB19797 Blue Wave 18-Ft Rd 52-In Dark Cocoa Wicker Frame Pool 672875006106 NB19798 Blue Wave 24-Ft Rd 52-In Dark Cocoa Wicker Frame Pool 672875006137 NB19890 Blue Wave Rustic Cedar 15-Ft Round 48-In Deep Frame Swimming Pool Package W/Cover 672875004874 NB19891 Blue Wave Rustic Cedar 18-Ft Round 52-In Deep Frame Swimming Pool Package W/Cover 672875004881 NB19900 Blue Wave 18-Ft Round 52-In Gray Rattan Swimming Pool Package W/Cover 672875009565 NB19902 Blue Wave 18-Ft Round 52-In Espresso Wicker Swimming Pool Package W/Cover 672875009589 NB19904 Blue Wave 15-Ft Round 48-In Navy Blue Frame Swimming Pool Package W/Cover 672875009916 NB19905 Blue Wave 18-Ft Round 52-In Navy Blue Frame Swimming Pool Package W/Cover 672875009923 NB19906 Blue Wave 15-Ft Round 48-In Aspen Swimming Pool Package W/Cover 672875009930 NB19907 Blue Wave Mocha Wicker 18-Ft Round 52-In Deep Swimming Pool Package With Cover 672875009954 NB19908 Blue Wave Mocha Wicker 24-Ft Round 52-In Deep Swimming Pool Package With Cover 672875009961 NB19909 Blue Wave Laguna 15-Ft Round 48-In Deep Swimming Pool Package With Cover 672875009978 NB19910 Blue Wave Laguna 18-Ft Round 52-In Deep Swimming Pool Package With Cover 672875009985 The recalled above-ground pools contain a compression strap (also referred to as a reinforcing belt) that wraps around the pool on the outside of the vertical support poles, and may create a foothold, allowing a child to access the pool and drown. Children can still gain access to the pools using these footholds even if the ladder is removed. CPSC's website www.PoolSafely.gov has free, downloadable educational materials available to the public on pool safety including information on barriers, covers, alarms and other safety information.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Blue Wave brand 48-inch and taller above-ground pools"
-    },
-    {
-      "id": 10530,
-      "text": "Currey & Company Recalls Electra Chandeliers Due to Impact Injury Hazard — This recall involves all Currey & Company Electra Chandelier and Electra Three Tier Chandelier light fixtures. The fixtures are made of glass and iron with a brass metal frame. The Electra Chandelier, model number 9000-1234, measures 18 inches by 29 inches and weighs 51 pounds. The Electra Three Tier Chandelier, model number 9000-1235, measures 47 inches by 29 inches and weighs 131 pounds. \"Currey & Company\" and the model number are printed on the fixture's ceiling canopy.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Electra Chandelier and Electra Three Tier Chandelier light fixtures"
-    },
-    {
-      "id": 10533,
-      "text": "Feel The Beard Recalls Minoxidil Beard Growth Serum Bottles Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging — This recall involves Feel The Beard-branded Beard Growth Oil bottles. The beard growth oil comes in a one-ounce dark amber bottle with a black dropper cap. The label wrapped around the beard growth oil and the outer packaging read \"Beard Growth Oil,\" \"Feel The Beard,\" and \"5% minoxidil with biotin.\"",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Feel The Beard Minoxidil Beard Growth Oil for Men"
-    },
-    {
-      "id": 10528,
-      "text": "Furnulem 8-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon by Furnulem — This recall involves Furnulem 8-Drawer Dressers. The dressers were sold in black, brown and white and measure about 13.8 inches long by 45 inches wide by 29.7 inches tall. They have a metal frame, a wooden top with recessed power outlets and eight collapsible fabric drawers. Model \"DS-0148D003\" is printed on the packaging.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Furnulem 8-Drawer Dressers"
-    },
-    {
-      "id": 10535,
-      "text": "JOKOSIS Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation Hazards; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by JOKOSIS — This recall involves JOKOSIS Bed Rail, model HC0262. The bed rails are black and include a zippered storage pouch. The product measures 31.5 inches tall by 40.6 inches wide. The bed rail has model \"HC0262\" printed on the packaging.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "JOKOSIS Portable Bed Rails"
-    },
-    {
-      "id": 10534,
-      "text": "KKL Fabric 9-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon by HK Brilliant — This recall involves KKL Fabric 9-Drawer Dressers. The recalled dressers were sold in black, brown and white. They have a metal frame, wooden top with recessed power outlets, and nine collapsable fabric drawers. The dressers are 37.8 inches long by 11.8 inches wide by 53.9 inches tall.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "KKL Fabric 9-Drawer Dressers"
-    },
-    {
-      "id": 10539,
-      "text": "Meaicezli Play Purse Sets Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys; Sold on Amazon by Angeer-US — This recall involves Meaicezli Play Purse Sets. The Play Purse Sets come in pink and contain a bag with toy sunglasses, toy camera, toy money, toy make up kit, toy lipstick, wallet, hair bow, eye mask, toy passport, plastic toy credit cards, toy cell phone, and toy writing tablet. Both the toy phone and toy writing tablet come with a button or coin cell battery installed.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Meaicezli Play Purse Sets"
-    },
-    {
-      "id": 10526,
-      "text": "Pacific Cycle Recalls Schwinn Ovation Bicycle Child Carriers Due to Fall Hazard — This recall involves the Schwinn Ovation Bicycle Child Carrier, Model SW80356. The product is black with a gray seat cushion, black harness straps, and red buckles. It attaches to a rear bike rack that was sold with the carrier. The impacted date codes are 712A0329BE and 712A0421BE. The model number and date code are located on the underside of the carrier.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Schwinn Ovation Bicycle Child Carriers"
-    },
-    {
-      "id": 10527,
-      "text": "Pedego Electric Bikes Recalls Fat Tire Trikes Due to Fall and Laceration Hazards — This recall involves the Fat Tire Trike, an aluminum adult three-wheeled electric tricycle. It has a rectangular label on the downtube near the front of the frame with the word \"Pedego\" printed on it. The product was sold in matte black.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Fat Tire Trikes"
-    },
-    {
-      "id": 10532,
-      "text": "Plantimex Recalls Mamisan Lidocaine Ointment Containers Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging — This recall involves Mamisan Pain Relieving Topical Ointment jars. The ointment comes in an orange container with a white continuous thread lid and has the Mamisan trademark printed on top of the lid and on the label. The ointment was sold in a 3.52 ounce plastic jar. The wraparound label includes instructions and drug facts. Only jars with UPC code 860006498115 are included in the recall.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Mamisan Pain Relieving Topical Ointment"
-    },
-    {
-      "id": 10537,
-      "text": "SereneLife Home Recalls Above-Ground Pools 48 Inches and Taller Due to Drowning Hazard — This recall involves all SereneLife brand above-ground pools 48 inches and taller. Models SLPORND15 and SLPORND18 are included in this recall. Model information and the SereneLife logo are printed on the liner on the outside of the pool. The recalled above-ground pools contain a compression strap (also referred to as a reinforcing belt) that wraps around the pool on the outside of the vertical support poles, and may create a foothold, allowing a child to access the pool and drown. Children can still gain access to the pools using these footholds even if the ladder is removed. CPSC's website www.PoolSafely.gov has free, downloadable educational materials available to the public on pool safety including information on barriers, covers, alarms and other safety information.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "SereneLife brand 48-inch and taller above-ground pools"
-    },
-    {
-      "id": 10529,
-      "text": "TopHomer Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violation of the Virginia Graeme Baker Pool and Spa Safety Act; Sold on Amazon by TopHomerUS — This recall involves TopHomer-branded 8-inch pool drain covers that are sold for use in swimming pools. The top grate is 7.2 inches in diameter, and the bottom mounting plate is 8 inches in diameter. They are white and made of ABS plastic. \"Listed suction fitting,\" \"SP-1053-B,\" and \"88D9 148 GPM\" are printed on the center of the grate. \"Use screws to keep grate secured to dram (drain) at all times\" is printed on the outer ring of the grate.",
-      "timestamp": "2025-12-18T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "TopHomer Pool Drain Covers"
     }
   ]
 }
