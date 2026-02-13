@@ -1,8 +1,26 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-02-13T14:49:58.624Z",
+  "fetched_at": "2026-02-13T16:57:05.106Z",
   "items": [
+    {
+      "id": 10615,
+      "text": "Beloems Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails — This recall involves Beloems-branded adult portable bed rails, model BL-BR201. The recalled foldable bed rails have white metal tubing with either rounded black or gray foam rubber handle grips, support legs and a fabric pouch. The \"Beloems\" logo is printed on the bed rail's fabric cover and the model number on the owner's manual.",
+      "timestamp": "2026-02-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Beloems Adult Portable Bed Rails"
+    },
+    {
+      "id": 10612,
+      "text": "Fortemotus Direct Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails — This recall involves Fortemotus-branded adult portable bed rails, model USFTMTJAS008. The recalled bed rails have black tubing with black foam rubber handle grips, support legs and a fabric pouch, and measure about 30 inches wide by 30 inches high. The Foremotus logo is printed on the bed rail's fabric cover and the model number on the owner's manual.",
+      "timestamp": "2026-02-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Fortemotus Adult Portable Bed Rails"
+    },
     {
       "id": 10538,
       "text": "Fortemotus Direct Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails — This recall involves Fortemotus-branded adult portable bed rails, model USFTMTJAS008. The recalled bed rails have black tubing with black foam rubber handle grips, support legs and a fabric pouch, and measure about 30 inches wide by 30 inches high. The Foremotus logo is printed on the bed rail's fabric cover and the model number on the owner's manual.",
@@ -31,13 +49,31 @@
       "product": "SOOWERY 6-Drawer Dressers"
     },
     {
-      "id": 10612,
+      "id": 10613,
       "text": "Surveying Accessories Cheaper Recalls Board Games Due to Risk of Serious Injury or Death from Magnet Ingestion; Violates Mandatory Standard for Toys — This recall involves Colombia-themed magnetic board games. The recalled games consist of a two-sided board with a storage bag and 32 multi-colored magnetic pieces and two dice with one storage pouch. The original packaging included a piece of chocolate. \"Colombia que linda eres\" is printed on the game's board. \"Cositas Colombianas\" is printed on the front of storage box. Only the four- and six-player versions of the board games are included in this recall.",
       "timestamp": "2026-02-12T00:00:00",
       "lang": "en",
       "hazard": null,
       "remedy": null,
       "product": "Colombia-themed Magnetic Board Games"
+    },
+    {
+      "id": 10614,
+      "text": "Surveying Accessories Cheaper Recalls Board Games Due to Risk of Serious Injury or Death to Children from Drowning; Violates Mandatory Standard for Infant Bath Seats; Sold o CheerKid Baby Bath Seats Recalled Due to Risk of Serious Injury or n Amazon by Babibaby and Woot — This recall involves CheerKid-branded baby bath seats. The recalled bath seats are sold in gray, pink and light blue. They come with five suction cups on the bottom and have a multi-colored rolling abacus toy at the front. \"Model: BH-222\" is printed on a label on the back of the bath seat.",
+      "timestamp": "2026-02-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "CheerKid Baby Bath Seats"
+    },
+    {
+      "id": 10616,
+      "text": "Watkins Manufacturing Recalls Hydromassage Rotary Jets in Highlife Collection Spas Due to Entanglement and Drowning Hazards — This recall involves Hydromassage rotary jets (6 fin) in Highlife Collection spas and also sold as replacement parts. There are eight models included in this collection: Grandee, Envoy, Vanguard, Aria, Prodigy, Sovereign, Jetsetter and Jetsetter LX. The recalled jets are found in model year 2023, 2024 and 2025 Highlife Collection spas.",
+      "timestamp": "2026-02-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Hydromassage Rotary Jet (6 fin) in Highlife Collection spas"
     },
     {
       "id": 10608,
