@@ -1,8 +1,188 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-01-30T22:34:21.128Z",
+  "fetched_at": "2026-02-13T02:49:58.764Z",
   "items": [
+    {
+      "id": 10608,
+      "text": "Airova Recalls Aroeve Air Purifiers Due to Fire and Burn Hazards — This recall involves Aroeve brand air purifiers, model MK04. The recalled air purifiers come in black or white. The model, date code, and serial number information are printed on the product label located on the bottom of the air purifiers. The air purifiers subject to this recall were manufactured prior to July 2025 and have a serial number starting with \"BN\".",
+      "timestamp": "2026-02-09T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Aroeve brand air purifiers"
+    },
+    {
+      "id": 10607,
+      "text": "Andy & Evan Recalls Children's Pajama Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standard for Children's Sleepwear — This recall involves Andy & Evan-branded children's pajama sets. The recalled woven pajamas consist of a long-sleeved shirt with buttons, a front pocket and matching flared pants. The pajamas were sold in pink with white stripes and purple and pink hearts with trim in children's sizes 2T, 3T, 4T, 5, 6 and 6X. \"Andy & Evan\" and the size are printed on the sewn-in neck label. \"RN# 136762\" and \"YC05\" are printed on the sewn-in side seam label.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Andy & Evan Children's Pajama Sets"
+    },
+    {
+      "id": 10601,
+      "text": "Aterian Recalls PurSteam Elite Travel Steamers and Mighty Lil Steamers Due to Risk of Serious Burn Injury — This recall involves PurSteam Elite Travel Steamers and PurSteam Mighty Lil Steamers purchased after December 2020 or with one of the following date codes: 2310, 2308, 2305, 2304, 2303, 2212, 2211, 2210, 2203, 2112, 2111, 2110, 0221, 1019, and 4619. The PurSteam Elite Travel Steamer is white with a triangular-shaped opening for the steam vents. The \"PurSteam\" logo is printed below a wave-shaped water reservoir window, and \"Model: PS-510\" is printed on a label on the bottom of the product. The PurSteam Mighty Lil Steamer is white with an oblong-shaped opening for the steam vents. The \"PurSteam\" logo is printed below the water reservoir window, and \"Model: PS 550\" is printed on a label on the bottom of the product. On both steamer models, the manufacture date (date code) is located on a label on the bottom of the product in YYMM format.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "PurSteam Mighty Lil Steamers and PurSteam Elite Travel Steamers"
+    },
+    {
+      "id": 10604,
+      "text": "Clark Associates Recalls Lancaster Table & Seating Powder-Coated Aluminum Outdoor Restaurant Chairs and Barstools Due to Fall Hazard — This recall involves three models of Lancaster Table & Seating Powder-Coated Aluminum Outdoor Chairs and Barstools in arm chair, side chair (no arms) and barstool configurations sold under 180 item numbers. The chairs and barstools were sold in blue, brown, dark gray, light gray/silver, red, white, aqua, black, green, sangria/burgundy, yellow and orange. The chairs were sold with and without accompanying outdoor tables, which are not subject to the recall. The item numbers can be found on order confirmation emails, shipping confirmation emails and invoices. A full list of affected item numbers and examples of colors are available at www.webstaurantstore.com/uploads/Clark_Associates/2026/1/lts-recall-list-of-affected-products-1.pdf.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Lancaster Table & Seating Powder-Coated Aluminum Outdoor Chairs and Barstools"
+    },
+    {
+      "id": 10605,
+      "text": "Cobelae Busy Books Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violates Small Parts Ban; Sold on Amazon by Flyindream — This recall involves Cobelae Busy Book, model: 2025-Q3-0702. The Busy Book has a yellow and brown giraffe on the front cover. The apple on page eight of the books includes a string of beads. There are no markings on the book.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Cobelae Busy Book for Toddlers"
+    },
+    {
+      "id": 10600,
+      "text": "Dresbe LED Christmas Headbands Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries — This recall involves Dresbe LED Christmas Headbands. The headbands were sold as a two-pack of novelty headbands, one red headband with candy cane attachments and a green headband with a Christmas tree attachment, each containing three button cell batteries to power LED lights. The headbands have \"HB-052\" and \"DRESBE LED Christmas Headband (2pc)\" printed on labels located on the package.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Dresbe LED Christmas Headbands"
+    },
+    {
+      "id": 10609,
+      "text": "DriBiz Recalls Ammo Tabs Desiccant Tiles Due to Injury Hazard — This recall involves Ammo Tabs, rectangular, off-white fiber desiccant tiles measuring about 2 inches by 4 inches with a thickness of 2.5mm. The tiles are used within ammunition cans and pistol cases to absorb and lock in humidity. Model number AMT-010 is printed on the packaging.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Ammo Tabs Fiber Desiccant Tiles used for Firearms and Ammunition"
+    },
+    {
+      "id": 10606,
+      "text": "EnHomee 10-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units — This recall involves EnHomee 10-Drawer Dressers. The recalled dressers were sold in the following colors: black, white, grey, and brown. They have a metal frame, wooden top, 10 collapsable fabric drawers, and two metal drawers. The dressers are 38 inches long by 11.8 inches wide by 48.1 inches tall. Model number \"55SCWMSCXLBR\" can be found on the order information within your Amazon account.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "EnHomee 10-Drawer Dressers"
+    },
+    {
+      "id": 10599,
+      "text": "Fixwal 7-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units — This recall involves the Fixwal 7-Drawer Dressers. The recalled dressers were sold in black and white and have a metal frame, wooden top, and seven collapsable fabric drawers. The dressers are 55.1 inches long by 11.8 inches wide by 31.5 inches tall.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Fixwal 7-Drawer Dressers"
+    },
+    {
+      "id": 10598,
+      "text": "Furnulem 5-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment; Violates Mandatory Standard for Clothing Storage Units — This recall involves Furnulem five-drawer dressers. The wooden, white dressers measure about 31.5 inches tall, 15.75 inches long and 50.2 inches wide. They have a top with recessed power outlets, and each drawer has two round pull knobs. Only dressers that did not come with feet extensions are included in this recall. Model \"HK-DS-017-CL-5D-1-W\" is printed on the packaging.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Furnulem 5-Drawer Dressers"
+    },
+    {
+      "id": 10596,
+      "text": "GM Gumili Wintergreen Essential Oil Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by Gumili Beauty — This recall involves GM Gumili Wintergreen Essential Oil. The essential oil was sold in an amber glass bottle with a black screw-on cap and a white label with the \"GM\" logo, \"gumili,\" \"wintergreen essential oil\" and an image of a wintergreen plant. The packaging box is white with blue text with the \"GM\" logo, \"gumili,\" \"essential oil\" and \"100% pure & natural\" on the front. The back of the box has directions, safety instructions and the manufacturer's information. A black dropper cap was included with the oil.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "GM Gumili Wintergreen Essential Oil Bottles"
+    },
+    {
+      "id": 10597,
+      "text": "Kitosun Submersible LED Lights Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Coin Batteries — This recall involves Kitosun Submersible LED Lights. The LED lights include 10 color-changing LED lights, two remote controls, 20 preinstalled CR2450 lithium batteries in the lights and four preinstalled CR2032 lithium batteries in the remote controls. Each light is about 3.5 cm in diameter. Note: Button cell and coin batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Kitosun Submersible LED Lights"
+    },
+    {
+      "id": 10594,
+      "text": "Little Cow Company Recalls 9 oz Candles in Glass Jars Due to Fire, Burn and Laceration Hazards — This recall involves \"Little Cow Co.\" candles in glass jars with screw top lids. The recalled candles were sold in 9 oz glass jars with a sticker with the brand name \"Little Cow Co.\" located on the center of the front of the glass jar. The sticker also says \"100% natural soy wax candle, laced with organic butter.\"",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Little Cow Co. 9 oz candles in glass jars"
+    },
+    {
+      "id": 10593,
+      "text": "Lola Plus The Boys Recalls Youth Clothing with Drawstrings Due to Risk of Serious Injury or Death from Strangulation Hazard; Violates Federal Rule for Children's Upper Outerwear — This recall involves five styles of Lola + The Boys hooded clothing with drawstrings: -The Candy Heart Tie Dye set consists of pink and white pants and a sweatshirt. Both have a yellow drawstring with beads, and the sweatshirt has a heart on the front. -The Hoodie Unicorn Tutu set consist of a rainbow organza skirt and a purple hoodie sweatshirt with a unicorn on the front. -The Justice League Hero hoodie is gray and has a front pocket and superhero decals along the right sleeve. -The Emoji Love hoodie sweatshirt is white and has a pocket and three smiley emojis on the front. -The Crystal Rainbow Rain hoodie is gray and has a front pocket and rainbow-colored beads at both ends of the drawstrings. The clothing was sold in youth sizes 1 through 12. \"Lola + The Boys\" and the size are printed on the neck label.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Lola + The Boys Youth Clothing with Drawstrings"
+    },
+    {
+      "id": 10595,
+      "text": "Organic Zing Birch Essential Oil Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by Linkers — This recall involves Organic Zing Birch Oil bottles. The recalled essential oil's amber bottles have black continuous thread caps and a beige and green label with white and black labeling. The Organic Zing logo, \"Birch Oil\" and \"Pure & Natural\" are printed on the front of the bottle. The Organic Zing logo and \"Pure & Natural\" are printed on the front of the bottles' beige and green box packaging and \"Made in India\" on the back.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Organic Zing Birch Oil Bottles"
+    },
+    {
+      "id": 10592,
+      "text": "Semfri Children's Helmets Recalled Due to Risk of Serious Injury or Death from Head Injury; Violates Mandatory Standard for Bicycle Helmets — This recall involves Semfri-branded children's multi-purpose helmets. The recalled helmets were sold in size medium (M), fitting a head circumference of about 20.5 to 22.8 inches; and in the following colors: orange, black, blue, navy blue, pink, red and white. All helmets have black padding, black straps and a black buckle. The helmets have a black plastic knob at the back of the helmet for adjusting the fitting. The size is printed on a black circular label located inside of the helmet.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Semfri Children's Helmets"
+    },
+    {
+      "id": 10591,
+      "text": "Shintenchi 6-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units — This recall involves Shintenchi-branded dressers. The recalled, white dressers have six wooden drawers and golden metal feet and measure about 15.7 inches deep by 47.2 inches wide by 30.5 inches high. \"SHX12077-WH\" is embossed on the underside of the dresser at the top of one metal foot and on the product packaging.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Shintenchi 6-Drawer Dressers"
+    },
+    {
+      "id": 10602,
+      "text": "YITA Recalls Multiple Brands of Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units — This recall involves the five different brands of YITA dressers: Dextrus, ModFusion, Uforic, Yintatech and Yitahome. The 16-drawer dressers were sold in gray, black, white, pink and brown. They have a black or white metal frame, a wooden top and collapsable fabric drawers; and measure about 37.4 inches long, 11.8 inches wide and 57.1 inches tall. SKU numbers FTBFSD-0161, FTBFSD-0162, FTBFSD-0212, FTBFSD-0246 or SKU FTBFSD-0465 is printed on labels located on the dresser's top panel and on the product packaging. The brand name can be found on the product online listing.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Yitahome, Uforic, Dextrus, Yintatech and ModFusion-branded Dressers"
+    },
+    {
+      "id": 10590,
+      "text": "Zan International Trading Recalls Lotus Joy Sweet Birch Essential Oil Bottles Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging — This recall involves Lotus Joy Organic Sweet Birch Essential Oil bottles. The essential oil comes in 0.34 fluid ounce amber bottles with a black cap and a separate glass dropper with a black cap. The white label on the bottle has orange and black text with \"LotusJoy\", \"organic\", \"sweet birch\", \"essential oil and \"betula lenta\" printed on the front and ingredients and directions on the back. The packaging box is blue and has the same information as the front of the bottle in orange and black lettering and has directions and the distributor's information on the back.",
+      "timestamp": "2026-02-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Lotus Joy Organic Sweet Birch Essential Oil Bottles"
+    },
+    {
+      "id": 10603,
+      "text": "Scepter Fuel Containers Recalled Due to Risk of Serious Injury or Death from Flash Fire, Burn and Child Poisoning; Violates Mandatory Standards for Portable Fuel Containers; Imported by Mameix Retail — This recall involves Scepter B62 gas and oil fuel containers. The recalled combination fuel containers are red with black caps and yellow spouts on each end. They have dual chambers with a 6-liter gas capacity on one side and 2.5-liter oil capacity on the other. \"Scepter\" and \"Essence Danger\" are embossed on the side of the container.",
+      "timestamp": "2026-02-04T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Scepter Gas and Oil Combination Fuel Containers"
+    },
     {
       "id": 10579,
       "text": "AiTuiTui Pull String Teething Toys Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by Vanfun — This recall involves the AiTuiTui Pull String Teething Toy. The teething toy is an off-white disc shape with either a red ball or blue ball in the middle and six long pull string \"tentacles\" of various colors running through the ball. There are also three free-spinning rings on one side and soft push buttons on the disc. \"Model: 688-59\" is printed on the product packaging.",
@@ -308,150 +488,6 @@
       "hazard": null,
       "remedy": null,
       "product": "KEAWIS Crib Mattress"
-    },
-    {
-      "id": 10540,
-      "text": "Agrish Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Agrish Direct — This recall involves Agrish-branded adult portable bed rails, models 2512, 2513, and 2516, for use on adult beds. The model numbers are printed in the owner's manual. The recalled bed rails have white tubing with rounded gray foam rubber handle grips. Some models include a gray fabric pouch, support legs and a motion-sensor light. Recalled Bed Rails: Model Numbers Size zip 2512 About 11 inches wide and 39 inches in height About 12 inches wide and 42 inches in height 2516 About 37 inches wide and 45 inches in height",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Agrish Adult Portable Bed Rails"
-    },
-    {
-      "id": 10541,
-      "text": "DR Power Equipment Reannounces and Expands Recall of Leaf Vacuums Due to Laceration Hazard; New Remedy Available — This recall involves DR Power Equipment walk-behind leaf vacuums and tow-behind leaf vacuums with the following model numbers: Unit Type Model Numbers Walk Behind Leaf Vacuum WL33006DMN WL35008DENSD WL33006DMNR WL35008DMN WL35008DEN WL35008DMNR WL35008DENR WL35008DMNSD WL33106DMN WL35108DEN WL33106DMNR WL35108DENR WL35108DENSD Tow Behind LL3 LL31027DMN LL33032DEN LL33032DENR LL33032DENSD LL33032DMN LL35045DEN LL35045DMN LL35045DMNR LL37045DEN LL37045DMN LL37045DMNR LL37045DMNSD LL37060DEN LL37060DENR LL37145DEN LL31127DMN LL33132DMN LL37160DEN LL31127DMNR LL33132DMNR LL33132DEN LL35145DEN LL33132DENSD LL35145DMN Tow Behind LL2 LL21009DMN LL21009DMNR LL21009DMNSD LL23009DEN LL23009DENR LL23009DENSD LL23009DMN LL23009DMNR LL23009DMNT LL25013DEN LL25013DENR LL25013DENSD LL25013DMN LL25013DMNR LL25013DMNSD LL27016DEN LL27016DENR LL27016DENSD LL27016DMN LL27016DMNR LL27016DMNSD Additional LL2 Models *Note: These model numbers may or may not have spaces as printed on the data tags. LLVX13EDTDV3BF1 LLVX13EDTDVBBF1 LLVX13ENTDV3BF3 LLVX13ENTDVBBF3 LLVX13MDTDV3BF0 LLVX13MDTDV3BF1 LLVX13MDTDVBBF1 LLVX13MNTDV3BF3 LLVX13MNTDVBBF3 LLVX16E LLVX16EDTDV3BF1 LLVX16EDTDVBBF1 LLVX16ENTDV2BF3 LLVX16ENTDV3BF3 LLVX16ENTDVBBF3 LLVX16MDTDV2BF1 LLVX16MDTDV3BF1 LLVX16MDTDVBBF1 LLVX16MNTDV2BF3 LLVX16MNTDV3BF3 LLVX16MNTDVBBF3 LLVX9AMDTDVBBF3 LLVX9AMNTDVBBF3 LLVX9GMNTDVBBF3 LLVXX9EDTDV3BF1 LLVXX9EDTDVBBF1 LLVXX9ENTDV3BF3 LLVXX9ENTDVBBF3 LLVXX9MDTDV3BF1 LLVXX9MDTDVBBF1 LLVXX9MNTDV3BF3 LLVXX9MNTDVBBF3 LLVXX9MNTDVBTF3 \"DR\" is printed on the motor housing. The model number on the walk-behind leaf vacuum is located on the front right side of the unit behind the wheel. The model number on the tow-behind leaf vacuum is on the impeller housing beside the engine.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Walk-Behind Leaf Vacuums and Tow-Behind Leaf Vacuums"
-    },
-    {
-      "id": 10542,
-      "text": "Infant Innovations Recalls BabyBond Retractable Safety Gates Due to Risk of Serious Injury or Death to Children from Entrapment; Violates Mandatory Standard for Gates and Enclosures — This recall involves BabyBond-branded retractable safety gates. The recalled safety gates were sold in black, gray and white and have a metal frame. They measure about 33 inches high with an adjustable width up to 55 inches. \"Retractable Safety Gate\" and model number \"SH20.006DB\" are printed on a white label stitched to the mesh fabric on the side of the gate.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "BabyBond Retractable Safety Gates"
-    },
-    {
-      "id": 10553,
-      "text": "Isla Rae Magnetic Wireless Chargers Recalled Due to Fire and Burn Hazards; Sold by TJX at T.J. Maxx and Marshalls Stores — This recall involves magnetic wireless chargers sold under the Isla Rae brand. The chargers are compatible with magnetic charging systems and attach magnetically to the back of a phone to charge the device. The chargers were sold in the following colors: white, pink, and purple. The model number \"RM5PBM\" can be found on the side of the magnetic wireless charger, below the markings \"5000 mAh 3.7V.\". Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Isla Rae Magnetic Wireless Chargers"
-    },
-    {
-      "id": 10555,
-      "text": "Joyful Journeys Recalls Baby Loungers Due to Risk of Serious Injury or Death from Entrapment and Fall Hazards; Violates Mandatory Standard for Infant Sleep Products — This recall involves Joyful Journeys baby loungers. The recalled baby loungers are made of a foam sleeping pad and padded bumpers with a cloth cover. The recalled baby loungers zip up into a bag with a strap at the top. The recalled baby loungers were sold in the following styles: green avocado, blue dinosaur, blue lambs, blue zoo animals, green minky, neutral elephants, pink zoo animals, and white minky. \"Joyful Journeys\" can be found on a tag stitched on the outside of the lounger cover and on a label stitched directly onto the back of the lounger.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Joyful Journeys Baby Loungers"
-    },
-    {
-      "id": 10552,
-      "text": "Kori Gey Water Toy Kits Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys; Sold on Amazon by Qaniy — This recall involves Kori Gey-branded water elf toy kits. The recalled kits are a children's craft toy that uses colored gel dropped into water to form soft, squishy jelly-like figures. The toy kit consists of 22 bottles of water gel (12 non-sparkly and 10 sparkly), 22 molds in various shapes, a plastic strainer, a plastic jar labeled magic powder, extra magic powder packet, a paint brush, disposable gloves and a LED light with a button cell battery. The toy sets come in a plastic jar with lid. \"Kori Gey\" and \"Water Elf Kit\" are printed on the front of the toy kits.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Kori Gey Water Elf Toy Kits"
-    },
-    {
-      "id": 10544,
-      "text": "Marcus Adler Glove Recalls Julie and Judah Pajama Pants and Shorts Due to Burn Hazard; Violates Mandatory Flammability Standards for Children's Sleepwear — This recall involves Julie and Judah pajama and lounge pants and shorts sold separately in various prints, including Fuzzy Heart, Gummy Bear, Star, Star Multi, Teddy Bear, Candy, Graffiti, Sprinkle, Smiley Flower, Shooting Star, Ribbon, Cloud, Boys Varsity Sports (pants only) and Boys Gaming (pants only). The pants were sold in sizes \"S\", \"M\" and \"L\". The shorts were sold in sizes \"S\" and \"M\". \"Julie and Judah\" appear on the main label sewn into the pants and shorts.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Julie and Judah pajama pants and shorts"
-    },
-    {
-      "id": 10545,
-      "text": "NFSVLB Baby Bath Seats Recalled Due to Risk of Serious Injury or Death to Children from Drowning and Entrapment; Violate Mandatory Standard for Infant Bath Seats; Sold on Amazon by NFSVLB — This recall involves NFSVLB-branded Baby Bath Seats. They are blue and white and have detachable arms that serve as a restraint. There are four suction cups on the seat's bottom. \"Model No.: ZY2025\" is printed on a label located on the side of the bath seat.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "NFSVLB Baby Bath Seats (blue)"
-    },
-    {
-      "id": 10554,
-      "text": "PNW Components Recalls Aluminum Alloy Bicycle Pedals Due to Crash Hazard — This recall involves the PNW Components Loam Pedal Gen 2 aluminum alloy mountain bike pedal. These pedals were sold after market through online retailers and bicycle shops. The pedal is a platform style (non-clip) pedal and can be identified by a \"Tectonic\" logo laser etched onto the pedal body on the left corner, on the same side as the threaded axle. The pedals are available in black, silver, green, orange and purple.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Loam Pedal Gen 2 aluminum alloy bicycle pedals"
-    },
-    {
-      "id": 10550,
-      "text": "Pounding Toys Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion Hazard; Violate Mandatory Standard for Toys; Sold on Amazon by Findriver and Weeksome — This recall involves the Lterfear Multifunction Pounding Game, model No. D888. The wooden multifunction pounding game includes four games: whack-a-mole, fishing, xylophone, and carrot cutting. The toy has a xylophone, gears, a clock, holes to insert various fruit shapes, and \"moles\" for pounding. The toy is sold with accessories, including xylophone mallets, a fishing rod, a pounding mallet, four wooden fish, four wooden carrots, wooden fruit and wooden knives. There are no markings on the product.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Lterfear Multifunction Pounding Game"
-    },
-    {
-      "id": 10546,
-      "text": "Rattan 6-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon by Rattan — This recall involves Rattan 6-Drawer Dressers, model YD001. The dressers are a natural wood color. They are made of wood, have six drawers with woven rattan drawer fronts, gold handles, and measure 43.3 inches by 15.7 inches by 29.5 inches. The model number \"YD001\" can be found on the product packaging.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Rattan 6-Drawer Dressers"
-    },
-    {
-      "id": 10551,
-      "text": "RH Recalls Natural Antler Chandeliers Due to Impact Hazard — This recall involves RH 48\" and 60\" diameter Natural Antler Chandeliers manufactured between September 2021 and October 2024 per customer special order and hung at an angle on a vaulted ceiling or sloped beam. The chandeliers are made from naturally shed elk antlers and were sold in three finishes: natural, sun-bleached and black. The 48\" diameter chandelier measures about 48\" tall and weighs about 40 pounds and was sold with SKU numbers 10036671NAT, 10036671SUNB and 10036671BLK. The 60\" diameter chandelier measures about 36\" tall and weighs about 45 pounds and was sold with SKU numbers 10035099NAT, 10035099SUNB and 10035099BLK. The SKU number is located on the order confirmation and printed on the receipt.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "48\" and 60\" Natural Antler Chandeliers"
-    },
-    {
-      "id": 10547,
-      "text": "Sangohe Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails — This recall involves Sangohe-branded adult portable bed rails. The black, trapezoidal-shaped bed rails measure about 22.4 inches wide by 32 inches tall and have an extendable handle with gray padding and a storage mesh pocket. Model number \"KDB504A01FT\" is printed on a label located on the frame, either on the bottom foot tube or on the horizontal cross tube. \"Sangohe\" is printed on the product packaging.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Sangohe Bed Rails"
-    },
-    {
-      "id": 10543,
-      "text": "The Kalencom Corporation Recalls SARO Braided Crib Bumpers Due to Risk of Serious Injury or Death from Suffocation; Violates Federal Crib Bumper Ban — This recall involves SARO Braided Crib Bumpers, Model 1374. The crib bumpers were sold in salmon, gray and mint colors. \"Ref. 1374\" is printed on a tag sewn into the crib bumpers and on a tag attached to the product packaging.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "SARO Braided Crib Bumpers"
-    },
-    {
-      "id": 10548,
-      "text": "Vasicar 18-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment; Violates Mandatory Standard for Clothing Storage Units — This recall involves Vasicar 18-Drawer Dressers. The dressers were sold in black, white, gray, and mixed colors. They have a metal frame, wooden top, and 18 collapsable fabric drawers. The dressers are 37.8 inches long by 11.8 inches wide by 57.1 inches tall. Some of the dressers have \"VR-US18D-Black,\" \"VR-US18D-White,\" \"VR-US18D-Gray,\" and \"VR-US18D-Mixed\" printed on the product packaging.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Vasicar 18-Drawer Dressers"
-    },
-    {
-      "id": 10549,
-      "text": "YOLAAH Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation Hazards; Violate Mandatory Standard for Adult Portable Bed Rails — This recall involves YOLAAH Bed Rails, model BR-01. The bed rail has a black rubber hand grip, storage pocket, and white metal base. The bed rails measure 15.8 inches tall by 26.8 inches wide. The bed rail has \"YOLAAH\" printed on the storage pocket.",
-      "timestamp": "2026-01-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "YOLAAH Portable Bed Rails"
     }
   ]
 }
