@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-02-20T02:39:02.781Z",
+  "fetched_at": "2026-02-20T05:19:10.672Z",
   "items": [
     {
       "id": 10618,
@@ -515,15 +515,6 @@
       "hazard": null,
       "remedy": null,
       "product": "Yetonamr Pull String Teething Toys"
-    },
-    {
-      "id": "null-Error retrieving Recalls: An error occurred while executing the command definition. See the inner exception for details.",
-      "text": "Error retrieving Recalls: An error occurred while executing the command definition. See the inner exception for details.",
-      "timestamp": null,
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": null
     }
   ]
 }
