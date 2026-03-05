@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-03-05T02:38:49.876Z",
+  "fetched_at": "2026-03-05T05:15:21.287Z",
   "items": [
     {
       "id": 10649,
@@ -560,15 +560,6 @@
       "hazard": null,
       "remedy": null,
       "product": "Scepter Gas and Oil Combination Fuel Containers"
-    },
-    {
-      "id": "null-Error retrieving Recalls: Invalid attempt to call IsDBNull when reader is closed.",
-      "text": "Error retrieving Recalls: Invalid attempt to call IsDBNull when reader is closed.",
-      "timestamp": null,
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": null
     }
   ]
 }
