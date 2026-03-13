@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-03-13T13:14:31.748Z",
+  "fetched_at": "2026-03-13T14:51:25.845Z",
   "items": [
     {
       "id": 10659,
@@ -11,6 +11,15 @@
       "hazard": null,
       "remedy": null,
       "product": "17 Stories Furniture 14-Drawer Dressers"
+    },
+    {
+      "id": 10660,
+      "text": "LFTE USA Recalls Playground Swing Set Seats Due to Fall Hazard — This recall involves the Playground Swing Set Seats sold as part of assembled playground sets. The swing belt seat was sold in black, blue, green, red, tan, and yellow colors. The product is marked with the code \"LF-65708\" on the seat pad part. Only swings with model number 999604 are included in this recall.",
+      "timestamp": "2026-03-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Playground Swing Set Seats"
     },
     {
       "id": 10658,
