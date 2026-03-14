@@ -1,18 +1,12 @@
 {
   "source": "trends",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-03-14T06:58:31.314577Z",
+  "fetched_at": "2026-03-14T08:44:17.992272Z",
   "items": [
-    {
-      "id": "hydration-bottles-problems:iot:water bottle leak review",
-      "text": "TRENDS: interest over time average (14d) for 'water bottle leak review' is 7.1",
-      "timestamp": "2026-03-14T06:58:28.514876Z",
-      "lang": "en"
-    },
     {
       "id": "hydration-bottles-problems:iot:bottle smell problem",
       "text": "TRENDS: interest over time average (14d) for 'bottle smell problem' is 0.0",
-      "timestamp": "2026-03-14T06:58:29.291115Z",
+      "timestamp": "2026-03-14T08:44:16.257663Z",
       "lang": "en"
     }
   ]
