@@ -1,24 +1,18 @@
 {
   "source": "trends",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-03-15T07:08:16.546446Z",
+  "fetched_at": "2026-03-15T08:47:21.879606Z",
   "items": [
-    {
-      "id": "portable-anxiety-relief:iot:anxiety necklace review",
-      "text": "TRENDS: interest over time average (14d) for 'anxiety necklace review' is 0.0",
-      "timestamp": "2026-03-15T07:08:13.633604Z",
-      "lang": "en"
-    },
     {
       "id": "portable-anxiety-relief:iot:breathing necklace review problems",
       "text": "TRENDS: interest over time average (14d) for 'breathing necklace review problems' is 0.0",
-      "timestamp": "2026-03-15T07:08:14.631359Z",
+      "timestamp": "2026-03-15T08:47:20.280922Z",
       "lang": "en"
     },
     {
       "id": "portable-anxiety-relief:iot:calm necklace issues",
-      "text": "TRENDS: interest over time average (14d) for 'calm necklace issues' is 7.1",
-      "timestamp": "2026-03-15T07:08:16.330800Z",
+      "text": "TRENDS: interest over time average (14d) for 'calm necklace issues' is 0.0",
+      "timestamp": "2026-03-15T08:47:21.628786Z",
       "lang": "en"
     }
   ]
