@@ -1,13 +1,6 @@
 {
   "source": "trends",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-03-23T09:07:07.678742Z",
-  "items": [
-    {
-      "id": "hydration-bottles-problems:iot:water bottle hard to clean",
-      "text": "TRENDS: interest over time average (14d) for 'water bottle hard to clean' is 14.3",
-      "timestamp": "2026-03-23T09:07:06.274801Z",
-      "lang": "en"
-    }
-  ]
+  "fetched_at": "2026-03-23T11:00:00.141109Z",
+  "items": []
 }
