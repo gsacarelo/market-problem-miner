@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-03-27T17:02:04.820Z",
+  "fetched_at": "2026-03-27T19:04:01.906Z",
   "items": [
     {
       "id": 10670,
@@ -31,6 +31,15 @@
       "product": "CCCEI Power Strips"
     },
     {
+      "id": 10679,
+      "text": "DIY Cold Plunge Recalls Sauna Heater Kits Due to Risk of Serious Injury or Death from Fire Hazard — This recall involves the DIY Sauna Heater Kit. The product is a do-it-yourself kit for consumers to assemble a heating fixture with four heat-lamp bulbs (sold separately) and a metal enclosure intended for use in a separate do-it-yourself sauna enclosure, for which carpentry plans are sold separately. The Sauna Heater Kit includes a stainless steel cage (which weighs about 16 lbs., and measures 12\"H x 12\"W x 8\"D when assembled), screws/bolts for assembly, four ceramic bulb sockets, three wire connectors, two ground pigtails, and a three-prong power cord. The recalled Sauna Heater Kit is intended to attach to a customer-built wood frame.",
+      "timestamp": "2026-03-26T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "DIY Sauna Heater Kits"
+    },
+    {
       "id": 10673,
       "text": "DuraTrac Recalls Stainless Steel Gas Connectors Due to Fire Hazard — This recall involves DuraTrac stainless steel gas connectors sold between May 2025 and November 2025. The recalled products have a yellow product label that includes the brand name \"DuraTrac,\" and \"Made in Thailand,\" and are marked CSA file number \"259973\" engraved on the flare nuts with one of the following codes indicating their date of manufacture: 24D, 25A, 25B, or 25C.",
       "timestamp": "2026-03-26T00:00:00",
@@ -56,6 +65,15 @@
       "hazard": null,
       "remedy": null,
       "product": "GLMZZ Fidget Magnet Ball Toys"
+    },
+    {
+      "id": 10680,
+      "text": "MPINOI Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Bioenrrty — This recall involves MPINOI-branded adult portable bed rails. The white metal bed rails measure about 15 inches wide by 26 inches tall and have an extendable handle with gray padding and a black storage mesh pocket. \"MPINOI\" is printed on the mesh pocket.",
+      "timestamp": "2026-03-26T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "MPINOI Adult Portable Bed Rails"
     },
     {
       "id": 10669,
