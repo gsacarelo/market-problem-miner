@@ -1,6 +1,13 @@
 {
   "source": "trends",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-04-04T10:42:38.128754Z",
-  "items": []
+  "fetched_at": "2026-04-04T13:11:01.589282Z",
+  "items": [
+    {
+      "id": "hydration-bottles-problems:iot:smart bottle broke",
+      "text": "TRENDS: interest over time average (14d) for 'smart bottle broke' is 7.1",
+      "timestamp": "2026-04-04T13:11:00.590611Z",
+      "lang": "en"
+    }
+  ]
 }
