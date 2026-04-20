@@ -1,16 +1,16 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-04-20T13:58:31.878Z",
+  "fetched_at": "2026-04-20T15:24:20.314Z",
   "items": [
     {
       "id": 10712,
-      "text": "BISSELL Recalls Over One Million Steam Shot OmniReach Steam Cleaners Due to Risk of Serious Burn Hazard from Attachments — This recall involves certain BISSELL Steam Shot OmniReach and Omni handheld steam cleaners with attachments. The affected model numbers are 4155, 4155L, 4155W, 4155G, 4155D, 4155J, 4155Y, 4155P, 4171, 4171L, 4171W, and 4171F. The model numbers are located on the product rating label on the bottom of the unit. The recalled units were sold in green, gray, white, blue, and dark blue. Depending on the model, the products include an accessory nozzle, grout brush, round detail brushes, flat scraping tool, and angle concentrator tool, and may also include an extension hose, fabric steamer and steam squeegee. The attachments and the hose are gray in color.",
+      "text": "Generac Power Systems Recalls Portable Generators Due to Risk of Serious Injury or Death from Burn and Fire Hazards — This recall involves certain Generac Portable Generators which have an orange/black cover and are encased in a steel-tube cradle. It comes with two wheels on the back for easy transportation. “Generac” and the “unit type” are located on the side panel of the generators. The model and serial number are printed on a label attached to the side of the unit. Consumers will need to have their model and serial number available prior to logging on to https://www.generac.com/about/recalls/GP-Carburetor to determine if their generator is included in the recall. Recalled unit types and model numbers are listed below, within limited serial range. Unit Types Model Numbers GP3600 G0077210 GP4000DF G0081550 GP6500 G0076802, G0076722 GP6500E G0077130 GP6500EDF G0081530 GP6700EDF G0080620 GP8000E G0077150, G0076754, G0081540 GP9200E G0079712 GP9500ETF G0080630",
       "timestamp": "2026-04-16T00:00:00",
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Steam Shot OmniReach and Steam Shot Omni Steam Cleaners with attachments"
+      "product": "Generac Portable Generators"
     },
     {
       "id": 10711,
