@@ -1,8 +1,80 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-05-01T11:13:46.689Z",
+  "fetched_at": "2026-05-01T13:42:26.648Z",
   "items": [
+    {
+      "id": 10745,
+      "text": "5-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units; Imported by UHOMEPRO — This recall involves UHOMEPRO 5-Drawer Dressers. The recalled dressers are made of particle board and were sold in black and white. The dresser has five drawers, each with a golden handle. The dresser is 26 inches long by 15.7 inches wide by 38.6 inches tall and weighs about 66 pounds.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "UHOMEPRO 5-Drawer Dressers"
+    },
+    {
+      "id": 10746,
+      "text": "Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Imported by Hepo Care Medical Equipment Online — This recall involves Hepo-branded adult portable bed rails, model 110039. The recalled bed rails have white tubing with black foam rubber handle grips, a black fabric pouch, and measures about 16 inches wide by 25 inches high. The model number is located on the original product packaging.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Hepo Adult Portable Bed Rails"
+    },
+    {
+      "id": 10742,
+      "text": "Alliance Chemical Recalls 1-K Kerosene Heater Fluid Containers Due to Risk of Serious Injury or Death from Flash Fire, Burn and Child Poisoning; Violates Mandatory Standards for Portable Fuel Containers — This recall involves the bottles of 1-K Kerosene Heater Fuel. The bottles come in transparent plastic containers with white caps and have a multicolor label with \"KEROSENE\" in all capital white lettering and \"1-K HEATER FUEL\" in similar lettering. The label only has a single front panel and contains warnings and distributor information.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "1-K Kerosene Heater Fluid Portable Fuel Containers"
+    },
+    {
+      "id": 10748,
+      "text": "Earthtec Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Manufactured by Tonyidea — This recall involves Earthtec pool drain covers that are sold for use in swimming pools. The pool drain covers are 7 3/8-inches in diameter and come with two screws. They are white and made of ABS plastic.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Earthtec 7 3/8 Inch Pool Drain Covers"
+    },
+    {
+      "id": 10744,
+      "text": "Malker Bicycle Light Sets Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Consumer Products with Button Cell Batteries; Sold on Amazon by MalkerDirect — This recall involves Malker Bicycle Light Sets. The bicycle lights were sold in 4- or 8-pack sizes. The products made with red silicone emit red light, products with black silicone emit white light, and products with white silicone emit white light. Each light contains two preinstalled CR2032 button cell batteries. The bicycle lights have \"Malker Bicycle Light\" printed on labels located on the front packaging. Recalled Bicycle Light Sets: Pack Description Price 8 Piece 4 pcs red & 4 pcs black 9.99 4 Piece 2 pcs red & 2 pcs black $6.99 4 Piece 2 pcs red & 2 pcs white 6.99 4 Piece 4 pcs black $6.99",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Malker Bicycle Light Sets"
+    },
+    {
+      "id": 10747,
+      "text": "Residential Elevators Recalls Elevator StrikeLock Hoistway Door Locking Device Due to Risk of Serious Injury or Death from Fall and Injury Hazards — This recall involves the StrikeLock hoistway door locking device, used to secure a residential elevator hoistway landing door. The product is silver in color. The door locking device is installed into the landing door jamb and looks similar to a standard door latch plate.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Residential Elevators StrikeLock Hoistway Door Locking Device"
+    },
+    {
+      "id": 10743,
+      "text": "Segmart 4-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment; Violate Mandatory Standard for Clothing Storage Units; Sold on Walmart.com by SOFT — This recall involves Segmart 4-Drawer Dressers. The recalled dressers are made of particle board and were sold in black and white. The dressers have four drawers, are 15.7 inches long by 26 inches wide by 28.5 inches tall and weigh 70 pounds. Model numbers \"FFLWM002BK\" or \"FFLWM002WE\" are printed on labels located the product packaging.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Segmart 4-Drawer Dressers"
+    },
+    {
+      "id": 10741,
+      "text": "Thermos Recalls 8.2 Million Stainless King Food Jars and Bottles Due to Serious Impact Injury and Laceration Hazards — This recall involves Thermos Stainless King Food Jars with model numbers SK3000 and SK3020, manufactured before July 2023 and all Thermos Sportsman Food & Beverage Bottles with model number SK3010. The stopper of the recalled Food Jars and Food & Beverage Bottles does not have a pressure relief in the center. The containers were sold in a variety of colors in sizes of 16-oz, model number SK3000, 24-oz, model number SK3020, and 40-oz, model number SK3010. The Thermos trademark is located on the side of the product. The model numbers are printed on the bottom of the recalled containers.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Thermos Stainless King 3000 and 3020 Food Jars and Thermos Sportsman 3010 Food & Beverage Bottles"
+    },
     {
       "id": 10736,
       "text": "32 Degrees Recalls Heated Socks Due to Burn Hazard — This recall involves heated socks sold in three sizes (medium, large, extra large), all in the color black. \"32° HEAT\" appears on the battery pack casing, battery pack packaging, user manual and the exterior retail packaging for the products.",
