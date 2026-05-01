@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-05-01T13:42:26.648Z",
+  "fetched_at": "2026-05-01T15:03:13.471Z",
   "items": [
     {
       "id": 10745,
@@ -11,6 +11,15 @@
       "hazard": null,
       "remedy": null,
       "product": "UHOMEPRO 5-Drawer Dressers"
+    },
+    {
+      "id": 10750,
+      "text": "Acer America Corporation Recalls Two-Wheeled Folding Electric Due to Risk of Injury from Fall Hazard — This recall involves the Acer AES015 two-wheeled folding electric scooters. The scooters are designed to allow the user to fold the front tube down to the platform for compact transport and storage. They were sold in black with a green and white decal on the front tube and the sides of the platform, and the wheels have a green circle around the rim. The model number AES015 is located on the label on the front tube.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Acer AES015 Two-Wheeled Folding Electric Scooters"
     },
     {
       "id": 10746,
@@ -31,6 +40,42 @@
       "product": "1-K Kerosene Heater Fluid Portable Fuel Containers"
     },
     {
+      "id": 10755,
+      "text": "American Honda Motor Recalls Off-Road Motorcycles Due to Risk of Serious Injury or Death Due to Crash Hazard — This recall involves model year 2025-2026 Honda off-road motorcycles with model numbers CRF250R/RX/RWE or CRF450R/RX/RWE. The model number can be found on the front of the bike in white letters. The white Honda logo is printed on both sides of the back of the motorcycle. The motorcycles have a red chassis. The vehicle identification number (VIN) can be found on the left side of the steering head on all models. Consumers can check if their VIN is included in the recall at https://powersports.honda.com/recalls.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Model Year 2025-2026 CRF250R/RX/RWE and CRF450R/RX/RWE Off-Road Motorcycles"
+    },
+    {
+      "id": 10752,
+      "text": "Bayer Recalls 6 mL Size Afrin Original Nasal Spray Bottles Due to Risk of Serious Injury or Illness from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging — This recall involves unexpired Travel Size Afrin® Original Nasal Spray 6 mL bottles, with Lot numbers 230361, 240822, 241198, 250066, 250152, 250646, and 250831. These travel size bottles have \"Afrin® Original Nasal Spray\" and \"1/5 FL OZ (6 mL)\" printed on a label located on the front of the bottle. It is a six-digit number, followed by the expiration date in following format: \"YYYYMMM\". No other sizes of Afrin are included in this recall.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Travel Size Afrin® Original Nasal Spray 6 mL Bottles"
+    },
+    {
+      "id": 10754,
+      "text": "Build-A-Bear Workshop Recalls Heartwarming Hugs Bears Due to Risk of Serious Injury or Death from Choking Hazard to Children — This recall involves the Heartwarming Hugs weighted plush bear with model number 034464. It has a side pouch containing a heart filled with 2.5 pounds of ceramic beads, which can be heated or cooled for comfort. The pouch is secured with a zipper. The product is graded 3 years+ and carries a cautionary statement advising adult supervision due to the heated/cooled element. The model number is located on the label sewn into the back side of one bear leg.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Build-A-Bear Workshop Heartwarming Hugs Bears"
+    },
+    {
+      "id": 10753,
+      "text": "CBC Group Recalls Stephan Baby Boo Bunnie and Friends Children's Toys Due to Risk of Serious Injury from Choking and Laceration Hazards — This recall involves all Stephan Baby-branded Boo Bunnie and Friends children's toys. The recalled toys consist of a small plush animal with a removable, water-filled plastic cube that can be chilled for comfort. The toys measure between 3.5 and 3.7 inches long, between 2.5 and 3 inches tall and between 2.3 and 2.5 inches wide and were sold in various colors and animal shapes. \"Stephan BABY\" is printed on a sewn-in label located along the side seam on the right underside of the plush and on the front and on the underside of the toys' box packaging.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Stephan Baby Boo Bunnie and Friends Children's Toys"
+    },
+    {
       "id": 10748,
       "text": "Earthtec Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Manufactured by Tonyidea — This recall involves Earthtec pool drain covers that are sold for use in swimming pools. The pool drain covers are 7 3/8-inches in diameter and come with two screws. They are white and made of ABS plastic.",
       "timestamp": "2026-04-30T00:00:00",
@@ -47,6 +92,24 @@
       "hazard": null,
       "remedy": null,
       "product": "Malker Bicycle Light Sets"
+    },
+    {
+      "id": 10749,
+      "text": "Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards; Imported by DGIVOVO US — This recall involves DGIVOVO US-branded pressure washers. The recalled, electric pressure washers are red, green or blue with black, and measure about seven inches high, nine inches wide and eight inches deep. They came with a 500 ml spray can attachment, foam cannon, four connect nozzles, a 20-foot hose and two rollers. \"Model: C4012PLUS-1500C\" is printed on a label located on the back of the pressure washers.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "DGIVOVO US Electric Pressure Washers"
+    },
+    {
+      "id": 10751,
+      "text": "Qumeney Bicycle Light Sets Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries; Sold on Amazon by Smfanlus — This recall involves Qumeney Bicycle Light Sets, models: BL-01 and BL-02. The bicycle lights are encased in silicone material and available in six colors including: black, white, red, green, yellow and blue. They are sold in packs of six (one of each color) and 24 (four of each color), each light contains two button cell batteries. The bicycle lights have \"QUMENEY\" printed on the labels located at the top of the package.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Qumeney Bicycle Light Sets"
     },
     {
       "id": 10747,
