@@ -1,8 +1,242 @@
 {
   "source": "cpsc",
-  "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-04-20T22:53:10.638Z",
+  "topic_id": "hydration-bottles-problems",
+  "fetched_at": "2026-05-04T03:49:50.750Z",
   "items": [
+    {
+      "id": 10745,
+      "text": "5-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units; Imported by UHOMEPRO — This recall involves UHOMEPRO 5-Drawer Dressers. The recalled dressers are made of particle board and were sold in black and white. The dresser has five drawers, each with a golden handle. The dresser is 26 inches long by 15.7 inches wide by 38.6 inches tall and weighs about 66 pounds.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "UHOMEPRO 5-Drawer Dressers"
+    },
+    {
+      "id": 10750,
+      "text": "Acer America Corporation Recalls Two-Wheeled Folding Electric Due to Risk of Injury from Fall Hazard — This recall involves the Acer AES015 two-wheeled folding electric scooters. The scooters are designed to allow the user to fold the front tube down to the platform for compact transport and storage. They were sold in black with a green and white decal on the front tube and the sides of the platform, and the wheels have a green circle around the rim. The model number AES015 is located on the label on the front tube.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Acer AES015 Two-Wheeled Folding Electric Scooters"
+    },
+    {
+      "id": 10746,
+      "text": "Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Imported by Hepo Care Medical Equipment Online — This recall involves Hepo-branded adult portable bed rails, model 110039. The recalled bed rails have white tubing with black foam rubber handle grips, a black fabric pouch, and measures about 16 inches wide by 25 inches high. The model number is located on the original product packaging.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Hepo Adult Portable Bed Rails"
+    },
+    {
+      "id": 10742,
+      "text": "Alliance Chemical Recalls 1-K Kerosene Heater Fluid Containers Due to Risk of Serious Injury or Death from Flash Fire, Burn and Child Poisoning; Violates Mandatory Standards for Portable Fuel Containers — This recall involves the bottles of 1-K Kerosene Heater Fuel. The bottles come in transparent plastic containers with white caps and have a multicolor label with \"KEROSENE\" in all capital white lettering and \"1-K HEATER FUEL\" in similar lettering. The label only has a single front panel and contains warnings and distributor information.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "1-K Kerosene Heater Fluid Portable Fuel Containers"
+    },
+    {
+      "id": 10755,
+      "text": "American Honda Motor Recalls Off-Road Motorcycles Due to Risk of Serious Injury or Death Due to Crash Hazard — This recall involves model year 2025-2026 Honda off-road motorcycles with model numbers CRF250R/RX/RWE or CRF450R/RX/RWE. The model number can be found on the front of the bike in white letters. The white Honda logo is printed on both sides of the back of the motorcycle. The motorcycles have a red chassis. The vehicle identification number (VIN) can be found on the left side of the steering head on all models. Consumers can check if their VIN is included in the recall at https://powersports.honda.com/recalls.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Model Year 2025-2026 CRF250R/RX/RWE and CRF450R/RX/RWE Off-Road Motorcycles"
+    },
+    {
+      "id": 10752,
+      "text": "Bayer Recalls 6 mL Size Afrin Original Nasal Spray Bottles Due to Risk of Serious Injury or Illness from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging — This recall involves unexpired Travel Size Afrin® Original Nasal Spray 6 mL bottles, with Lot numbers 230361, 240822, 241198, 250066, 250152, 250646, and 250831. These travel size bottles have \"Afrin® Original Nasal Spray\" and \"1/5 FL OZ (6 mL)\" printed on a label located on the front of the bottle. It is a six-digit number, followed by the expiration date in following format: \"YYYYMMM\". No other sizes of Afrin are included in this recall.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Travel Size Afrin® Original Nasal Spray 6 mL Bottles"
+    },
+    {
+      "id": 10754,
+      "text": "Build-A-Bear Workshop Recalls Heartwarming Hugs Bears Due to Risk of Serious Injury or Death from Choking Hazard to Children — This recall involves the Heartwarming Hugs weighted plush bear with model number 034464. It has a side pouch containing a heart filled with 2.5 pounds of ceramic beads, which can be heated or cooled for comfort. The pouch is secured with a zipper. The product is graded 3 years+ and carries a cautionary statement advising adult supervision due to the heated/cooled element. The model number is located on the label sewn into the back side of one bear leg.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Build-A-Bear Workshop Heartwarming Hugs Bears"
+    },
+    {
+      "id": 10753,
+      "text": "CBC Group Recalls Stephan Baby Boo Bunnie and Friends Children's Toys Due to Risk of Serious Injury from Choking and Laceration Hazards — This recall involves all Stephan Baby-branded Boo Bunnie and Friends children's toys. The recalled toys consist of a small plush animal with a removable, water-filled plastic cube that can be chilled for comfort. The toys measure between 3.5 and 3.7 inches long, between 2.5 and 3 inches tall and between 2.3 and 2.5 inches wide and were sold in various colors and animal shapes. \"Stephan BABY\" is printed on a sewn-in label located along the side seam on the right underside of the plush and on the front and on the underside of the toys' box packaging.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Stephan Baby Boo Bunnie and Friends Children's Toys"
+    },
+    {
+      "id": 10748,
+      "text": "Earthtec Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Manufactured by Tonyidea — This recall involves Earthtec pool drain covers that are sold for use in swimming pools. The pool drain covers are 7 3/8-inches in diameter and come with two screws. They are white and made of ABS plastic.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Earthtec 7 3/8 Inch Pool Drain Covers"
+    },
+    {
+      "id": 10744,
+      "text": "Malker Bicycle Light Sets Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Consumer Products with Button Cell Batteries; Sold on Amazon by MalkerDirect — This recall involves Malker Bicycle Light Sets. The bicycle lights were sold in 4- or 8-pack sizes. The products made with red silicone emit red light, products with black silicone emit white light, and products with white silicone emit white light. Each light contains two preinstalled CR2032 button cell batteries. The bicycle lights have \"Malker Bicycle Light\" printed on labels located on the front packaging. Recalled Bicycle Light Sets: Pack Description Price 8 Piece 4 pcs red & 4 pcs black 9.99 4 Piece 2 pcs red & 2 pcs black $6.99 4 Piece 2 pcs red & 2 pcs white 6.99 4 Piece 4 pcs black $6.99",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Malker Bicycle Light Sets"
+    },
+    {
+      "id": 10749,
+      "text": "Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards; Imported by DGIVOVO US — This recall involves DGIVOVO US-branded pressure washers. The recalled, electric pressure washers are red, green or blue with black, and measure about seven inches high, nine inches wide and eight inches deep. They came with a 500 ml spray can attachment, foam cannon, four connect nozzles, a 20-foot hose and two rollers. \"Model: C4012PLUS-1500C\" is printed on a label located on the back of the pressure washers.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "DGIVOVO US Electric Pressure Washers"
+    },
+    {
+      "id": 10751,
+      "text": "Qumeney Bicycle Light Sets Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries; Sold on Amazon by Smfanlus — This recall involves Qumeney Bicycle Light Sets, models: BL-01 and BL-02. The bicycle lights are encased in silicone material and available in six colors including: black, white, red, green, yellow and blue. They are sold in packs of six (one of each color) and 24 (four of each color), each light contains two button cell batteries. The bicycle lights have \"QUMENEY\" printed on the labels located at the top of the package.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Qumeney Bicycle Light Sets"
+    },
+    {
+      "id": 10747,
+      "text": "Residential Elevators Recalls Elevator StrikeLock Hoistway Door Locking Device Due to Risk of Serious Injury or Death from Fall and Injury Hazards — This recall involves the StrikeLock hoistway door locking device, used to secure a residential elevator hoistway landing door. The product is silver in color. The door locking device is installed into the landing door jamb and looks similar to a standard door latch plate.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Residential Elevators StrikeLock Hoistway Door Locking Device"
+    },
+    {
+      "id": 10743,
+      "text": "Segmart 4-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment; Violate Mandatory Standard for Clothing Storage Units; Sold on Walmart.com by SOFT — This recall involves Segmart 4-Drawer Dressers. The recalled dressers are made of particle board and were sold in black and white. The dressers have four drawers, are 15.7 inches long by 26 inches wide by 28.5 inches tall and weigh 70 pounds. Model numbers \"FFLWM002BK\" or \"FFLWM002WE\" are printed on labels located the product packaging.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Segmart 4-Drawer Dressers"
+    },
+    {
+      "id": 10741,
+      "text": "Thermos Recalls 8.2 Million Stainless King Food Jars and Bottles Due to Serious Impact Injury and Laceration Hazards — This recall involves Thermos Stainless King Food Jars with model numbers SK3000 and SK3020, manufactured before July 2023 and all Thermos Sportsman Food & Beverage Bottles with model number SK3010. The stopper of the recalled Food Jars and Food & Beverage Bottles does not have a pressure relief in the center. The containers were sold in a variety of colors in sizes of 16-oz, model number SK3000, 24-oz, model number SK3020, and 40-oz, model number SK3010. The Thermos trademark is located on the side of the product. The model numbers are printed on the bottom of the recalled containers.",
+      "timestamp": "2026-04-30T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Thermos Stainless King 3000 and 3020 Food Jars and Thermos Sportsman 3010 Food & Beverage Bottles"
+    },
+    {
+      "id": 10736,
+      "text": "32 Degrees Recalls Heated Socks Due to Burn Hazard — This recall involves heated socks sold in three sizes (medium, large, extra large), all in the color black. \"32° HEAT\" appears on the battery pack casing, battery pack packaging, user manual and the exterior retail packaging for the products.",
+      "timestamp": "2026-04-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "32 Degrees Heated Socks"
+    },
+    {
+      "id": 10735,
+      "text": "Autobrush Recalls Sonic Pro Children's Toothbrush Boxes Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Coin Batteries — This recall involves Autobrush's Sonic Pro Kids toothbrush boxes used as packaging for delivering children's toothbrushes. The electric toothbrushes consist of a u-shaped mouthpiece and a plastic base with an animal's face that matches the model's name: Unity the Unicorn, Lenni the Lion, Harley the Hippo and Danny the Dino. The light-up, musical toothbrushes have a built-in timer and three brush settings and were sold with a USB cable, a magnetic plug and decoration stickers inside a cardboard delivery box. The delivery box's white tray has a speaker with a coin cell battery on the underside. Additionally, \"autobrush KIDS,\" the toothbrush's model name and an animal image that corresponds to the model are printed on the box.",
+      "timestamp": "2026-04-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Autobrush Sonic Pro Kids Toothbrush Boxes"
+    },
+    {
+      "id": 10734,
+      "text": "Children's Tower Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by AMZCMJ DGD — This recall involves AMZCMJ DGD-branded children's tower stools. The wooden kitchen stools measure about 15 inches deep, 22 inches wide and 34 inches tall. They are foldable and convert into a table and a chair and have a blackboard. The brand name is printed on the product's order receipt.",
+      "timestamp": "2026-04-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "AMZCMJ DGD Children's Tower Stools"
+    },
+    {
+      "id": 10733,
+      "text": "Children's Tower Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by TOETOL HOME — This recall involves TOETOL HOME-branded children's tower stools, model DETD0001. The wooden kitchen tower step stools were sold in white, gray and dark wood colors and measure about 20 inches deep, 15 inches wide and 36 inches tall with model DETD0001 printed on a label on the side.",
+      "timestamp": "2026-04-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "TOETOL Tower Stools"
+    },
+    {
+      "id": 10739,
+      "text": "Cpzzkq Baby Loungers Recalled Due to Risk of Serious Injury or Death from Suffocation Hazard; Violates Mandatory Standard for Infant Support Cushions; Sold on Amazon by CetoPMax — This recall involves Cpzzkq baby loungers. The baby loungers come in white, grayish blue, pink, zuma blue and brown. The recalled baby loungers are rectangular in shape and are made of a foam pad with a cloth cover. The loungers have the brand printed on a tag on the side of the lounger.",
+      "timestamp": "2026-04-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Cpzzkq Baby Loungers"
+    },
+    {
+      "id": 10738,
+      "text": "HappyGira Recalls Sweetie Baby and Style Life Eleven Baby Loungers Due to Risk of Serious Injury or Death from Suffocation and Fall Hazards; Violates Mandatory Standard for Infant Sleep Products — This recall involves Sweetie Baby-branded and Style Life Eleven-branded baby loungers. The recalled baby loungers are made of a foam sleeping pad and padded bumpers with a cloth cover and were sold in multiple styles and colors. The Style Life Eleven rectangular loungers zip up into a bag with the brand stitched on it. The Sweetie Baby oval loungers have the brand printed on a tag on the side of the lounger.",
+      "timestamp": "2026-04-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Sweetie Baby and Style Life Eleven Baby Loungers"
+    },
+    {
+      "id": 10740,
+      "text": "KMUYSL Big Red Barn Farm Animal Playsets Recalled Due to Risk of Serious Injury or Death from Choking; Violates Small Parts Ban; Sold on Amazon by MISSJUNE — This recall involves KMUYSL Big Red Barn Farm Animal Playsets. The children's toy sets consist of one red barn, one farmer figure and nine animal figures, including a cow, donkey, duck, sheep, chicken, goose, horse, pig and rabbit. The barn measures 9.6 inches long by 4.4 inches wide by 8.8 inches high, the size of the animal figures are about 1.8 inches long by 2 inches wide. The model number \"SY-MZ7S-TVMV\" is printed on the label located on the back of the packaging.",
+      "timestamp": "2026-04-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "KMUYSL Big Red Barn Farm Animal Playsets"
+    },
+    {
+      "id": 10737,
+      "text": "Magnetic Stick Figure Sets Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys; Sold on Walmart by BlissfulDestiny — This recall involves 10 flexible stick figures in purple, black, red, orange, pink, yellow, blue, white, dark green and light green. Each stick figure has four small magnets, one in each hand and foot. The stick figures come in clear plastic packaging.",
+      "timestamp": "2026-04-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "BlissfulDestiny Magnetic Stick Figure Sets"
+    },
+    {
+      "id": 10730,
+      "text": "mGanna Sodium Hydroxide Pellet Bags Recalled Due to Risk of Serious Injury or Death from Chemical Burns and Irritation to the Skin and Eyes; Violate Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by Archie Xpress — This recall involves mGanna Sodium Hydroxide pellet bags. The product is packaged in a vacuum-sealed clear plastic bag inside a white, zip-top pouch with a tear-away feature. The front of the package states \"mGanna SODIUM HYDROXIDE (NaOH)\" at the top. Sodium hydroxide has a variety of uses such as soap making, baking, and cleaning solutions.",
+      "timestamp": "2026-04-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "mGanna Sodium Hydroxide (lye) Pellet Bags"
+    },
+    {
+      "id": 10732,
+      "text": "Tzumi Electronics Recalls FitRx SmartBell Quick-Select Adjustable Dumbbells Due to Serious Injury from Impact Hazard — This recall involves FitRx SmartBell Quick-Select Adjustable Dumbbells 5-52.5lbs, model 8361, with serial numbers KK23288361 through KK23388361 and KK207608361 through KK21347836 only. The dumbbells were sold in black with red accents and include handles, weight plates and a molded plastic storage tray. The dumbbells adjust from 5 to 52.5 pounds, in 2.5- or 5-pound increments, by turning the handle to the desired weight, while the dumbbell is nested in the storage tray. The model number and serial number are located on the side of the unit's storage tray. \"FitRx\" is printed on the storage tray and on the dumbbell handles.",
+      "timestamp": "2026-04-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "FitRx SmartBell Quick-Select 5-52.5lbs Adjustable Dumbbells"
+    },
+    {
+      "id": 10731,
+      "text": "Wiifo Children's Tower Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by Wiifo — This recall involves Wiifo-branded children's tower stools. The wooden kitchen tower stools were sold in white, natural and light wood finish, and measure about 18 inches deep, 18 inches wide and 34 inches tall. \"Model LT005\" printed on label on the underside of the standing platform.",
+      "timestamp": "2026-04-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Wiifo Children's Tower Stools"
+    },
     {
       "id": 10726,
       "text": "Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by ZOLIQUEX — This recall involves Zoliquex-branded adult portable bed rails. The bed rail comes in silver, measures 12.4 wide by 33.07 inches tall, and weighs 7.1 pounds. The model number \"ZEX014-V1\" and \"Zoliquex\" are both printed on the products packaging.",
@@ -335,222 +569,6 @@
       "hazard": null,
       "remedy": null,
       "product": "Yeeluzan Pool Drain Covers"
-    },
-    {
-      "id": 10681,
-      "text": "Children's Toys Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violates the Small Ball Ban; Sold on Amazon by Beestech — This recall involves Beestech's spiral children's tower toys. The toy has five multicolored levels and a basketball hoop with a character's face at the top. The toys measure about 10 inches high by four inches wide and come with six plastic balls. \"Beestech\" and model number \"Bee-210316-01\" are printed on the product's packaging.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Beestech Children's Spiral Tower Toys"
-    },
-    {
-      "id": 10683,
-      "text": "Coluans Christmas Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by BUDI Official — This recall involves Coluans Christmas Light-Up Rings Party Favors, model number SJP-50. The light-up rings come with 50 multi-colored party favors, including light-up Santas, Christmas trees gingerbread men and other Christmas themed shapes. Each ring includes three preinstalled button cell batteries. The preinstalled button cell batteries are visible through the inner clear casing. The light-up rings have \"SJP-50\" and \"SDJRJJZ0813\" printed on labels located at the bottom of the packaging box.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Coluans Christmas Light-Up Rings Party Favors"
-    },
-    {
-      "id": 10687,
-      "text": "E Mishan Recalls Granitestone Diamond Pro Blue Stainless Sauté Pans Due to Impact and Burn Hazards — This recall involves Granitestone Diamond Pro Blue stainless steel sauté pans. The sauté pans were sold in a 2-Piece Set with one pan measuring 10 inches and the other pan measuring 11.5 inches. The UPC number is 0-80313-08131-6.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Granitestone Diamond Pro Blue Sauté Pans"
-    },
-    {
-      "id": 10685,
-      "text": "ELENKER Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Fuzhou Shiahaha Cultural Industry Development — This recall involves three different sizes of ELENKER-branded bed rails. The collapsible, portable adult bed rails are silver and come with a strap. Model HFK-5115 (SKU K90002C1) bed rails measure about 37.8 inches wide and 16.3 inches high. Model HFK-5116 (SKU K90001C1) bed rails measure about 28.5 inches wide and 16.3 inches high. Model HFK-5124 (SKU K90003C1) bed rails measure about 48.6 inches wide and 16.3 inches high. The SKU number is printed on the product packaging.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "ELENKER Bed Rails"
-    },
-    {
-      "id": 10682,
-      "text": "Gavoyeat Halloween Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by CSZWEICD — This recall involves Gavoyeat Halloween Light-Up Rings Party Favors, model number 43398-68657. \"B07GF8VD7N\" appears on the back of packaging. The light-up rings come with 50 multi-colored party favors that light up and each includes three preinstalled button cell batteries. The batteries are visible through the inner clear casing. The light-up rings have \"Holiday Party Favors LED Light Up Ring\" printed on the back of the package.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Gavoyeat Halloween Light-Up Rings Party Favors"
-    },
-    {
-      "id": 10689,
-      "text": "HTRC and Haisito T400 Battery Chargers Recalled Due to Risk of Serious Injury and Death from Fire Hazard; Manufactured by Huizhou Haitan Technology — This recall involves battery chargers, model T400, sold under the brand names \"HTRC\" and \"Haisito.\" The recalled chargers are black with a touch screen, and the model number T400 is printed on the front. Some units have the brand name \"HTRC\" printed on the front, while other units do not have a visible brand name. Units without a visible brand name may still have the model number \"T400\" printed on the front. The brand name \"Haisito\" may not be printed on the product but may be located on the purchase receipt.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "HTRC and Haisito battery chargers"
-    },
-    {
-      "id": 10684,
-      "text": "OCUN NA Recalls Condor HMS Triple Carabiners Due to Risk of Serious Injury or Death from Fall Hazard — This recall involves Ocun Condor HMS Triple Carabiners sold in dark gray and blue. The carabiners have an independent internal wire gate for belaying and rappelling and a triple locking action gate. The affected carabiners have the following batch numbers 24003xx, 24004xx, 24010xx, 24023xx, 24024xx, 24025xx, 25005xx, 25006xx. The batch number is found on the spine of the carabiner.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Ocun Condor HMS Triple Locking Carabiners"
-    },
-    {
-      "id": 10690,
-      "text": "Sam's Club Recalls Member's Mark Children's Pajama Sets Due to Burn Hazard; Violates Mandatory Flammability Standards for Children's Sleepwear — This recall involves Member's Mark-branded Valentine SS Notch Collar children's pajama sets. The Valentine's-themed pajamas consist of a short and a short-sleeve, button-up top with a front pocket. They were sold in various colors and prints, including solid pink, pink with hearts and cream with bows, and in sizes XS (4/5), S (6/6X), M (7/8), L (10/12), XL (14/16). \"Member's Mark\" and the size are printed on the pajama's neck label.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Member's Mark Children's Valentine SS Notch Collar Pajama Sets"
-    },
-    {
-      "id": 10692,
-      "text": "Samson International Recalls Bellevue and Oaklynn Canopy Bed Frames Due to Impact and Injury Hazards — This recall involves Samson International canopy bed frames sold under the Universal Broadmoor brand name. There are two models involved, Bellevue and Oaklynn. Both models come in king size and queen size. The model numbers are M24109230, M24109240 (Bellevue Queen and King) and M24107230, M24107240 (Oaklynn Queen and King). The name \"Samson International\" and the model number are printed on the manufacturing label located on the inside of the bed frame on the right hand-side when looking from the foot of the bed.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Universal Broadmoore brand Bellevue and Oaklynn model canopy bed frames"
-    },
-    {
-      "id": 10688,
-      "text": "Sangohe Reannounces and Expands Adult Portable Bed Rails Recall Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails — This recall involves Sangohe-branded adult portable bed rails models 504E and 504Q. Model 504E bed rail comes in black, measures 23 inches wide by 35 inches tall, and weighs nine pounds. The model number \"504E\" can be found on the outer packaging box, on the product label/sticker attached to the bed rail, and on the first page of the instruction manual. Model 504Q bed rail comes in black, measures 28.5 inches wide by 43.3 inches tall, and weighs nine pounds. The model number \"504Q\" can be found on the outer packaging box, on the product label/sticker attached to the bed rail, and on the first page of the instruction manual.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Sangohe Adult Portable Bed Rails"
-    },
-    {
-      "id": 10686,
-      "text": "TecFlox Hair and Beard Growth Serum Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging — This recall involves TecFlox's topical solution bottles. The hair and beard growth serum comes in white plastic bottles fitted with a white nozzle and was sold in packs of four bottles. \"TecFlox Minoxidil Topical Solution\" is printed on the bottle's label and the manufacture date \"MFD 2025.8.25\" on the underside of the bottle.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "TecFlox Hair and Beard Growth Serum Bottles"
-    },
-    {
-      "id": 10691,
-      "text": "Tuymec Minoxidil Hair Growth Spray Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by DrHealBeauty — This recall involves Tuymec Minoxidil Hair Growth Kit. The kits contain two black spray bottles with labels that read \"Tuymec Minoxidil Hair Hair Growth\", \"Advanced Formula\" and \"5% Minoxidil with BIOTIN\". The kits come in black cartons with white and silver lettering that include \"Drug Facts\" on the back, distributor information on one of its sides, three icons making product claims on its other side, and batch, manufacture and expiration dates on its bottom.",
-      "timestamp": "2026-04-02T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Tuymec Minoxidil Hair Growth Kits, 5% Minoxidil with Biotin Spray"
-    },
-    {
-      "id": 10670,
-      "text": "4our Kiddies Tip Restraint Kits Recalled Due to Tip-Over Hazard; Risk of Serious Injury and Death — This recall involves defective plastic tip restraint kits (also referred to as furniture straps) manufactured by 4our Kiddies. The recalled tip restraint kits contain two white plastic brackets/mounts (one for connection to furniture and the other for connection to the wall), a white plastic cable zip tie, two different pairs of screws (one longer than the other) and two drywall anchors. The plastic in the brackets/mounts and the cable zip tie can break or degrade over time, which could lead to furniture tipping over if a consumer interacts with furniture that was secured by the recalled product. CPSC testing revealed that the recalled plastic tip restraints failed to meet the requirements of the industry standard for tip restraints. CPSC's Anchor It! website, www.anchorit.gov/, has educational materials available to the public, including important instructions for properly anchoring furniture to prevent tip-overs.",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "4our Kiddies Plastic Tip Restraint Kits"
-    },
-    {
-      "id": 10672,
-      "text": "AirClub Convertible Bassinets Recalled Due to Risk of Serious Injury or Death from Fall Hazard; Violates Mandatory Standard for Bedside Sleepers — This recall involves AirClub convertible bassinets which convert into a bedside sleeper. The bassinets come in light grey, beige, and purple colors with quilted padding. \"Product Model QX-831\" is on a label located on the bottom of the convertible bassinets underneath the mattress pad.",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "AirClub Convertible Bassinets"
-    },
-    {
-      "id": 10676,
-      "text": "CCCEI Brand Power Strips Recalled Due to Risk of Serious Injury or Death from Fire; Sold by Middle Way Electronics — This recall involves CCCEI-branded power strips with 6ft, 10ft, and 15 ft power cords. The power strips have a black metal enclosure with six receptacles made of black plastic and individual on/off switches for each receptacle. The back of the power strip has a white label that says: \"Relocatable Power Taps. Caution keep children away. To reduce the risk of electric shock, use only indoors, risk of electrical shock. Do not plug into another relocatable power taps or an extension cord. Use only in dry location. Made in China\"",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "CCCEI Power Strips"
-    },
-    {
-      "id": 10679,
-      "text": "DIY Cold Plunge Recalls Sauna Heater Kits Due to Risk of Serious Injury or Death from Fire Hazard — This recall involves the DIY Sauna Heater Kit. The product is a do-it-yourself kit for consumers to assemble a heating fixture with four heat-lamp bulbs (sold separately) and a metal enclosure intended for use in a separate do-it-yourself sauna enclosure, for which carpentry plans are sold separately. The Sauna Heater Kit includes a stainless steel cage (which weighs about 16 lbs., and measures 12\"H x 12\"W x 8\"D when assembled), screws/bolts for assembly, four ceramic bulb sockets, three wire connectors, two ground pigtails, and a three-prong power cord. The recalled Sauna Heater Kit is intended to attach to a customer-built wood frame.",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "DIY Sauna Heater Kits"
-    },
-    {
-      "id": 10673,
-      "text": "DuraTrac Recalls Stainless Steel Gas Connectors Due to Fire Hazard — This recall involves DuraTrac stainless steel gas connectors sold between May 2025 and November 2025. The recalled products have a yellow product label that includes the brand name \"DuraTrac,\" and \"Made in Thailand,\" and are marked CSA file number \"259973\" engraved on the flare nuts with one of the following codes indicating their date of manufacture: 24D, 25A, 25B, or 25C.",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "DuraTrac stainless steel gas connectors"
-    },
-    {
-      "id": 10678,
-      "text": "FUNTOK Ride-On Trucks Recalled Due to Fire and Burn Hazards; Risk of Serious Injury or Death; Imported by Shenzhen Luobei Trading — This recall involves FUNTOK 24V 2-Seater Ride-On Trucks, model number DLS-K03. The trucks were sold in red, black, white and pink. \"4x4\" is written in black on the tailgate and \"TURBO DIESEL\" is written in black on the side of the truck. The brand name \"FUNTOK\" and model number \"DLS-K03\" are printed on the User Manual cover and the exterior retail packaging.",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "FUNTOK 24V 2-Seater Ride-On Trucks"
-    },
-    {
-      "id": 10675,
-      "text": "GLMZZ Fidget Magnet Ball Toys Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violates Mandatory Standard for Toys — This recall involves GLMZZ Fidget Magnet Ball Toy Sets. Each set contains eight round magnet balls (white, blue, green, pink, yellow, cream and two purple balls). Each ball is about 1.24 inches in diameter. The magnet toys come in a black zippered case.",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "GLMZZ Fidget Magnet Ball Toys"
-    },
-    {
-      "id": 10680,
-      "text": "MPINOI Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Bioenrrty — This recall involves MPINOI-branded adult portable bed rails. The white metal bed rails measure about 15 inches wide by 26 inches tall and have an extendable handle with gray padding and a black storage mesh pocket. \"MPINOI\" is printed on the mesh pocket.",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "MPINOI Adult Portable Bed Rails"
-    },
-    {
-      "id": 10669,
-      "text": "Nexgrill Recalls Over 10.2 Million Metal Wire Bristle Grill Brushes Due to Ingestion Hazard; Sold at Home Depot — This recall involves Nexgrill metal wire bristle grill brushes with black plastic or wood handles measuring between 18 and 21 inches long. The following model numbers are included in this recall and can be found on the product packaging: 530-0024, 530-0024G, 530-0034, 530-0039, 530-0041, 530-0042. Only the model numbers listed below are part of this recall. The word \"Nexgrill\" is included on each model. Model No. Brush Description Distribution Dates 530-0024 19-Inch Grill Brush 2015-2026 530-0024G Grill Cleaning Brush with Scraper 2022-2026 530-0034 Long Handle Grill Brush 2015-2026 530-0039 Grill Brush and Scraper 2015-2026 530-0041 Grill Brush with Scrub Pad 2015-2026 530-0042 Wood Handle Grill Brush 2015-2021",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Metal Wire Bristle Grill Brushes"
-    },
-    {
-      "id": 10677,
-      "text": "Petzl America Recalls Nomic and Ergonomic Ice Climbing Axes Due to Fall Hazard; Risk of Serious Injury or Death — This recall involves the Petzl Nomic ice climbing axes (model U021AA00, serial numbers 17L 0000000 000 to 20F 9999999 999) and Ergonomic ice climbing axes (model U022AA00, serial numbers 18F 0000000 000 to 21L 9999999 999). The axes are made from an aluminum shaft, steel pick and reinforced plastic grip. Nomic axes are black and Ergonomic axes are orange. The serial number for both models is printed on a label on the upper portion of the shaft.",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Nomic and Ergonomic Ice Climbing Axes"
-    },
-    {
-      "id": 10674,
-      "text": "Sunnyyes LED Mini Lights Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Coin Batteries — This recall involves Sunnyyes branded LED mini lights. The recalled color changing lights have 13 colors. Each of the 10 multicolored lights includes two CR2032 lithium coin batteries. The lights include two remote controls that contain one CR2025 coin lithium battery each. The LED lights measure 1.18 inches in diameter.",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Sunnyyes LED Mini Lights"
-    },
-    {
-      "id": 10671,
-      "text": "Vive Health Recalls Adult Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Two Deaths Reported — This recall involves the Vive Health Compact Bed Rail (model LVA2009SLV) and Bed Rail Collection V (model LVA2097SLV), as well as units of the Vive Health Bed Rail model LVA1024 purchased on or before August 21, 2023. Vive Health previously recalled units of model LVA1024 purchased after August 21, 2023, on February 19, 2026. The recalled bed rails are made of silver or white metal tubing with a black foam rubber grip handle. The recalled bed rails may not contain model numbers or brand-specific labels.",
-      "timestamp": "2026-03-26T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Vive Health Bed Rails"
     }
   ]
 }
