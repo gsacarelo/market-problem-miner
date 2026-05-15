@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-05-15T17:47:18.097Z",
+  "fetched_at": "2026-05-15T19:47:04.603Z",
   "items": [
     {
       "id": 10773,
@@ -20,6 +20,33 @@
       "hazard": null,
       "remedy": null,
       "product": "Can-Am Outlander Pro and Max Pro All-Terrain Vehicles"
+    },
+    {
+      "id": 10778,
+      "text": "Cosyland Children's Tower Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by Cosyland Official — This recall involves Cosyland-branded children's tower stools, models CS0003 and CS0092-4. The tower stools were sold in natural bamboo and gray, and measure about 16 inches deep by 18 inches wide and 35 inches tall. \"COSYLAND\" and warning labels are visible along the top rails.",
+      "timestamp": "2026-05-14T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Cosyland Children's Tower Stools"
+    },
+    {
+      "id": 10779,
+      "text": "Generac Power Systems Expands Recall of Generac and DR Power Electric Start Pressure Washers Due to Risk of Serious Injury or Death from Carbon Monoxide Hazard; Includes Additional Models — This recall involves certain Generac brand electric start pressure washers with model number G0089111, G0088941, G0088951 and DR Power brand electric start pressure washer with model number DPW3109DEN. The pressure washers have an electric start/stop button for the unit's gasoline-powered engines, as well as a rechargeable battery used to power the button. Model and serial numbers are printed on a label located on the product's frame. Consumers can check specific unit type, model number and serial number location information at https://www.generac.com/support/product-info-user-manuals by clicking on \"Pressure Washers\" at the bottom of the page.",
+      "timestamp": "2026-05-14T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Electric Start Pressure Washers"
+    },
+    {
+      "id": 10777,
+      "text": "Guidecraft Children's Standing Towers Recalled Due to Risk of Serious Injury from Fall Hazard — This recall involves Classic and Contemporary Guidecraft Kitchen Helper Towers in nine colors sold from June 1, 2022, through October 31, 2023. Recalled towers have both an item number and lot number shown on the lists provided and were purchased from June 1, 2002, through October 31, 2023. This information can be found on the foil sticker at the bottom of each tower's platform.",
+      "timestamp": "2026-05-14T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Guidecraft Kitchen Helper Towers"
     },
     {
       "id": 10771,
@@ -92,6 +119,15 @@
       "hazard": null,
       "remedy": null,
       "product": "Agio Menlo Woven Patio Swings"
+    },
+    {
+      "id": 10776,
+      "text": "ZWILLING J. A. Henckels Aktiengesellschaft Recalls Electric Water Kettles Due to Risk of Serious Injury Due to Burn Hazard — This recall involves ZWILLING J. A. Henckels Aktiengesellschaft Enfinigy Kettle (1.5 l) and Enfinigy Kettle Pro (1.5 l). The electric stainless-steel kettles come in various colors including black, silver, rose, gold, and pure-white. ZWILLING is silk printed on the kettle itself. Affected model numbers are: 53101-200, 53101-201 (1.5L ENFINIGY Electric Kettle); 53101-500, 53101-501, 53101-502, 53101-503, 53101-504 (1.5L ENFINIGY Electric Kettle Pro). The model numbers and \"ZWILLING\" can be found on the bottom of the kettle and the bottom of the power base.",
+      "timestamp": "2026-05-14T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Electric Kettles (ENFINIGY 1.5 l and ENFINIGY Pro 1.5 l)"
     },
     {
       "id": 10764,
