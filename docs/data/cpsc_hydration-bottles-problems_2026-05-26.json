@@ -1,8 +1,71 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-05-26T10:09:30.954Z",
+  "fetched_at": "2026-05-26T15:55:22.029Z",
   "items": [
+    {
+      "id": 10780,
+      "text": "ABC Trading Recalls Children's Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys — This recall involves toy headbands and electronic pet cages. The toy headband, model 6300RP, is plastic and has a small push button on top of the bow to activate the lights in the bow. The bow is pink with white polka dots. The dinosaur toy, model 8266 (ZH998-22), is a silver plastic cage with a blue bottom, and contains a red dinosaur and a yellow egg inside the cage. The bird toy, model ZH998-23, is a plastic cage with a pink top and bottom and contains a blue bird inside the cage.",
+      "timestamp": "2026-05-21T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Toy Headbands, Electronic Pet Cage-Dinosaur Tribes, My Pet Bird Cute Bird Tribes"
+    },
+    {
+      "id": 10785,
+      "text": "ABC Trading Recalls WSDZ Light-up Glasses Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries — This recall involves WSDZ-branded LED shot glasses. The recalled plastic glasses are clear and have three button cell batteries in a compartment that power LED lights when the push button on the underside of the glass is pushed. The glasses were sold individually and in packs of 24 glasses. \"ITEM NO: LP-024 (122)\" and \"Importer: ABC Trading, Inc\" are printed on a label on the underside of the glasses.",
+      "timestamp": "2026-05-21T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "WSDZ Light-up Shot Glasses"
+    },
+    {
+      "id": 10786,
+      "text": "Bethlehem Lights Recalls Bethlehem Lights 10-inch Illuminated Ribbon Spheres Due to Risk of Serious Injury or Death from Fire Hazard; Sold by QVC — The recalled Bethlehem Lights 10-inch Illuminated Ribbon Sphere is a spherical ornament made of reflective, silver-toned material with a spiral faceted design. The sphere is illuminated from within by numerous small warm-white LED lights. The product has a 10-inch diameter.",
+      "timestamp": "2026-05-21T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Bethlehem Lights 10-inch Illuminated Ribbon Spheres"
+    },
+    {
+      "id": 10783,
+      "text": "Lil Pick Up Recalls Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash and Burn Hazards; Violates Mandatory Standard for ATVs — This recall involves the Sierra 125U Youth ATVs sold under various brand names including \"Rider 9\". The model's name \"Sierra 125U\" is located on the VIN plate on the front frame column. The ATVs have a plate on the left front side of the frame column, stating \"This ATV is subject to LIL PICK UP INC's Action Plan approved by the U.S. Consumer Products Safety Commission.\" The ATVs were sold in red, blue, black, pink, gray, spider red and spider blue.",
+      "timestamp": "2026-05-21T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Sierra 125U Youth All-Terrain Vehicles (ATVs)"
+    },
+    {
+      "id": 10782,
+      "text": "Orb Funkee Squeeze Toys Recalled Due to Risk of Serious Injury or Death from Asbestos Exposure; Imported by The Orb Factory — This recall involves two models of Orb Funkee squeeze toys with the date code 3102491A. The products are made of a soft, stretchable material and filled with sand. Model 17451 is a large golden monkey (stylized \"monkee\"), and model 41929 is an assortment of small \"monkees\" in various colors, including orange, purple and green. The date code can be found on the hand of the golden monkee or the back of the smaller monkees.",
+      "timestamp": "2026-05-21T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Orb Funkee Squeeze Toys"
+    },
+    {
+      "id": 10784,
+      "text": "PandaEar Recalls Portable Hook-On Chairs Due to Risk of Serious Injury or Death from Fall Hazard; Violates Mandatory Standard for Portable Hook-On Chairs — This recall involves two models of PandaEar portable hook-on chairs. The chairs are used to seat young children at the dining table. The chairs contain a black or gray metal frame covered with black, gray, or blue (dinosaur theme) polyester and cotton material and an attached restraint in the occupant seating area. There are two metal arms with plastic covers on top that anchor to a dining table, and the child is suspended from the table. \"Panda Ear\" can be found on a label stitched to the side of the fabric seats. \"Model C2102\" can be found on a label located on the bottom of the fabric seats. There are no markings on the product for model BTC-51.",
+      "timestamp": "2026-05-21T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Portable Hook-On Chairs"
+    },
+    {
+      "id": 10781,
+      "text": "Resistance Bands Recalled Due to Serious Injury from Impact Hazard; Imported by HomeProGym — This recall involves HomeProGym-branded resistance bands. The latex, stackable bands have a silver metal D?ring at each end, attached to a black strap and were sold as part of the following sets and bundles: Add-on Stackable Resistance Bands - 130lbs (60kg), Stackable Resistance Bands Set Ultra 7 Bands, Stackable Resistance Bands Set Mega 9 Bands, PowerTube Stackable 450lbs Band Set + Bar & Ultra Door Anchor, Ultimate Bundle and Mega Bundle. Only the purple 60-pound resistance and the gray 70-pound resistance bands are included in this recall. The weight resistance, \"HOME PRO GYM\" and \"ULTRA\" or \"ULTRA PLUS\" are printed on the bands' strap.",
+      "timestamp": "2026-05-21T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "HomeProGym Resistance Bands"
+    },
     {
       "id": 10773,
       "text": "Amazon Recalls Amazon Basics 55 Lbs. Adjustable Dumbbells Due to Impact Hazard — This recall involves the Amazon Basics 55 Lbs. Adjustable Dumbbells. The dumbbells were sold in pairs and single units in the color black and include handles, weight plates and a molded plastic tray. The dumbbells adjust from 5 to 55 pounds using manual adjustment knobs while the weights are nested in the base. The manufacturing lot code C250306VJAW5 is printed on the outer cardboard packaging box.",
