@@ -1,8 +1,89 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-06-05T15:17:53.453Z",
+  "fetched_at": "2026-06-05T18:01:47.960Z",
   "items": [
+    {
+      "id": 10801,
+      "text": "Bicycle Helmets Recalled Due to Risk of Serious Injury or Death from Head Injury; Violates Mandatory Standard for Bicycle Helmets; Sold on Amazon by Gudook Outdoor Sports — This recall involves Gudook-branded bicycle helmets, model KY-055. The helmets were sold in blue with white and in size medium (M), fitting a head circumference of about 21.3 to 22.4 inches. The helmets have red padding, black straps, a black and red buckle and a black fit-adjusting knob at the back. Only helmets with batch number 202503 and manufacture date of March 2025 are included in this recall. \"Gudook\" is printed on the side of the helmet. The model, batch number and manufacture date, in MM/YYYY format, are printed on a label on the inside of the helmet.",
+      "timestamp": "2026-06-04T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Gudook Adult Bike Helmets"
+    },
+    {
+      "id": 10800,
+      "text": "Crenlux Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Eicong — This recall involves Crenlux-branded pool drain covers. The white plastic pool drain covers measure about eight inches in diameter and weigh about 12.7 ounces. \"Crenlux\" is printed on the product's packaging.",
+      "timestamp": "2026-06-04T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Crenlux Pool Drain Covers"
+    },
+    {
+      "id": 10798,
+      "text": "Little Grape Land Recalls Nursing Pillows Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows and Infant Support Cushions — This recall involves Little Grape Land Nursing Pillows. The nursing pillows are U-shaped and come in a rose floral, alligator, bear, butterfly, cactus, construction truck, forest deer, green leaves, little bunny, spring flower and woodland animal patterns. There are no markings or labels on the product.",
+      "timestamp": "2026-06-04T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Little Grape Land Nursing Pillows"
+    },
+    {
+      "id": 10802,
+      "text": "Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Broqixin — This recall involves Broqixin-branded pool drain covers. The white plastic pool drain covers measure about 7.36 inches in diameter and weigh about 3.84 ounces and come with two screws. \"Model 11064W\" is printed on the product's packaging.",
+      "timestamp": "2026-06-04T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Broqixin Pool Drain Covers"
+    },
+    {
+      "id": 10804,
+      "text": "SUNS International Recalls Residential Elevator Interlock Switches Due to Fall and Crushing Hazard; Risk of Death or Serious Injury — This recall involves all SUNS International SS6291 Solenoid Interlock switches used in residential elevators produced from August 20, 2024, through November 6, 2025, with date codes 2431 through 2543. The SUNS SS6291 interlock switch measures approximately 10 inches by 2 inches and weighs about 2-pounds. \"SUNS\", the model number and date code are printed on a label on the side of the product.",
+      "timestamp": "2026-06-04T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "SUNS SS6291 Solenoid Interlock Switches"
+    },
+    {
+      "id": 10799,
+      "text": "Tiny Land Children's Play Tents Recalled Due to Risk of Injury from Irritation to Skin and Eyes — This recall involves Tiny Land-branded children's play tents. The play tents are made of a cream-colored fabric and have three windows, a closable fabric door, 34 poles, star-shaped lights, and a quilted play mat. When assembled, the tents measure about 57 inches high, 52 inches wide and 36 inches deep. The Tiny Land logo and \"SKU TLTGTT003BG-XYF1506251\" are printed on a label stitched inside of the tent.",
+      "timestamp": "2026-06-04T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Children's Tiny Land Play Tents"
+    },
+    {
+      "id": 10803,
+      "text": "TOMY Recalls Boon NURSH 8 oz Reusable Baby Bottles Due to Choking Hazard; Sold at Walmart — This recall involves Boon NURSH 8 oz Reusable Baby Bottles 3-Pack in pink tie dye. The recalled bottles were sold in a package containing three bottles. The bottles have a hard outer plastic shell that encases a soft silicone pouch. The Boon logo is on the side of the bottle's hard plastic shell. Item number B11654 and the UPC 669028116546 are printed on the bottom of the packaging.",
+      "timestamp": "2026-06-04T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Boon NURSH 8 oz Reusable Baby Bottles"
+    },
+    {
+      "id": 10805,
+      "text": "Vornado Air Recalls SRTH Small Room Tower Heaters Due to Fire Hazard — The recalled Vornado SRTH small room tower heaters were sold in black and white and measure about 12.5 inches high by 6 inches in diameter. The recalled heaters have two heat settings (low and high) and a fan only/no heat setting. The word \"Vornado\" with a \"V\" behind it is printed on the front of the unit. The model \"TYPE SRTH\" is printed on the silver rating label located on the bottom of the product.",
+      "timestamp": "2026-06-04T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "SRTH Small Room Tower Heaters"
+    },
+    {
+      "id": 10797,
+      "text": "Wyze Labs Recalls Solar Cam Pan Security Cameras Due to Risk of Serious Injury from Fire and Burn Hazards — The recalled Wyze Solar Cam Pan are lithium-ion battery operated outdoor security cameras. The products are wire-free, equipped with motorized pan-and-tilt functionality and an integrated solar panel. The model number, WYZESCPWH, is located on the back of the camera. They were sold in white.",
+      "timestamp": "2026-06-04T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Wyze Solar Cam Pan Security Cameras"
+    },
     {
       "id": 10789,
       "text": "Daoen Recalls Zen Magnetic Promotional Ball Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys — This recall involves Zen-branded magnetic balls. The fidget toy sets consist of four textured, silicone silver, light brown, tan and bronze magnetic balls. Each ball measures about 1.24 inches in diameter. The ball sets come in a round, zippered case with or without a white Gordon Sinclair logo printed on them.",
