@@ -1,18 +1,18 @@
 {
   "source": "trends",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-06-05T18:02:15.046936Z",
+  "fetched_at": "2026-06-05T20:08:38.520503Z",
   "items": [
     {
       "id": "hydration-bottles-problems:iot:water bottle leak review",
-      "text": "TRENDS: interest over time average (14d) for 'water bottle leak review' is 0.3",
-      "timestamp": "2026-06-05T18:02:11.782019Z",
+      "text": "TRENDS: interest over time average (14d) for 'water bottle leak review' is 0.0",
+      "timestamp": "2026-06-05T20:08:35.030046Z",
       "lang": "en"
     },
     {
       "id": "hydration-bottles-problems:iot:water bottle hard to clean",
       "text": "TRENDS: interest over time average (14d) for 'water bottle hard to clean' is 7.1",
-      "timestamp": "2026-06-05T18:02:14.396636Z",
+      "timestamp": "2026-06-05T20:08:37.670799Z",
       "lang": "en"
     }
   ]
