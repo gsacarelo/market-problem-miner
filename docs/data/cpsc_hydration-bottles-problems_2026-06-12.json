@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-06-12T21:55:52.704Z",
+  "fetched_at": "2026-06-12T23:24:19.230Z",
   "items": [
     {
       "id": 10815,
@@ -22,6 +22,15 @@
       "product": "Hasuit 7-Drawer Dressers"
     },
     {
+      "id": 10818,
+      "text": "Arctic Zone Titan Pro Coolers Recalled Due to Risk of Serious Injury or Death from Burn Hazard; Violates Mandatory Flammability Standards for Children's Sleepwear — This recall involves The Black Sheep Fam Kids' Unisex Jogger Pajama Sets and Girls' Sleepshirts. The recalled pajamas were sold in various children's sizes, colors and prints. Sizes include 2T, 3T, 4T, XS, SM, M and L. The size and \"Black Sheep Fam Kids\" are printed the neck label of the pajamas. The Girls' Sleepshirts have \"Made in China\" and \"96% polyester 4% spandex\" printed on the sewn-in side seam label. The Kids' Jogger Pajama sets have \"RN# 169608\" \"Made in Guatemala\" and \"95% cotton 5% spandex\" printed on the sewn-in side seam label.",
+      "timestamp": "2026-06-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Girls' Sleepshirt and Kids' Unisex Jogger Pajama Sets"
+    },
+    {
       "id": 10817,
       "text": "Arctic Zone Titan Pro Coolers Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Imported by California Innovations and Sold at Costco — This recall involves Arctic Zone Titan Pro 40 can-capacity, iceless coolers. The rectangular coolers were sold in black and brown and have a built?in bottle opener. The zipperless coolers are collapsible and measure about 15 inches wide, 12 inches deep and 12 inches high when open. The coolers have a hard-top lid with a front latch, a front insulated compartment with a front zippered pocket, two mesh side pockets, a shoulder strap with pad and grab handles. \"Titan Pro by Arctic Zone\" is printed on the front of the coolers and style number 10006348 is on a sewn-in label inside the front zippered pocket.",
       "timestamp": "2026-06-11T00:00:00",
@@ -31,6 +40,15 @@
       "product": "Arctic Zone Titan Pro Coolers"
     },
     {
+      "id": 10821,
+      "text": "Coffeemakers Recalled Due to Risk of Serious Injury from Burn Hazard; Imported by Kidisle — This recall involves Kidisle-branded hot and iced coffee machines. The single-serve coffeemaker is designed with black, white and gray colors, measures about 11 inches high and 6 inches wide, and has a 50-ounce detachable water tank. The coffeemakers can brew 6 to 14 ounces of cupped or ground coffee. Model \"KC101B\" is printed on a sticker on the coffeemakers' underside and the brand name on the product order receipt.",
+      "timestamp": "2026-06-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Kidisle Coffeemakers"
+    },
+    {
       "id": 10813,
       "text": "Hopelight Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by MOCCI SHOP — This recall involves Hopelight adult portable bed rails. The bed rail comes in silver and black, measure 11.5 inches wide by 23.5 inches tall, is made of metal and weighs 4 pounds. It has the model number, F311, printed on the product's packaging.",
       "timestamp": "2026-06-11T00:00:00",
@@ -38,6 +56,15 @@
       "hazard": null,
       "remedy": null,
       "product": "Hopelight Adult Portable Bed Rails"
+    },
+    {
+      "id": 10819,
+      "text": "Houoto 642-2150V Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violate Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Prosperity goes straight up — This recall involves Houoto 642-2150V Pool Drain Covers that are sold for use in swimming pools. The drain covers measure 7-5/8 inches in diameter and the screw hole spacing is 7 inches. They are white and made of ABS plastic. The brand and model number can be found on the product's order receipt.",
+      "timestamp": "2026-06-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Houoto 642-2150V Pool Drain Covers"
     },
     {
       "id": 10807,
@@ -110,6 +137,15 @@
       "hazard": null,
       "remedy": null,
       "product": "Model Year 2021-2022 Yamaha Drive2 Electric Fleet Golf Cars"
+    },
+    {
+      "id": 10820,
+      "text": "Yamaha Recalls UMAX Bistro and Bistro Deluxe Vehicles Due to Injury Hazard — This recall involves Model Year 2019-2025 UMAX Bistro and Bistro Deluxe gas and electric vehicles. The gas models are J0G (YUM2A) with serial number 0000104-0601120. The electric models are J5D (YUM2E) with serial number 0000116-0000230. The food and merchandise service vehicles have a four-lid ice chest, sliding snack tray, and a vertical display case (Bistro Deluxe) with slanted shelves for displaying goods. The units were sold in white, green, red, teal, and brown colors. The serial number can be located under the rear cargo area, on the frame of the unit. Yamaha is written on the sides and on the front and back of the vehicle.",
+      "timestamp": "2026-06-11T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Model Year 2019-2025 UMAX Bistro and Bistro Deluxe Vehicles"
     },
     {
       "id": 10801,
