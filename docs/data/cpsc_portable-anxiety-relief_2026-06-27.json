@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-06-27T19:41:18.159Z",
+  "fetched_at": "2026-06-27T21:11:41.643Z",
   "items": [
     {
       "id": 10826,
@@ -308,15 +308,6 @@
       "hazard": null,
       "remedy": null,
       "product": "Wyze Solar Cam Pan Security Cameras"
-    },
-    {
-      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
-      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
-      "timestamp": null,
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": null
     }
   ]
 }
