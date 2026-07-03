@@ -1,8 +1,116 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-07-03T21:18:22.967Z",
+  "fetched_at": "2026-07-03T23:11:40.018Z",
   "items": [
+    {
+      "id": 10846,
+      "text": "AMASKY Nursing Pillows Recalled Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows and Infant Support Cushions; Sold on Amazon by Pretty-Life — This recall involves AMASKY Nursing Pillows. The nursing pillows are C-shaped and sold in white with a crocodile pattern as well as other various colors and patterns. \"Brand: AMASKY,\" \"Model No.: BXP99/BXP93/BXP94/BXP96/BXP97\" and \"Batch Number: 202506001\" are printed on a label attached to the pillow.",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "AMASKY Nursing Pillows"
+    },
+    {
+      "id": 10848,
+      "text": "Cooper Lighting Recalls Metalux Optimized High Bay LED Light Fixtures Due to Fire Hazard — This recall involves Metalux Optimized High Bay (OHB) LED light fixtures used indoors in commercial structures with high ceilings such as warehouses and commercial bays. The fixtures are painted white metal and measure between 2 feet and 4 feet in length and between 1 foot and 1.5 feet in width, with a plastic diffuser lens cover. The catalog number and date code are printed on the product label inside of the fixture channel cover, behind the tray and can be accessed by removing two screws. The date code is in a two-digit mm/dd/yy format representing the month, day and year. Catalog Number Date Code OHB-60SE April 2020 through December 2022 OHBL-60SE October 2022 through May 15, 2025 OHBL-100SE October 2022 through May 15, 2025",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Metalux Optimized High Bay (OHB) LED Light Fixtures"
+    },
+    {
+      "id": 10843,
+      "text": "Diamond Wipes International Recalls CVS Health Medicated Hemorrhoidal Wipes Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging — This recall involves CVS Health Medicated Hemorrhoidal Wipes. The pain-relieving wipes were sold in boxes of 20 individually wrapped packets of flushable wipes. The CVS Health logo, a yellow heart, \"Rapid Pain Relief\" and \"Medicated Hemorrhoidal Wipes\" is printed on the front of the packet and the box.",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "CVS Health Medicated Hemorrhoidal Wipes"
+    },
+    {
+      "id": 10850,
+      "text": "Junpower CR2032 Lithium Coin Batteries Conair Recalls Over One Million Cuisinart Grill Brushes Due to Ingestion Hazard — This recall involves Cuisinart metal wire bristle grill brushes. The brushes have black plastic, stainless steel, and wood handles. The following model numbers are included in this recall and can be found on the product packaging: CCB-100, CCB-4125, CCB-5014, CCB-6450, CCB-8012, CCB-4114, CCB-W2, and CSBS-777. The word \"Cuisinart\" is stamped on the brush handle. Some of the recalled brushes were also sold as part of the Premium Grill 10 Piece set (CGS-2010), 13 Piece Wooden Handle Grill Tool Set (CGS-W13), 14 Piece Deluxe Stainless Steel Grill Set (CGS-5014), and 20 Piece Deluxe Grill Set, (CGS-5020). Model No. Brush Description Distribution Dates CCB-100 Triple Bristle Grill Cleaning Brush January 2013-March 2026 CCB4125 4-in-1 Grill Cleaning Brush with Stainless Steel Wire Bristles October 2022-March 2026 CCB-5014 Triple Bristle Grill Brush SS Bristles January 2025-March 2026 CCB-6450 Triple Bristle Grill Brush SS Bristles January 2025-March 2026 CCB-8012 Pizza Stone Cleaning Brush 2024 CCB-W2 Wood Grill Cleaning Brush (18.5\" with Pakka Wood Handle) March 2024-July 2025 CSBS-777 Steam Clean Grill Brush March 2014-July 2025",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Metal Wire Bristle Grill Brushes"
+    },
+    {
+      "id": 10849,
+      "text": "Junpower CR2032 Lithium Coin Batteries Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violate Federal Statute for Child-Resistant Packaging of Coin Batteries; Sold on Amazon by JSNJ_Tech Store — This recall involves Junpower CR2032 Batteries (20 pieces) in specific packaging (Packaging model 2023-V3). The product is packaged in a white box labeled \"JUNPOWER Household Batteries,\" with four packs inside, each pack contains five batteries.",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Junpower CR2032 Batteries"
+    },
+    {
+      "id": 10844,
+      "text": "Projecting LED Finger Light Toys Recalled Due to Risk of Serious Injury Death from Battery Ingestion; Violate Mandatory Standard for Toys; Sold on Amazon by POPOOO — This recall involves POPOOO Jungle Safari LED Finger Lights. They were sold in sets of 24 multi-colored lights with white fingertip covers. Each finger light has three internal button cell batteries that power projections of the jungle safari characters when activated. \"POPOOO\" and \"LED FINGER LIGHTS\" are printed on the product's blue packaging.",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "POPOOO Jungle Safari LED Finger Lights"
+    },
+    {
+      "id": 10845,
+      "text": "Rowenta Recalls Cordless Vacuum Cleaners Due to Risk of Serious Injury from Fire and Burn Hazards — This recall involves cordless vacuum cleaners with a recalled lithium-ion battery that is housed in the handle of the device. The vacuum is sold in red, black and silver. There are two models, X-Force Flex 14.60 Animal, model number RH99A2U1 and X-Force Flex 15.60 Animal, model number RH99F2U1. The Versatile X-Force's lithium-ion battery model number is ZR0097U2 with a date code that begins with either 23 or 24. The batteries were sold separately or with the vacuum cleaners.",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Rowenta Cordless Vacuum Cleaners with lithium-ion battery"
+    },
+    {
+      "id": 10847,
+      "text": "Target Recalls Gigglescape™ Under the Sea Popping Toy Due to Choking Hazard — This recall involves Gigglescape Under the Sea Popping Toys. The recalled toys have a clear plastic dome attached to a blue plastic base shaped like a whale. There are colored balls inside the dome, which pop up when the child pushes an external plunger at the top of the dome. The recalled popping toys have the Gigglescape brand printed on the front of the package and imprinted on the bottom of the blue plastic base.",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Gigglescape™ Under the Sea Popping Toy"
+    },
+    {
+      "id": 10842,
+      "text": "Topyond Pool Drain Ports with Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violate Virginia Graeme Baker Pool & Spa Safety Act; Sold by Jialyduu — This recall involves Topyond white pool drain port with cover, sold as a Port Replacement Drainer for swimming pools. The plastic unit comes in a cardboard box with \"SP-2850V\" printed in bold, and a label which reads: \"X004F4YG5X, Topyond Pool Drain Port Repl. MADE IN CHINA\". Included in the box are stainless steel screws. The Topyond Pool Drain Port measures 9.1 inches by 6.7 inches and has a 2.3-inch opening for connection. There is no labeling or product identification on the product itself.",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Topyond Pool Drain Port with Cover"
+    },
+    {
+      "id": 10841,
+      "text": "Vevor Recalls Baby Loungers Due to Risk of Serious Injury or Death from Entrapment and Fall Hazards; Violate Mandatory Standard for Infant Sleep Products — This recall involves VEVOR baby loungers. The recalled baby loungers are made of a foam sleeping pad and padded bumpers with a cloth cover and have a ribbon at one end. They were sold in the following colors and prints: snow deer, good night, forest friends (oval), forest friends (backpack), and green.?\"VEVOR\" is printed on an attached tag on the outside of the baby lounger's cover.",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "VEVOR baby loungers"
+    },
+    {
+      "id": 10852,
+      "text": "Winco Fireworks International Recalls Roman Candles 8 Shot Fireworks Due to Risk of Serious Injury from Explosion and Burn Hazards — This recall involves the Roman Candles 8 Shot firework devices, Model Number RCLR-W8012. The recalled products were sold in colors red, white and blue and weigh approximately 2 pounds. The firework measures 21 inches by 1 inch by 3.5 inches. The product packaging has a red, white and blue label that has the word \"Hometown\" written on it. The label has images of American flags in the background.",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Roman Candles 8 Shot 3-Pack Firework Devices"
+    },
+    {
+      "id": 10851,
+      "text": "Winco Fireworks International Recalls Unity 7 Shot 200 Gram Aerial Cake Fireworks Due to Risk of Serious Injury from Explosion and Burn Hazards — This recall involves the Unity 7 Shot 200 Gram Aerial Cake firework devices, model MEF6096. The recalled products were sold in colors red, white and blue and weigh approximately one-third of a pound. The size measures 2.9 inches by 2.9 inches by 3.9 inches. The product has a red, white and blue label that has the word \"Unity\" written on it. The label has images of American flags in the background. The date codes between 03.16.2026 and 05.18.2026 and model number MEF6096 are under the barcode on the back of the package.",
+      "timestamp": "2026-07-02T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Unity 7 Shot 200 Gram Aerial Cake Firework Devices"
+    },
     {
       "id": 10840,
       "text": "Combination Smoke and Carbon Monoxide (CO) Detectors Recalled Due to Risk of Serious Injury or Death from Failure to Alert Consumers to Fire; Sold Exclusively on Amazon.com by Treatlife Technology — This recall involves Treatlife Smoke and Carbon Monoxide (CO) Detectors. The alarms are AA battery operated and have a colored light and test button. The alarms are white and circular in shape. The FCC ID \"2ANDL-XR3\" and the date of manufacture \"2023.DEC.02\" are printed on the bottom side of the alarm.",
