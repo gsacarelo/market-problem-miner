@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-07-06T18:15:30.107Z",
+  "fetched_at": "2026-07-06T21:44:57.458Z",
   "items": [
     {
       "id": 10846,
@@ -425,6 +425,15 @@
       "hazard": null,
       "remedy": null,
       "product": "Model Year 2019-2025 UMAX Bistro and Bistro Deluxe Vehicles"
+    },
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
     }
   ]
 }
