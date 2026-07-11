@@ -1,16 +1,70 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-07-11T15:08:45.886Z",
+  "fetched_at": "2026-07-11T17:04:57.665Z",
   "items": [
     {
-      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
-      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
-      "timestamp": null,
+      "id": 10854,
+      "text": "Best Buy Recalls Insignia® Gas Ranges Due to Risk of Serious Injury from a Fire Hazard — This recall involves Insignia gas ranges with model numbers NS-RGFGSS1 and NS-RGFCGS2. The recalled ranges are stainless steel with five front-knobs on the oven with the \"Insignia\" label on the bottom of the oven door. A label with the model number can be found on the inside of the range's bottom drawer.",
+      "timestamp": "2026-07-09T00:00:00",
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": null
+      "product": "Insignia Front Control Gas Ranges"
+    },
+    {
+      "id": 10855,
+      "text": "Biometric Gun Safes Recalled Due to Serious Injury Hazard and Risk of Death; Sold Exclusively on Amazon.com by BBRKIN — This recall involves BBRKIN and MouTec Biometric Gun Safes with model number QHXP029B. The gray steel safes are used to store firearms and valuables. The safes measure about 14 inches by 12 inches by 57 inches, have one shelf and can store approximately five firearms. The recalled safes have the following serial number range: SQC200034980 - SQC202319171. The serial number is on a label on the lower right corner of the front of the safes. The brand name \"MouTec\" or \"BBRKIN\" is on the upper right corner of the front of the safes.",
+      "timestamp": "2026-07-09T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "BBRKIN and MouTec Biometric Firearm Safes"
+    },
+    {
+      "id": 10853,
+      "text": "Conair Recalls Cuisinart Propel+ Four Burner 3-In-1 Gas Grills Due to Risk of Serious Injury from Laceration Hazard — This recall includes the stainless-steel Cuisinart Propel+ Four Burner 3-in-1 Gas Grill, featuring a griddle, a stove top burner and a pizza oven with tempered glass located on top of the lid of the grill. The model number CGG-6331 can be found on the label on the inside of the right-hand metal door, along with the serial number.",
+      "timestamp": "2026-07-09T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Cuisinart Propel+ Four Burner 3-in-1 Gas Grill with pizza oven"
+    },
+    {
+      "id": 10858,
+      "text": "Flaunt Recalls Magsafe Battery Chargers Due to Risk of Serious Injury or Death from Fire and Burn Hazards — This recall involves the Flaunt MagSafe Battery Charger power banks with model number E33A. \"FLAUNT\" is engraved on the front right side of the power bank and there is a small circular button in the bottom center of the front side of the power bank. The back label of the unit is marked \"FLAUNT\" and \"Model: E33A\". The power banks were sold in melon, black, lavender and white. The chargers measure 3 by 2 by 0.25 inches and weigh around 3.2 ounces.",
+      "timestamp": "2026-07-09T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Flaunt MagSafe Battery Chargers"
+    },
+    {
+      "id": 10859,
+      "text": "Greenworks Tools Recalls 24V and 48V Kobalt Yard Power Tools with USB-C Batteries Due to Risk of Serious Injury from Fire Hazard — This recall involves Kobalt yard power tools, including trimmers, blowers, mowers, chainsaws and pruning saws that use 24V Kobalt-branded batteries with a USB-C charging port. The batteries with a USB-C charging port come in 3.0Ah, 4.0Ah, 5.0Ah, 6.0Ah, and 8.0Ah. The 6.0Ah and 3.0Ah batteries were also sold separately from the tool. Only products with the USB-C batteries are included in the recall. Product Description Model Number Kobalt 24V 12\" String Trimmer and 270CFM/100 MPH Blower Combo Kit with (1) 3.0Ah Battery Kit: KOC 1024-06 Blower: KHB 2524-06 Trimmer: KST 1224-06 Battery: KB 424-06 Kobalt 48V (2x24V) 17\" Deck Push Mower Kit with (2) 4.0Ah Batteries Tool: KM 4224A-06 Battery: KB 424-06 Kobalt 48V (2x24V) 21\" Deck Push Mower Kit with (2) 5.0Ah Batteries Tool: KM 5224A-06 Battery: KB 524-06 Kobalt 48V (2x24V) 21\" Deck Self-Propelled Mower Kit with (2) 6.0Ah Batteries Tool: KMS 6224A-06 Battery: KB 624-06 Kobalt 48V (2x24V) 21\" Deck Dual Blade Self-Propelled Mower Kit with (2) 8.0Ah Batteries Tool: KMSD 8224A-06 Battery: KXB 824-06 Kobalt 48V (2x24V) Kobalt 14\" Chainsaw Kit with (2) 4.0Ah Batteries Tool: KCS 4224-06 Battery: KB 424-06 Kobalt 24V 6\" Pruning Saw Kit with (1) 3.0Ah Battery Tool: KMCS 2024-06 Battery: KB 324-06 Kobalt 24V 270 CFM/100 MPH Blower Kit with (1) 3.0Ah Battery Tool: KHB 324-06 Battery: KB 324-06 Kobalt 48V (2x24V) 600 CFM/150 MPH Blower Kit with (2) 4.0Ah Batteries Tool: KHB 4248-06 Battery: KB 424-06 Kobalt 48V (2x24V) Bristle Brush Kit with (2) 3.0Ah Batteries Tool: KABK 3265-06 Battery: KB 324-06 Kobalt 24V 12\" 2-in-1 String Trimmer Kit with (1) 3.0Ah Battery Tool: KST 2024-06 Battery: KB 324-06 Kobalt 48V (2x24V) 15\" Attachment Capable String Trimmer Kit with (2) 3.0Ah Batteries Tool: KMS 3248-06 Battery: KB 324-06 Kobalt 24V Power Cleaner Kit with (1) 3.0Ah Battery Tool: KPC 3024-06 Battery: KB 324-06 Kobalt 24V 6.0Ah Battery 2-Pack Kit: KB 624D-06 Battery: KB 624-06 Kobalt 24V 3.0Ah Battery 2-Pack Kit: KB 324D-06 Battery: KB 324-06 Kobalt 24V 3.0Ah Battery KB 324-06 Kobalt 48V (2x24) 15\" Trimmer and 600 CFM Blower Combo Kit with (2) 4.0Ah Batteries Kit: KOC 4248-06 Blower: KHB 6048-06 Trimmer: KMS 1524-06 Battery: KB 424-06 Kobalt 48V (2x24V) 14\" Chainsaw (Tool Only) KCS 1448-06 Kobalt 48V (2x24V) 600 CFM/150 MPH Blower (Tool Only) KHB 6048-06 Kobalt 48V (2x24V) 15\" Attachment Capable String Trimmer (Tool Only) KMS 1524-06 Kobalt 48V (2x24V) 15\" Attachment Capable String Trimmer (Tool Only) KMS 1524-06 s.",
+      "timestamp": "2026-07-09T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Kobalt 24V and 48V Trimmers, Blowers, Mowers, Chainsaws and Pruning Saws with USB-C Batteries"
+    },
+    {
+      "id": 10856,
+      "text": "Moodooy Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Yuezhang — This recall involves the Moodooy-branded adult portable bed rail. The bed rail has a white frame with black trim and a black storage pocket. The brand name \"Moodooy\" and model \"F311\" are printed on the storage pocket. The bed rail is about 12 inches wide by about 21 inches tall to about 23 inches tall (when extended).",
+      "timestamp": "2026-07-09T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Moodooy Adult Portable Bed Rails"
+    },
+    {
+      "id": 10857,
+      "text": "WonderStone Infant Walkers Recalled Due to Risk of Serious Injury or Death from Fall Hazard; Violate Mandatory Standard for Infant Walkers; Sold on Walmart.com by Wonder Stone Toys — This recall involves WonderStone-branded Infant Walkers sold in green and pink. The walkers have a gray fabric seat, a white tray with a detachable music box, six wheels, a foot pad and a white hand lever. \"Model No: 616\" or \"Model No: 616-1\" is printed on a white label located under the tray.",
+      "timestamp": "2026-07-09T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "WonderStone Infant Walkers"
     },
     {
       "id": 10846,
