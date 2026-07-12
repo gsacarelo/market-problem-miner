@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-07-12T19:14:23.213Z",
+  "fetched_at": "2026-07-12T21:00:51.400Z",
   "items": [
     {
       "id": 10854,
@@ -344,6 +344,15 @@
       "hazard": null,
       "remedy": null,
       "product": "Veseacky Pajama Sets"
+    },
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
     }
   ]
 }
