@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-07-14T10:04:11.040Z",
+  "fetched_at": "2026-07-14T14:03:26.690Z",
   "items": [
     {
       "id": 10854,
@@ -344,6 +344,15 @@
       "hazard": null,
       "remedy": null,
       "product": "Veseacky Pajama Sets"
+    },
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
     }
   ]
 }
