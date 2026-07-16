@@ -1,8 +1,17 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-07-16T17:24:56.317Z",
+  "fetched_at": "2026-07-16T19:25:53.177Z",
   "items": [
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
+    },
     {
       "id": 10854,
       "text": "Best Buy Recalls Insignia® Gas Ranges Due to Risk of Serious Injury from a Fire Hazard — This recall involves Insignia gas ranges with model numbers NS-RGFGSS1 and NS-RGFCGS2. The recalled ranges are stainless steel with five front-knobs on the oven with the \"Insignia\" label on the bottom of the oven door. A label with the model number can be found on the inside of the range's bottom drawer.",
