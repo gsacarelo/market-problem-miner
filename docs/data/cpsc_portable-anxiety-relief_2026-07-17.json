@@ -1,6 +1,16 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-07-17T14:05:50.672Z",
-  "items": []
+  "fetched_at": "2026-07-17T15:19:51.424Z",
+  "items": [
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
+    }
+  ]
 }
