@@ -1,133 +1,16 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-07-20T14:20:07.753Z",
+  "fetched_at": "2026-07-20T18:14:13.139Z",
   "items": [
     {
-      "id": 10864,
-      "text": "Currey & Company Recalls Nottaway Chandeliers Due to Risk of Serious Injury or Death from Electrocution Hazard — This recall involves Currey & Company's Nottaway chandeliers. The iron with brass frame light fixtures were sold in gold, bronze and champagne finishes and in two sizes. The two-tier chandeliers measure about 44 inches in diameter and 44.5 inches high and have an adjustable drop of 51 to 119 inches and nine 50-watt bulbs. The three-tier chandeliers measure about 60 inches in diameter and 63.5 inches high and have an adjustable drop of 70 to 138 inches and 18 40-watt bulbs. \"Currey & Company\" and the model number 9000-1129, 9000-1130, 9000-1254, 9000-1255, 9000-1314 are printed on a label atop the fixture's ceiling canopy. Nottaway and the model are printed on the product order receipt. Only chandeliers with no visible screw on the outside of the top distributor cap are included in this recall.",
-      "timestamp": "2026-07-16T00:00:00",
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Nottaway Chandelier Fixtures"
-    },
-    {
-      "id": 10867,
-      "text": "Huish Outdoors Recalls Hollis Diving Regulators Due to Risk of Serious Injury or Death from Drowning — This recall involves Hollis 200LX second stage diving regulators. The regulators are used for Scuba diving and are made of black and red plastic and metal. \"200LX\" and \"Hollis\" are engraved on top of the regulator. The product serial number is located under the mouthpiece. The following serial number ranges are included in this recall: Serial Number Ranges C3753 - C77735 S73202 - S8442 HA00001 - HA14873 LX001698 - LX009896",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Hollis 200LX Second Stage Diving Regulators"
-    },
-    {
-      "id": 10869,
-      "text": "Jobon Torch Lighters Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Violate Mandatory Standard for Multipurpose Lighters — This recall involves Jobon butane torch lighters. The lighters have a side ignition trigger and hands-free operation lock. The lighters come in gray/brown, gold/black and camouflage print. \"JOBON\" is printed on the side of the lighter.",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Jobon butane torch lighters"
-    },
-    {
-      "id": 10862,
-      "text": "Liizousuda Paint Thinner Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging; Sold on Amazon.com by Shenzhen Gudebo Technology — This recall involves Liizousuda paint thinner bottles. The paint thinner comes in a clear bottle with a black cap and a wraparound label. The label states \"Odorless Mineral Spirit\" and \"Artist Oil Thinning Medium\" in large text.",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Liizousuda Paint Thinner"
-    },
-    {
-      "id": 10868,
-      "text": "Madewell Recalls Women's Sweaters Due to Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standard for Clothing Textiles — This recall involves two styles of Madewell-branded Double V-Neck Pullover and V-Neck Cardigan women's sweaters. The sweaters were sold with or without buttons in light blue and cream and in sizes XS through L. The sweaters have long sleeves and a V-neck. \"Madewell\" and the size are printed on the neck label and \"Style #NT611\" or \"Style #NT612\" and \"HO24\" on the sewn-in side seam label.",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Madewell Double V-Neck Pullover and V-Neck Cardigan Sweaters"
-    },
-    {
-      "id": 10873,
-      "text": "MNIENT Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails — This recall involves MNIENT-branded adult portable bed rails, model LQX-110055. The recalled bed rails have a white frame with black foam rubber handle grips, a black fabric pouch, and measure about 13 inches wide by 39 inches high. The MNIENT brand name and model number are on the front of the product packaging and on the product label located on the black fabric pouch.",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "MNIENT Adult Portable Bed Rails"
-    },
-    {
-      "id": 10870,
-      "text": "Noerishia Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Hurzein — This recall involves Noerishia adult portable bed rails. The bed rails come in black, measure 24 inches wide by 36 inches tall, are made of carbon steel, and weigh 8.4 pounds. \"Model: KDB-504B\" and \"Batch: SO2025111104\" are printed on the product packaging. The Noerishia branding \"Noerishia\" and \"Model: KDB-504B\" are printed on the instruction manual.",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Noerishia Adult Portable Bed Rails"
-    },
-    {
-      "id": 10860,
-      "text": "Oitnlaughter Projecting Finger Light Toys Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys; Sold on Amazon by Delightmi — This recall involves Oitnlaughter-branded LED Finger Lights. They were sold in sets of 36 multi-colored lights. Each finger light has three internal button cell batteries that power projections of the six animal designs (tiger, elephant, rabbit, panda, butterfly and duck) when the finger light is activated.",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Oitnlaughter LED Finger Lights"
-    },
-    {
-      "id": 10861,
-      "text": "Panasonic Recalls Electric Toaster Ovens Due to Shock and Fire Hazards — This recall involves all Panasonic Electric Toaster Ovens, Model No. NB-G200. The Electric Toaster Ovens are stainless steel with the temperature knob located on the bottom. The brand name Panasonic is written on the front of the product. The Electric Toaster has six cooking menus with pre-set buttons, with a digital timer (up to 25 minutes) and temperature settings (250-Degree F to 500-Degree F). The model number is located on the name plate label on the back of the Electric Toaster Oven.",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Electric Toaster Ovens"
-    },
-    {
-      "id": 10871,
-      "text": "SDADI Kitchen Step Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by Yiwushi Bihe Trading — SDADI Kitchen Step Stools are wooden standing towers for kids. The towers were sold under model numbers LT05 and LT01 in gray, white, espresso, pink and natural wood colors, and measure about 35 inches high, 15 to 18 inches wide and 18 inches deep. The stools were manufactured in China.",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "SDADI Kitchen Step Stools, models LT01 and LT05"
-    },
-    {
-      "id": 10872,
-      "text": "Target Recalls Cat & Jack Children's Sandals Due to Risk of Serious Injury or Death from Choking Hazard — This recall involves Cat & Jack-branded children's sandals. The sandals are tan and have two raffia straps with gold buckles and plastic pearls. The brand is printed on the shoe's sole and bottom. The sandals were sold in sizes 5T through 12T.",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Cat & Jack Children's Sandals"
-    },
-    {
-      "id": 10863,
-      "text": "TOMY Recalls Boon PIVOT Collapsible Toddler Tower Kitchen Step Stools Due to Risk of Serious Injury and Death from Tip-Over and Fall Hazards — This recall involves Boon PIVOT Toddler Tower Kids Kitchen Step Stools. The metal and plastic tower stools were sold in gray and white and measure about 22 inches wide, 23 inches deep, and 35 inches tall. \"boon\" is visible along the top rail, and a warning label is visible along the side of the standing platform.",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Boon PIVOT Collapsible Toddler Tower Kitchen Step Stools"
-    },
-    {
-      "id": 10865,
-      "text": "Wade Logan Annyka 9-Drawer Fabric Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Imported by Ningbo Jiangdong Peter International Trading — This recall involves Wade Logan Annyka 9-Drawer Fabric Dressers. The recalled dressers are made of fabric and a metal frame, and were sold in black, brown, gray, and white. The dresser has 9 fabric drawers, is 39.4 inches long by 11.8 inches wide by 39.4 inches tall and weighs 33 pounds. The dressers have the SKU number and color printed on a label located on the outer packaging (e.g., \"SKU: HD016GRY\" and \"COLOR: GRAY\").",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Wade Logan Annyka 9-Drawer Fabric Dressers"
-    },
-    {
-      "id": 10866,
-      "text": "Warren James Recalls the Copper Cup Found in Flashgitz Relic Lunch Boxes Due to Risk of Serious Injury or Death from Lead Poisoning — This recall involves the copper cup found in the Flashgitz-branded Space King No Girls Allowed Relic Lunch Boxes. The Relic Box is a retro style lunch box containing a limited-edition bundle of collectibles for fans of the web cartoon?Space King. The contents of the box are a metal figurine, a zippo lighter case, a drinking cup and a pack of condoms. The box also contains a strip of paper warning that the \"Chastity Seals\" is a novelty item and not intended for use. The lunch box is red with \"Space King\" written in red and orange lettering at the top on the front, and a picture of the Space king characters below it. Only the copper cups are included in this recall.",
-      "timestamp": "2026-07-16T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Space King No Girls Allowed Relic Lunch Boxes (Cups only)"
+      "product": null
     },
     {
       "id": 10854,
@@ -389,6 +272,132 @@
       "hazard": null,
       "remedy": null,
       "product": "XW-A17 Electric Youth All-Terrain Vehicles (ATVs)"
+    },
+    {
+      "id": 10864,
+      "text": "Currey & Company Recalls Nottaway Chandeliers Due to Risk of Serious Injury or Death from Electrocution Hazard — This recall involves Currey & Company's Nottaway chandeliers. The iron with brass frame light fixtures were sold in gold, bronze and champagne finishes and in two sizes. The two-tier chandeliers measure about 44 inches in diameter and 44.5 inches high and have an adjustable drop of 51 to 119 inches and nine 50-watt bulbs. The three-tier chandeliers measure about 60 inches in diameter and 63.5 inches high and have an adjustable drop of 70 to 138 inches and 18 40-watt bulbs. \"Currey & Company\" and the model number 9000-1129, 9000-1130, 9000-1254, 9000-1255, 9000-1314 are printed on a label atop the fixture's ceiling canopy. Nottaway and the model are printed on the product order receipt. Only chandeliers with no visible screw on the outside of the top distributor cap are included in this recall.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Nottaway Chandelier Fixtures"
+    },
+    {
+      "id": 10867,
+      "text": "Huish Outdoors Recalls Hollis Diving Regulators Due to Risk of Serious Injury or Death from Drowning — This recall involves Hollis 200LX second stage diving regulators. The regulators are used for Scuba diving and are made of black and red plastic and metal. \"200LX\" and \"Hollis\" are engraved on top of the regulator. The product serial number is located under the mouthpiece. The following serial number ranges are included in this recall: Serial Number Ranges C3753 - C77735 S73202 - S8442 HA00001 - HA14873 LX001698 - LX009896",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Hollis 200LX Second Stage Diving Regulators"
+    },
+    {
+      "id": 10869,
+      "text": "Jobon Torch Lighters Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Violate Mandatory Standard for Multipurpose Lighters — This recall involves Jobon butane torch lighters. The lighters have a side ignition trigger and hands-free operation lock. The lighters come in gray/brown, gold/black and camouflage print. \"JOBON\" is printed on the side of the lighter.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Jobon butane torch lighters"
+    },
+    {
+      "id": 10862,
+      "text": "Liizousuda Paint Thinner Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging; Sold on Amazon.com by Shenzhen Gudebo Technology — This recall involves Liizousuda paint thinner bottles. The paint thinner comes in a clear bottle with a black cap and a wraparound label. The label states \"Odorless Mineral Spirit\" and \"Artist Oil Thinning Medium\" in large text.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Liizousuda Paint Thinner"
+    },
+    {
+      "id": 10868,
+      "text": "Madewell Recalls Women's Sweaters Due to Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standard for Clothing Textiles — This recall involves two styles of Madewell-branded Double V-Neck Pullover and V-Neck Cardigan women's sweaters. The sweaters were sold with or without buttons in light blue and cream and in sizes XS through L. The sweaters have long sleeves and a V-neck. \"Madewell\" and the size are printed on the neck label and \"Style #NT611\" or \"Style #NT612\" and \"HO24\" on the sewn-in side seam label.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Madewell Double V-Neck Pullover and V-Neck Cardigan Sweaters"
+    },
+    {
+      "id": 10873,
+      "text": "MNIENT Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails — This recall involves MNIENT-branded adult portable bed rails, model LQX-110055. The recalled bed rails have a white frame with black foam rubber handle grips, a black fabric pouch, and measure about 13 inches wide by 39 inches high. The MNIENT brand name and model number are on the front of the product packaging and on the product label located on the black fabric pouch.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "MNIENT Adult Portable Bed Rails"
+    },
+    {
+      "id": 10870,
+      "text": "Noerishia Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Hurzein — This recall involves Noerishia adult portable bed rails. The bed rails come in black, measure 24 inches wide by 36 inches tall, are made of carbon steel, and weigh 8.4 pounds. \"Model: KDB-504B\" and \"Batch: SO2025111104\" are printed on the product packaging. The Noerishia branding \"Noerishia\" and \"Model: KDB-504B\" are printed on the instruction manual.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Noerishia Adult Portable Bed Rails"
+    },
+    {
+      "id": 10860,
+      "text": "Oitnlaughter Projecting Finger Light Toys Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys; Sold on Amazon by Delightmi — This recall involves Oitnlaughter-branded LED Finger Lights. They were sold in sets of 36 multi-colored lights. Each finger light has three internal button cell batteries that power projections of the six animal designs (tiger, elephant, rabbit, panda, butterfly and duck) when the finger light is activated.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Oitnlaughter LED Finger Lights"
+    },
+    {
+      "id": 10861,
+      "text": "Panasonic Recalls Electric Toaster Ovens Due to Shock and Fire Hazards — This recall involves all Panasonic Electric Toaster Ovens, Model No. NB-G200. The Electric Toaster Ovens are stainless steel with the temperature knob located on the bottom. The brand name Panasonic is written on the front of the product. The Electric Toaster has six cooking menus with pre-set buttons, with a digital timer (up to 25 minutes) and temperature settings (250-Degree F to 500-Degree F). The model number is located on the name plate label on the back of the Electric Toaster Oven.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Electric Toaster Ovens"
+    },
+    {
+      "id": 10871,
+      "text": "SDADI Kitchen Step Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by Yiwushi Bihe Trading — SDADI Kitchen Step Stools are wooden standing towers for kids. The towers were sold under model numbers LT05 and LT01 in gray, white, espresso, pink and natural wood colors, and measure about 35 inches high, 15 to 18 inches wide and 18 inches deep. The stools were manufactured in China.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "SDADI Kitchen Step Stools, models LT01 and LT05"
+    },
+    {
+      "id": 10872,
+      "text": "Target Recalls Cat & Jack Children's Sandals Due to Risk of Serious Injury or Death from Choking Hazard — This recall involves Cat & Jack-branded children's sandals. The sandals are tan and have two raffia straps with gold buckles and plastic pearls. The brand is printed on the shoe's sole and bottom. The sandals were sold in sizes 5T through 12T.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Cat & Jack Children's Sandals"
+    },
+    {
+      "id": 10863,
+      "text": "TOMY Recalls Boon PIVOT Collapsible Toddler Tower Kitchen Step Stools Due to Risk of Serious Injury and Death from Tip-Over and Fall Hazards — This recall involves Boon PIVOT Toddler Tower Kids Kitchen Step Stools. The metal and plastic tower stools were sold in gray and white and measure about 22 inches wide, 23 inches deep, and 35 inches tall. \"boon\" is visible along the top rail, and a warning label is visible along the side of the standing platform.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Boon PIVOT Collapsible Toddler Tower Kitchen Step Stools"
+    },
+    {
+      "id": 10865,
+      "text": "Wade Logan Annyka 9-Drawer Fabric Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Imported by Ningbo Jiangdong Peter International Trading — This recall involves Wade Logan Annyka 9-Drawer Fabric Dressers. The recalled dressers are made of fabric and a metal frame, and were sold in black, brown, gray, and white. The dresser has 9 fabric drawers, is 39.4 inches long by 11.8 inches wide by 39.4 inches tall and weighs 33 pounds. The dressers have the SKU number and color printed on a label located on the outer packaging (e.g., \"SKU: HD016GRY\" and \"COLOR: GRAY\").",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Wade Logan Annyka 9-Drawer Fabric Dressers"
+    },
+    {
+      "id": 10866,
+      "text": "Warren James Recalls the Copper Cup Found in Flashgitz Relic Lunch Boxes Due to Risk of Serious Injury or Death from Lead Poisoning — This recall involves the copper cup found in the Flashgitz-branded Space King No Girls Allowed Relic Lunch Boxes. The Relic Box is a retro style lunch box containing a limited-edition bundle of collectibles for fans of the web cartoon?Space King. The contents of the box are a metal figurine, a zippo lighter case, a drinking cup and a pack of condoms. The box also contains a strip of paper warning that the \"Chastity Seals\" is a novelty item and not intended for use. The lunch box is red with \"Space King\" written in red and orange lettering at the top on the front, and a picture of the Space king characters below it. Only the copper cups are included in this recall.",
+      "timestamp": "2026-07-16T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Space King No Girls Allowed Relic Lunch Boxes (Cups only)"
     }
   ]
 }
