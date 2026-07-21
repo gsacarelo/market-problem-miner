@@ -1,8 +1,17 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-07-21T19:39:45.597Z",
+  "fetched_at": "2026-07-21T21:19:43.208Z",
   "items": [
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
+    },
     {
       "id": 10864,
       "text": "Currey & Company Recalls Nottaway Chandeliers Due to Risk of Serious Injury or Death from Electrocution Hazard — This recall involves Currey & Company's Nottaway chandeliers. The iron with brass frame light fixtures were sold in gold, bronze and champagne finishes and in two sizes. The two-tier chandeliers measure about 44 inches in diameter and 44.5 inches high and have an adjustable drop of 51 to 119 inches and nine 50-watt bulbs. The three-tier chandeliers measure about 60 inches in diameter and 63.5 inches high and have an adjustable drop of 70 to 138 inches and 18 40-watt bulbs. \"Currey & Company\" and the model number 9000-1129, 9000-1130, 9000-1254, 9000-1255, 9000-1314 are printed on a label atop the fixture's ceiling canopy. Nottaway and the model are printed on the product order receipt. Only chandeliers with no visible screw on the outside of the top distributor cap are included in this recall.",
