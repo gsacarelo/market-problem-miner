@@ -1,8 +1,17 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-07-24T19:38:34.717Z",
+  "fetched_at": "2026-07-24T21:14:32.633Z",
   "items": [
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
+    },
     {
       "id": 10864,
       "text": "Currey & Company Recalls Nottaway Chandeliers Due to Risk of Serious Injury or Death from Electrocution Hazard — This recall involves Currey & Company's Nottaway chandeliers. The iron with brass frame light fixtures were sold in gold, bronze and champagne finishes and in two sizes. The two-tier chandeliers measure about 44 inches in diameter and 44.5 inches high and have an adjustable drop of 51 to 119 inches and nine 50-watt bulbs. The three-tier chandeliers measure about 60 inches in diameter and 63.5 inches high and have an adjustable drop of 70 to 138 inches and 18 40-watt bulbs. \"Currey & Company\" and the model number 9000-1129, 9000-1130, 9000-1254, 9000-1255, 9000-1314 are printed on a label atop the fixture's ceiling canopy. Nottaway and the model are printed on the product order receipt. Only chandeliers with no visible screw on the outside of the top distributor cap are included in this recall.",
@@ -389,6 +398,42 @@
       "hazard": null,
       "remedy": null,
       "product": "XW-A17 Electric Youth All-Terrain Vehicles (ATVs)"
+    },
+    {
+      "id": 10875,
+      "text": "12-Drawer Fabric Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon by Romorgniz — This recall involves Romorgniz 12-Drawer Fabric Dressers. The recalled dressers come in white, brown, and black. The dressers have 12 fabric drawers and the frames are made of metal. They measure 11.8 inches wide by 31.7 inches tall by 55 inches long. Only orders placed before April 1, 2026, are part of this recall.",
+      "timestamp": "2026-07-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Romorgniz 12-Drawer Fabric Dressers"
+    },
+    {
+      "id": 10876,
+      "text": "Aojieni Silicone Recalls Sili Factory Pull String Teething Toys Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys — This recall involves Aojieni Silicone pull string teething toys. The teething toys consist of a pink disc shape with a pink ball in the center and five multi-colored, silicone tentacle-looking pull strings that run through the ball. The disc has seven soft push buttons. The brand name and \"Pulling Toy\" is printed on the front of the product packaging, and the batch number DS250238 on the back of packaging.",
+      "timestamp": "2026-07-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Sili Factory Pull String Teething Toys"
+    },
+    {
+      "id": 10874,
+      "text": "Oitnlaughter Projecting Finger Light Toys Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys; Sold on Amazon by Delightmi — This recall involves Oitnlaughter-branded LED Finger Lights. They were sold in sets of 36 multi-colored lights. Each finger light has three internal button cell batteries that power projections of the six animal designs (tiger, elephant, rabbit, panda, butterfly and duck) when the finger light is activated.",
+      "timestamp": "2026-07-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Oitnlaughter LED Finger Lights"
+    },
+    {
+      "id": 10877,
+      "text": "Sviyatp Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violate Virginia Graeme Baker Pool & Spa Safety Act — This recall involves the Sviyatp white pool drain cover, sold as a replacement pool drain cover for swimming pools. The Sviyatp Pool Drain Cover has no labeling or product identification on the product itself. The pool drain cover comes in clear packaging with \"X0050114ZZ,\" \"SV-SP1030-001,\" \"Sviyatp Dual Suction Outlet,\" and \"MADE IN CHINA\" printed on the label. The pool drain cover included two stainless steel screws.",
+      "timestamp": "2026-07-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Sviyatp Pool Drain Covers"
     }
   ]
 }
