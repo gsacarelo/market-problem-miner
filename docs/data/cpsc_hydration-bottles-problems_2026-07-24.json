@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-07-24T15:37:32.806Z",
+  "fetched_at": "2026-07-24T17:54:16.076Z",
   "items": [
     {
       "id": 10864,
@@ -389,6 +389,15 @@
       "hazard": null,
       "remedy": null,
       "product": "XW-A17 Electric Youth All-Terrain Vehicles (ATVs)"
+    },
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
     }
   ]
 }
