@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-07-24T21:17:23.691Z",
+  "fetched_at": "2026-07-24T23:07:53.684Z",
   "items": [
     {
       "id": 10875,
@@ -22,6 +22,24 @@
       "product": "Sili Factory Pull String Teething Toys"
     },
     {
+      "id": 10879,
+      "text": "CuddleCubs Creations Teething Toy Sets Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by YouRfocus — This recall involves the CuddleCubs Creations highchair teething toy set, colors \"BlueOrange\" and \"YellowOrange\". The sets come with a suction-cup pull-string teether set featuring a chick-shaped teether and pull-string toy. The violative pull string teething toy has an orange bug-shaped center ball with six long, silicone pull strings of various colors running through the ball, and one light-green center string.",
+      "timestamp": "2026-07-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "CuddleCubs Creations Baby Highchair Teething Toy Sets"
+    },
+    {
+      "id": 10874,
+      "text": "EnHomee 9-Drawer Fabric Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units; Sold on Walmart.com by Raybee-Direct — This recall involves EnHomee 9-Drawer Fabric Dressers. The recalled dressers come in white, brown, gray, and black. The dressers have nine fabric drawers, and the frames are made of metal. They are 15.3 inches wide, 27.5 inches tall, 47.2 inches long, and weigh 41.3 pounds. Only orders placed before March 30th 2026, are part of this recall.",
+      "timestamp": "2026-07-23T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "EnHomee 9-Drawer Fabric Dressers"
+    },
+    {
       "id": 10878,
       "text": "OeyUoc Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violate Virginia Graeme Baker Pool & Spa Safety Act; Sold Exclusively on Amazon by Yuanxinxiang — This recall involves the OeyUoc white pool drain cover, sold as a replacement pool drain cover for swimming pools. The OeyUoc Pool Drain Cover has no labeling or product identification on the product itself. The pool cover comes in a clear packaging with \"X00501CQ7P,\" \"OY-WG1048E-1P,\" \"OeyUoc WG1048…Skimmer Lid SP1030\" and \"MADE IN CHINA\" printed on the label. The pool cover included two stainless steel screws.",
       "timestamp": "2026-07-23T00:00:00",
@@ -31,13 +49,13 @@
       "product": "OeyUoc Pool Drain Covers"
     },
     {
-      "id": 10874,
-      "text": "Oitnlaughter Projecting Finger Light Toys Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys; Sold on Amazon by Delightmi — This recall involves Oitnlaughter-branded LED Finger Lights. They were sold in sets of 36 multi-colored lights. Each finger light has three internal button cell batteries that power projections of the six animal designs (tiger, elephant, rabbit, panda, butterfly and duck) when the finger light is activated.",
+      "id": 10880,
+      "text": "Peony Design Recalls Personalized Baby Bibs and Stroller Bags Due to Risk of Serious Injury or Death from Choking Hazard — This recall involves Peony Design personalized handmade baby bibs and stroller bags. The bibs have scalloped edges, a snap closure, and personalized embroidery on the front. The bibs were sold in fabric designs of geese, strawberries, heart tulip, plaid checks, and floral print. The stroller bags were made in coordinating fabrics including heart tulip, plaid check, floral print, and Winnie the Pooh. Each stroller bag has two straps with snaps at the ends for attachment and is personalized with embroidery and a ruffle around the top edge.",
       "timestamp": "2026-07-23T00:00:00",
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Oitnlaughter LED Finger Lights"
+      "product": "Personalized Baby Bibs and Stroller Bags"
     },
     {
       "id": 10877,
@@ -434,15 +452,6 @@
       "hazard": null,
       "remedy": null,
       "product": "XW-A17 Electric Youth All-Terrain Vehicles (ATVs)"
-    },
-    {
-      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
-      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
-      "timestamp": null,
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": null
     }
   ]
 }
