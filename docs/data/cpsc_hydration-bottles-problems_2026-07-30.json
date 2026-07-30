@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-07-30T21:29:32.260Z",
+  "fetched_at": "2026-07-30T23:13:31.659Z",
   "items": [
     {
       "id": 10875,
@@ -362,15 +362,6 @@
       "hazard": null,
       "remedy": null,
       "product": "Unity 7 Shot 200 Gram Aerial Cake Firework Devices"
-    },
-    {
-      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
-      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
-      "timestamp": null,
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": null
     }
   ]
 }
