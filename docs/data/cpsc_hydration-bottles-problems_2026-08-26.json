@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-08-26T15:03:13.592Z",
+  "fetched_at": "2026-08-26T16:52:10.235Z",
   "items": [
     {
       "id": 10937,
@@ -515,15 +515,6 @@
       "hazard": null,
       "remedy": null,
       "product": "Woodure Toddler Kitchen Step Stools"
-    },
-    {
-      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
-      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
-      "timestamp": null,
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": null
     }
   ]
 }
