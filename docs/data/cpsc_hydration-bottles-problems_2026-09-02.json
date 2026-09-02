@@ -1,8 +1,71 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-08-19T22:30:54.558Z",
+  "fetched_at": "2026-09-02T03:58:07.238Z",
   "items": [
+    {
+      "id": 10937,
+      "text": "CCM Hockey U.S. Recalls FMHVR Hybrid Visors and ACCHVR Replacement Visor Accessories Due to Risk of Injury from Laceration or Impact Hazards — This recall involves the CCM Hybrid Hockey Visors, style FMHVR and replacement visor accessories, style ACCHVR. The recalled FMHVR Hybrid Visors are marked \"HVR\" at the top of the metal plate (above \"CCM\" in red). Recalled FMHVR visors have serial numbers beginning with \"M/L\" or \"S/M.\" The recalled ACCHVR Replacement Visor accessory has serial numbers beginning with \"SR\". The serial number is printed at the top corner on the right- hand-side metal plate where HVR - CCM are written, inside of the visors, engraved into the polycarbonate. The following visor and visor accessories are included in the recall. Recalled Visors and Visor Accessories: S/M FMHVR SR CCM CAG Visor Black Chrome S/M M/L FMHVR SR CCM CAG Visor Black Chrome M/L M/L ACCHVR CONTAINS REPLACEMENT VISOR(1) + SIDE CLIPS(2) + SPACERS(2) + SCRFEWS(2) S/M ACCHVR CONTAINS REPLACEMENT VISOR(1) + SIDE CLIPS(2) + SPACERS(2) + SCRFEWS(2)",
+      "timestamp": "2026-08-20T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "FMHVR Hybrid Visors and ACCHVR Replacement Visor Accessories"
+    },
+    {
+      "id": 10933,
+      "text": "Goal Zero Recalls YETI 3000X Power Stations Due to Serious Risk of Injury from Fire and Burn Hazards — This recall involves Goal Zero's YETI 3000X power stations. The silver and black portable power stations measure about 24.4 inches high, 18.5 inches wide and 22.3 inches deep, and weigh about 92 pounds. The power stations have yellow handles and a digital display at the front with electrical ports. They sit on a rolling cart with two built-in wheels and a telescoping handle. The Goal Zero logo is printed on the front bar of the cart and on a nameplate located on the underside of the station's lid along with \"YETI 3000X\".",
+      "timestamp": "2026-08-20T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Goal Zero YETI 3000X Portable Power Stations"
+    },
+    {
+      "id": 10934,
+      "text": "JINHEZO Mini Waterproof LED Tea Lights Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries; Imported by Mystic ZO — This recall involves JINHEZO Mini Waterproof LED Tea Lights. The circular tea lights are clear with a white base and are about 1\" in diameter and 1.14\" tall. They come in a pack of 24 lights with 48 coin-cell batteries (two per light).",
+      "timestamp": "2026-08-20T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "JINHEZO Mini Waterproof LED Tea Lights"
+    },
+    {
+      "id": 10935,
+      "text": "Koorlian Mattresses Recalled Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability; Sold on Amazon by Dream Bedding Technology — This recall involves Koorlian branded mattresses. The mattresses are 10 inches thick and were sold in a Twin XL size. They have a white top and blue sides and were sold compressed in a box. \"Dreams Bedding Technology PTE LTD\" the manufacture date and prototype ID \"KY15Q290\" are printed on a sewn-in white label located on one side of the mattress.",
+      "timestamp": "2026-08-20T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Koorlian Mattresses"
+    },
+    {
+      "id": 10931,
+      "text": "KTM North America Recalls Off-Road Motorcycles Due to Risk of Serious Injury or Death from Crash Hazard — This recall involves 2021, 2022, 2023 and 2024 off-road motorcycles. The GASGAS off-road motorcycles are red with the white GASGAS logo on both sides of the shrouds. The Husqvarna motorcycles are white, blue and yellow with the Husqvarna logo on both sides of the shrouds. The VIN and number are located on the right side of the steering head. Recalled 2021, 2022, 2023 and 2024 Off Road Motorcycles Model Year Husqvarna Models 2022 FE 350 2022 FE 501 2022 TE 150i 2022 TE 250i 2022 TE 300i 2023 TE 150 2023 TE 250 2023 TE 300 2023 TE 300 Heritage 2023 FX 350 Heritage 2023 FX 350 2023 FE 450 2023 FE 450 Heritage 2023 FX 450 2023 TX 300 2023 TX 300 Heritage 2024 TE 150 2024 TE 250 2024 TE 300 2024 FE 350w 2024 FE 450 2024 FE 501w Model Year GASGAS Model 2021 EC 300 2022 EC 250 2022 EC 300 2023 EC 250 2023 EC 300 2023 EX 250 2023 EX 250F 2023 EX 300 2023 EX 350F 2023 EX 450F 2023 MC 125 2023 MC 250 2023 MC 250F 2023 MC 350F 2023 MC 450F 2024 MC 125 2024 MC 250 2024 MC 250F 2024 MC 350F 2024 MC 450F 2024 EC 250 2024 EC 300 2024 EC 450F 2024 EX 250 2024 EX 250F 2024 EX 300 2024 EX 350F 2024 EX 450F 2024 EW 500F",
+      "timestamp": "2026-08-20T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "GASGAS and Husqvarna Off-Road Motorcycles"
+    },
+    {
+      "id": 10932,
+      "text": "Modine Manufacturing Company Recalls Airedale Heating and Cooling Ventilation Fans Due to Fire Hazard — This recall involves ventilation fans in ClassMate cooling and air source heat pumps and SchoolMate water/ground source heat pumps that supply heating, cooling and high indoor air quality in classrooms and schools in the following models: Model Ventilation Configuration (Digit 9) CMD C, D, or E CMP C, D, or E SMG H, J, K, N, or P SMW H, J, K, N, or P CMS H, J, K, N, or P The brand name Airedale is located on a sticker on the front of the unit. The model name and serial number are found on the serial plate on the underside of the control unit.",
+      "timestamp": "2026-08-20T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Ventilation Fans in ClassMate® DX Cooling and Air Source Heat Pumps and SchoolMate® Water/Ground Source Heat Pumps"
+    },
+    {
+      "id": 10936,
+      "text": "Workbless Pressure Washers Recalled Due to Risk of Serious Injury or Death from Shock and Electrocution Hazards — This recall involves Workbless-branded pressure washers, models WB0301 and WB0302. Model WB0301 is green and black and measures about 27.24 inches high, 10.83 inches wide and 8.39 inches deep. \"WORKBLESS\",\" WB0301\" and \"ELECTRIC PRESSURE WASHER\" are printed on a label on the back of the pressure washer. Model WB0302 is also green and black and measures about 29.57 inches high, 14.69 inches wide and 10.94 inches deep. \"WORKBLESS\", \"WB0302\" and \"HEAVY DUTY ELECTRIC PRESSURE WASHER\" are printed on a label on the back of the pressure washer. Both models came with four quick connect nozzles and a foam cannon.",
+      "timestamp": "2026-08-20T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Workbless Electric Pressure Washers"
+    },
     {
       "id": 10920,
       "text": "COMMOWNER Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards; Imported by AZ Home Concept — This recall involves COMMOWNER-branded pressure washers. The recalled 3 GPM electric pressure washers are orange or green or blue with black parts and measure about 11 inches deep by 9 inches wide and 25 inches high. They came with a 500 ml tank, foam cannon, four quick connect nozzles, and a 33-foot hose. Model number \"HD14P-Z\" is printed on a label on the back of the pressure washers. When purchased, the washer may have also been listed as model number HX18.",
@@ -317,204 +380,6 @@
       "hazard": null,
       "remedy": null,
       "product": "Wnttmt Baby Walkers"
-    },
-    {
-      "id": 10882,
-      "text": "15-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon by Enhomee-Direct — This recall involves EnHomee 15-Drawer 51\" Dressers. The recalled dressers come in white, brown, and black. The dressers have 15 fabric drawers, and the frames are made of metal. They are 11.8 inches wide, 51.2 inches tall, 39.3 inches long, and weigh 44.8 pounds. Only orders placed on or before April 10, 2026, are part of this recall.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "EnHomee 15-Drawer 51\" Dressers"
-    },
-    {
-      "id": 10883,
-      "text": "5-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon by KAIFAM — This recall involves KAIFAM 5-Drawer Dressers. The recalled dressers are made of metal and come in white and black. The dressers measure 15.7 inches wide, 31.5 inches long and 53.5 inches tall, and weigh 94.1 pounds. \"SKU: N-YSXR0055B\" and \"Item: Steel Cabinet\" are printed on the product packaging.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "KAIFAM 5-Drawer Dressers"
-    },
-    {
-      "id": 10884,
-      "text": "BenQ America Recalls GV31 Portable Projectors Due to Risk of Serious Injury or Death from Fire and Burn Hazards — This recall involves BenQ-branded portable projectors, model GV31. The white, circular projectors measure about 5.2 inches by 8 inches by 7.5 inches; weigh about 3.7 pounds and are powered by a rechargeable lithium-ion battery. The projectors sit on a gray base and have a built-in speaker, a carrying strap, a lens and control buttons at the top. They were shipped with a remote control. The brand name and model number are printed on the label on the underside of the projector's gray base.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "BenQ GV31 Portable Projectors"
-    },
-    {
-      "id": 10885,
-      "text": "Galanz Americas Recalls Retro Refrigerators Due to Risk of Serious Injury or Death from Fire and Burn Hazards; One Death Reported — The Galanz retro-style refrigerators were sold in black, blue, red and white, and measure about 58 inches high, 24 inches deep and 21 inches wide. The 7.6 cu. ft. capacity refrigerators have either left-hand opening or right-hand opening doors with handles, three adjustable glass shelves and one drawer. The top freezer has a separate door, one drawer and \"Galanz\" printed on front. Only refrigerators with date codes ranging from December 2018 through December 2020 and with one of the following model numbers are included in this recall: BCD-215V-62H, GLR76TRDER, GLR76TBKER, GLR76TBEER or GLR76TWEER. \"Galanz,\" the model number and the date code, in YYYYMM format, are printed on a white label on the upper left-hand corner on the back of the unit.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Galanz Retro Refrigerators"
-    },
-    {
-      "id": 10886,
-      "text": "Golden Link Recalls Fantastic Four Cups and Captain America Popcorn Helmet Containers with LED Lights Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violate Mandatory Standard for Consumer Products with Button Cell Batteries — This recall involves Fantastic Four Invisible Woman and Human Torch Drinking Cups and Captain America Popcorn Helmet Containers with LED lights. The products are souvenirs sold at movie theaters for the Fantastic Four and Captain America movie productions. The Fantastic Four Invisible Woman cups are blue and the Human Torch cups are red in color. The Captain America helmet containers are navy blue and silver and about 85 ounces with an opening at the top to store popcorn.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Fantastic Four Drinking Cups and Captain America Popcorn Helmet Containers with LED Lights"
-    },
-    {
-      "id": 10887,
-      "text": "HARPPA Recalls Nordi Toddler Tower Stools Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards — This recall involves HARPPA's Nordi foldable toddler towers. The tower stools are white, black and blue with natural wood color on the stool's step, platform and safety bars. The tower stools measure about 18 inches deep, 18 inches wide and 38.6 inches tall. \"MODEL No.: HANS0002\" is printed on a label on the underside of the stool's platform.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Nordi Foldable Toddler Tower Stools"
-    },
-    {
-      "id": 10888,
-      "text": "Heated Sherpa Throws and Blankets Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Sold on Amazon by OCTROT — This recall involves OCTROT-branded electrical throws and blankets. The sherpa, heated throws and blankets were sold in gray and yellow, white with gray, white with yellow, white with blue and white with red; and in five sizes: 50 inches by 62 inches, 50 inches by 60 inches, 62 inches by 84 inches, 64 inches by 84 inches and 84 inches by 90 inches. The throws and blankets have a white controller with five temperature settings. The controller's cord has two or four small holes at the lower connection point where it connects to the controller. The brand name and model number OCT-5060, OCT-5062, OCT-6248, OCT-7284 or OCT-8490 are printed on the product packaging.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "OCTROT Electric Thows and Blankets"
-    },
-    {
-      "id": 10889,
-      "text": "Jake's Fireworks Recalls World Class Fireworks \"Skull Strobe\" Rockets Due to Risk of Serious Injury from Explosion and Burn Hazards — This recall involves World Class Fireworks \"Skull Strobe\" rockets. The rockets are mounted on a wooden stick and come in a black box with a picture of a skull, the brand name, the product name and a warning label. The SKU code 1004351 is found near the bottom of the product packaging.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "World Class Fireworks \"Skull Strobe\" Rockets"
-    },
-    {
-      "id": 10890,
-      "text": "Joyin Expands Recall of Sloosh Dive Sticks Due to Risk of Serious Injury from Impalement; Violate Federal Dive Sticks Ban — This recall expansion involves Sloosh dive sticks, contained in packages of Sloosh water toys, model 40041 (previously recalled) and models 40003 and 16154. The model numbers 40041 and 40003 are printed on the back of the box of Sloosh water toys, next to the bar code, and on top of one end of the dive stick, along with Joyin's name and tracking information. The model number 16154 is printed on the polybag above the barcode, and on top of one end of the dive stick, along with Joyin's name and tracking information. The Sloosh water toys Model 40041 package contains 30 pieces, including five dive sticks. The Sloosh water toys Model 40003 package contains 18 pieces, including four dive sticks. Model 16154 is sold as a set of eight dive sticks, with no additional pieces. The recalled dive sticks come in various colors, are made of hard plastic and are cylinder-shaped. Each stick measures approximately 7-inches in length and about 1-inch or less in diameter. The dive sticks with models 40041 and 40003 are packaged in a box with other pool diving toys in the Sloosh water toys package. The dive sticks with model 40041 contained in the Sloosh water toys sold prior to October 23, 2025, are being recalled. The dive sticks with model numbers 40003 and 16154 sold prior to December 31, 2025, are being recalled. Consumers can continue to use the other items contained in the Sloosh water toys package.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Sloosh Dive Sticks, models 40041, 40003 and 16154"
-    },
-    {
-      "id": 10891,
-      "text": "Mangohood Direct Kids Kitchen Standing Towers Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by Hangzhou Xinyanchuangxin — This recall involves Mangohood Direct-branded children's tower stools, model LT003. The tower stools were sold in natural bamboo, gray, and white, and measure about 35 inches tall by 16 inches wide and 18 inches deep.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Mangohood Direct Kids Kitchen Standing Towers, Model LT003"
-    },
-    {
-      "id": 10892,
-      "text": "Mommy's Baby Lovely Deluxe Baby Doll Playsets Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violate Small Parts Ban; Sold on Temu by TOYHW — This recall involves Mommy's Baby Lovely Deluxe Baby Doll Playset, model NEW319A. The recalled playset includes a baby doll, a toy stroller, and plastic accessories including a miniature potty, a baby bib, a pacifier, a plate, a spoon, two cups, two toothbrushes, two bottles of body wash, a bar of soap, and a soap dish. \"Product Model: NEW319A\" is printed on a sticker affixed to the front of the box.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Mommy's Baby Lovely Deluxe Baby Doll Playsets"
-    },
-    {
-      "id": 10895,
-      "text": "OCOOPA Direct Recalls 1.5 Million Rechargeable Hand Warmers Due to Risk of Serious Injury or Death from Fire and Burn Hazards; One Death Reported; Imported by Shenzhen Street Cat Technology — This recall involves OCOOPA-branded rechargeable lithium-ion battery hand warmers, models UT3053, UT3056, ZLS-118, ZLS-118S, ZLS-118D, H01 and H01(PD.) The dual-sided, rechargeable hand warmers were sold in varying colors and designs, in packs of two warmers that can magnetically be joined and with a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and a silicone lanyard. \"OCOOPA\" is printed on the top of the hand warmers and on the product packaging. The model number and three-digit batch number are printed on the hand warmers' underside.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "OCOOPA Rechargeable Hand Warmers"
-    },
-    {
-      "id": 10893,
-      "text": "Recall of Cpzzkq Baby Loungers Expanded Due to Risk Serious Injury or Death from Suffocation Hazard; Violate Mandatory Standard for Infant Support Cushions; Sold on Amazon by CetoPMax — This recall involves an additional 195 Cpzzkq baby loungers sold in green and purple with \"Model No: UMCDB01\" printed on a stacked label located on the side of the lounger. Baby loungers in white, grayish blue, pink, zuma blue and brown were previously recalled in April 2026. All the recalled baby loungers are rectangular in shape, are made of a foam pad with a cloth cover and have \"CPZZKQ\" printed on a side label.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Cpzzkq Baby Loungers"
-    },
-    {
-      "id": 10881,
-      "text": "Trsmima Zipline Kits and Zipline Spring Brakes Recalled Due to Fall and Collision Hazards; Manufactured by Trsmima — This recall involves TT Trsmima Zipline Kits and Heavy Duty Stainless Steel Zipline Spring Brakes. TT Trsmima zipline kits include components and instructions to install a 76- to 200-foot-long backyard zipline for use by both children and adults. Kit components include a cable, a turnbuckle or ratchet strap, a green or blue plastic seat, a waist belt or harness, a black or blue trolley, a spring brake and additional small hardware needed to complete the installation. Some of the zipline trolleys include the name \"TT TRSMIMA\" in white lettering and some of the plastic seats include a label stating in part, \"Manufacturer Name: HuNanBoLuoDianZiShangWuYouXianGongSi.\" The TT Trsmima Heavy Duty Stainless Steel Zipline Spring Brakes include black stoppers on each end, no labeling or instructions, and were sold as separate components for installation with the purchaser's zipline.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "TT Trsmima Zipline Kits and Zipline Spring Brakes"
-    },
-    {
-      "id": 10894,
-      "text": "Woodure Toddler Kitchen Step Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by Shenzhen Muqiqu Creative Development — This recall involves Woodure-branded children's tower kitchen step stools, models WD1764, WD1357, and WD1720. The tower stools were sold in plywood and measure 18 inches deep by 16.9 inches wide by 34.6 inches tall. The model number is engraved on the underside of the bottom step.",
-      "timestamp": "2026-07-30T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Woodure Toddler Kitchen Step Stools"
-    },
-    {
-      "id": 10875,
-      "text": "12-Drawer Fabric Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon by Romorgniz — This recall involves Romorgniz 12-Drawer Fabric Dressers. The recalled dressers come in white, brown, and black. The dressers have 12 fabric drawers and the frames are made of metal. They measure 11.8 inches wide by 31.7 inches tall by 55 inches long. Only orders placed before April 1, 2026, are part of this recall.",
-      "timestamp": "2026-07-23T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Romorgniz 12-Drawer Fabric Dressers"
-    },
-    {
-      "id": 10876,
-      "text": "Aojieni Silicone Recalls Sili Factory Pull String Teething Toys Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys — This recall involves Aojieni Silicone pull string teething toys. The teething toys consist of a pink disc shape with a pink ball in the center and five multi-colored, silicone tentacle-looking pull strings that run through the ball. The disc has seven soft push buttons. The brand name and \"Pulling Toy\" is printed on the front of the product packaging, and the batch number DS250238 on the back of packaging.",
-      "timestamp": "2026-07-23T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Sili Factory Pull String Teething Toys"
-    },
-    {
-      "id": 10879,
-      "text": "CuddleCubs Creations Teething Toy Sets Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by YouRfocus — This recall involves the CuddleCubs Creations highchair teething toy set, colors \"BlueOrange\" and \"YellowOrange\". The sets come with a suction-cup pull-string teether set featuring a chick-shaped teether and pull-string toy. The violative pull string teething toy has an orange bug-shaped center ball with six long, silicone pull strings of various colors running through the ball, and one light-green center string.",
-      "timestamp": "2026-07-23T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "CuddleCubs Creations Baby Highchair Teething Toy Sets"
-    },
-    {
-      "id": 10874,
-      "text": "EnHomee 9-Drawer Fabric Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units; Sold on Walmart.com by Raybee-Direct — This recall involves EnHomee 9-Drawer Fabric Dressers. The recalled dressers come in white, brown, gray, and black. The dressers have nine fabric drawers, and the frames are made of metal. They are 15.3 inches wide, 27.5 inches tall, 47.2 inches long, and weigh 41.3 pounds. Only orders placed before March 30th 2026, are part of this recall.",
-      "timestamp": "2026-07-23T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "EnHomee 9-Drawer Fabric Dressers"
-    },
-    {
-      "id": 10878,
-      "text": "OeyUoc Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violate Virginia Graeme Baker Pool & Spa Safety Act; Sold Exclusively on Amazon by Yuanxinxiang — This recall involves the OeyUoc white pool drain cover, sold as a replacement pool drain cover for swimming pools. The OeyUoc Pool Drain Cover has no labeling or product identification on the product itself. The pool cover comes in a clear packaging with \"X00501CQ7P,\" \"OY-WG1048E-1P,\" \"OeyUoc WG1048…Skimmer Lid SP1030\" and \"MADE IN CHINA\" printed on the label. The pool cover included two stainless steel screws.",
-      "timestamp": "2026-07-23T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "OeyUoc Pool Drain Covers"
-    },
-    {
-      "id": 10880,
-      "text": "Peony Design Recalls Personalized Baby Bibs and Stroller Bags Due to Risk of Serious Injury or Death from Choking Hazard — This recall involves Peony Design personalized handmade baby bibs and stroller bags. The bibs have scalloped edges, a snap closure, and personalized embroidery on the front. The bibs were sold in fabric designs of geese, strawberries, heart tulip, plaid checks, and floral print. The stroller bags were made in coordinating fabrics including heart tulip, plaid check, floral print, and Winnie the Pooh. Each stroller bag has two straps with snaps at the ends for attachment and is personalized with embroidery and a ruffle around the top edge.",
-      "timestamp": "2026-07-23T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Personalized Baby Bibs and Stroller Bags"
-    },
-    {
-      "id": 10877,
-      "text": "Sviyatp Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violate Virginia Graeme Baker Pool & Spa Safety Act — This recall involves the Sviyatp white pool drain cover, sold as a replacement pool drain cover for swimming pools. The Sviyatp Pool Drain Cover has no labeling or product identification on the product itself. The pool drain cover comes in clear packaging with \"X0050114ZZ,\" \"SV-SP1030-001,\" \"Sviyatp Dual Suction Outlet,\" and \"MADE IN CHINA\" printed on the label. The pool drain cover included two stainless steel screws.",
-      "timestamp": "2026-07-23T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Sviyatp Pool Drain Covers"
     }
   ]
 }
