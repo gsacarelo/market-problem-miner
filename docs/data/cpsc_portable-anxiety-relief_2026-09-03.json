@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-09-03T19:13:20.563Z",
+  "fetched_at": "2026-09-03T22:28:00.400Z",
   "items": [
     {
       "id": 10949,
@@ -139,6 +139,15 @@
       "product": "Metal Wire Bristle Grill Brushes"
     },
     {
+      "id": 10958,
+      "text": "Diamond Wipes International Recalls MD Wipe Outz Numbing Tattoo Wipes Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging — This recall involves MD Wipe Outz Numbing Tattoo Wipes. The pain-relieving wipes were sold in individually wrapped 3 x 4 inches foil packets in boxes of 5, 10, 25, and 250. The Wipe Outz logo, “NUMB” and “Lidocaine Infused” is printed on the front of the packet.",
+      "timestamp": "2026-08-27T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "MD Wipe Outz Numbing Tattoo Wipes"
+    },
+    {
       "id": 10952,
       "text": "Excel Industries Recalls Accessory LED Light Kits Due to Risk of Serious Injury from Fire Hazard — This recall involves an accessory LED Light Kit containing two LED Light Bars and kit components. These accessory products are used on Hustler or BigDog ride-on mowers as an accessory light at the front of the mower. A black or yellow steel mounting bracket attaches to the mower footrest at the front of the mower and holds two LED Light Bars as headlights. The LED Light Bars are clear plastic with a white and a black wire and an orange plug at the end. They measure 6 inches wide and ¾ of an inch tall.",
       "timestamp": "2026-08-27T00:00:00",
@@ -148,6 +157,24 @@
       "product": "Accessory LED Light Kits used with certain ride-on mowers"
     },
     {
+      "id": 10964,
+      "text": "HABA USA Recalls Rainbow Rattle Grasping and Teething Toys Due to Risk of Serious Injury or Death from Choking and Ingestion Hazards — This recall involves HABA Rainbow Rattle Grasping and Teething Toy item number 2012261001 and batch code 0925. The rattle grasping and teething toy features plastic rattling rings that produce sound when moved. Constructed from wood with multiple materials and colorful components, designed for infant grasping, sensory exploration and early play. Each HABA Rainbow Rattle Grasping and Teething Toy can be identified by the product batch code in black on one of the natural wooden hemisphere pieces and the item number found on the back side of the backer card above the barcode.",
+      "timestamp": "2026-08-27T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "HABA Rainbow Rattle Grasping and Teething Toy"
+    },
+    {
+      "id": 10962,
+      "text": "Kmaier Recalls Infant Walkers Due to Risk of Serious Injury or Death from Fall Hazard; Violate Mandatory Standard for Infant Walkers — This recall involves Kmaier-branded infant walkers. The pink, green or white walkers have a tray, a fabric seat and a round base with six-wheels. The walkers can be adjusted to nine different height levels. “Model No.: RV001” is printed on a label located under the walker’s seat.",
+      "timestamp": "2026-08-27T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Kmaier Infant Walkers"
+    },
+    {
       "id": 10951,
       "text": "Little Loves & Co. Recalls Youth Clothing with Drawstrings Due to Risk of Serious Injury or Death from Entrapment Hazard — This recall involves youth daywear sets and boy short sets with waist drawstrings. The daywear sets were sold with a crew neck shirt and joggers. The boy short sets were sold with a short sleeve shirt and shorts. The products were sold in sizes 12/18 months through youth 9/10 and were sold in a variety of colors and collage style designs. The model number and date code are printed on the neck tag. The following model numbers and date codes are included in the recall:",
       "timestamp": "2026-08-27T00:00:00",
@@ -155,6 +182,15 @@
       "hazard": null,
       "remedy": null,
       "product": "Little Loves & Co. Youth Clothing with Drawstrings"
+    },
+    {
+      "id": 10963,
+      "text": "Montessori Baby Toy Sets Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by Chillife Official — This recall involves the Chillife 5-in-1 Montessori Baby Toy Sets. The set comes with a pull string teether toy, circular stacking blocks, a sensory toy, a shape sorting cube with blocks and a suction cup spinner. The violative pull string teething toy has an off-white disc shape with a blue ball in the middle and six long, silicone pull strings of various colors running through the ball. There are also three free-spinning rings and soft push buttons on the disc. “Model: CHILLIFE01” is printed on the side of the product packaging.",
+      "timestamp": "2026-08-27T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Chillife 5-in-1 Montessori Baby Toy Sets"
     },
     {
       "id": 10954,
