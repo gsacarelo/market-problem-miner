@@ -1,8 +1,17 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-09-12T12:04:18.366Z",
+  "fetched_at": "2026-09-12T17:01:28.569Z",
   "items": [
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
+    },
     {
       "id": 10967,
       "text": "Cade California Electronic Recalls Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys — This recall involves California Cade Electronic Finger Lights which contain three button cells batteries. The finger lights come in 50 pieces in a box in white, blue, red and green. The finger lights have “California Cade Electronic” and “Finger Flashlights” printed on labels located on the front of the package.",
