@@ -1,8 +1,17 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-09-17T16:41:46.520Z",
+  "fetched_at": "2026-09-17T21:11:55.640Z",
   "items": [
+    {
+      "id": 10989,
+      "text": "Char-Broil Recalls Bistro Pro Electric Grills Due to Risk of Electric Shock — This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red, Blackout (all black) and Emerald (green). The units have a “CB” logo plate on the front of the lid and “CHARBROIL” printed on the front control panel. The product label listing the model and serial number, including a four‑digit manufacturing date code in year and month (YYMM) format, is located on the bottom shelf of full-size grills and on the side bar of tabletop models. Only Bistro Pro Electric Grills with date codes of 2510 (Oct-2025), 2511 (Nov-2025) and 2512 (Dec-2025) are included in this recall.",
+      "timestamp": "2026-09-17T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Charbroil Bistro Pro Electric Grills"
+    },
     {
       "id": 10974,
       "text": "Colerinsec Recalls Jerify Magnetic Stick Figure Toy Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys — This recall involves Jerify Magnetic Humanoid Toys 30 PCS. The 30-piece magnetic toys come in three units of brown, white, green, peach, yellow, pink, blue, orange, purple, and red figures in the shape of a human. Each figure measures about 2.7 inches tall by 2.5 inches wide. The magnetic toys contain magnets in the hand and foot locations. There is no labeling on the product. The magnetic toys come in an unlabeled clear bag enclosed in a brown box with the brand name “Jerify” and number “X003ADA3TD” located on the sticker.",
@@ -10,7 +19,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "DHASUWT Hair Dryer and Blow Dryer Brushes"
+      "product": "Jerify Magnetic Humanoid Toy Sets 30 PCS"
     },
     {
       "id": 10985,
@@ -22,13 +31,31 @@
       "product": "Esjay Toddler Busy Board Montessori Toys"
     },
     {
+      "id": 10988,
+      "text": "Friedrich Air Conditioning Recalls KÜHL Window Air Conditioners Due to Risk of Serious Injury or Death from Fire and Burn Hazards — This recall involves KÜHL Q and KÜHL S Window Air Conditioners. The products have a gray front and a black air discharge grille and have the name Friedrich and the Friedrich logo in the lower left corner of the unit. The Kühl Q front control panel is located on the top left corner of the unit, and the Kühl S front control panel is located on the right side of the unit below the discharge grille. The models are KCVQ08B10A, KHVQ10B11A, KCVS08B10A, KCVS12B10A, KCVS12B30A and KCVS16B30A. The model and serial number are located inside the air conditioners. Only some serial numbers below have motors that are included in this recall.",
+      "timestamp": "2026-09-17T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Kühl® Q and Kühl® S Window Air Conditioners"
+    },
+    {
+      "id": 10990,
+      "text": "Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard — This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integrated tie-down connections. The heater’s name plate is below the vent with the word “Hayward” appearing at the bottom of the name plate and the model number “HDFS400” appears at the top of the name plate.",
+      "timestamp": "2026-09-17T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "400,000 BTU Universal-HC Series Pool Heaters"
+    },
+    {
       "id": 10975,
       "text": "JKMAX Recalls Heated Blankets and Heating Pads Due to Fire and Burn Hazards — This recall involves all heating pads and heated blankets sold by JKMax including models JKMAX-002, JKMAX-7284B, JKMAX-6284B, JKMAX-10090B, JKMAX-8490B and JKMAX-6284B. The heated blankets and heating pads are blue, gray, brown or red. They are made of polyester fabric and are machine washable. The blankets and pads were sold in multiple sizes, and both have a detachable white remote that can be used to adjust the heat. The model number is located on the back of the remote and is also printed on a white label affixed to the product packaging along with the brand name “JKMAX”.",
       "timestamp": "2026-09-17T00:00:00",
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Sweet Cubby Children’s Loungewear Sets"
+      "product": "JKMAX Heated Blankets and Heating Pads"
     },
     {
       "id": 10986,
@@ -40,7 +67,7 @@
       "product": "LANCHEZ Pressure Washers"
     },
     {
-      "id": 10979,
+      "id": 10976,
       "text": "Melissa & Doug Recalls Fire Truck Activity Board Toys Due to Risk of Serious Injury from Choking Hazard; Sold Exclusively at Target — The “Lights and Sound Fire Truck” is a compact fire engine toy with wheels that spin, that also features busy board activities that activate lights and sounds. The toy is made of red plastic, has four black wheels and has a white plastic rotating ladder. The toy has a black plastic connector that looks like a fire hose. The toy measures 10.5 inches high by 14.31 inches wide by 3.06 inches deep and weighs about 1.6 pounds. On the bottom of the toy, “Melissa & Doug” is embossed on the battery compartment box as are two date wheels showing the dates of manufacturer by year and month. Affected units will have one arrow pointing to the number 25 and the second arrow pointing to the number 4 or 5 or they will have one arrow pointing to the number 26 and the second arrow pointing to the number 3. Date codes OET 25100, OET 25150 or OET 26064 are printed on the product packaging of the recalled units.",
       "timestamp": "2026-09-17T00:00:00",
       "lang": "en",
@@ -49,13 +76,13 @@
       "product": "Lights & Sounds Fire Truck Activity Board"
     },
     {
-      "id": 10976,
+      "id": 10979,
       "text": "Melissa & Doug Recalls Fire Truck Activity Board Toys Due to Risk of Serious Injury from Choking Hazard; Sold Exclusively at Target — The “Lights and Sound Fire Truck” is a compact fire engine toy with wheels that spin, that also features busy board activities that activate lights and sounds. The toy is made of red plastic, has four black wheels and has a white plastic rotating ladder. The toy has a black plastic connector that looks like a fire hose. The toy measures 10.5 inches high by 14.31 inches wide by 3.06 inches deep and weighs about 1.6 pounds. On the bottom of the toy, “Melissa & Doug” is embossed on the battery compartment box as are two date wheels showing the dates of manufacturer by year and month. Affected units will have one arrow pointing to the number 25 and the second arrow pointing to the number 4 or 5 or they will have one arrow pointing to the number 26 and the second arrow pointing to the number 3. Date codes OET 25100, OET 25150 or OET 26064 are printed on the product packaging of the recalled units.",
       "timestamp": "2026-09-17T00:00:00",
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "FJTJBSI Six-drawer Dressers"
+      "product": null
     },
     {
       "id": 10984,
@@ -76,13 +103,22 @@
       "product": "Tylö Halmstad and Kiruna Hybrid Saunas"
     },
     {
+      "id": 10987,
+      "text": "Sauna360 Recalls Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits Due to Risk of Serious Injury or Death from Fire and Burn Hazards — This recall involves various infrared and hybrid sauna models and infrared (IR) kits. Customers who purchased custom rooms built with IR panels can check for the words “Saunalogic,” “Infralogic,” “Carbonflex,” or “Tylö” on their control panel or locate their product manual. Customers who purchased pre-configured infrared sauna rooms can identify their product by the brand badge on the front frame panel, the control panel, the manual or the logo handle. Consumers can also find the serial number located under the lower bench or on the wall under the upper bench depending on the unit and provide Sauna360 the serial number to determine if they have a recalled sauna. The IR sauna kits with panels, along with the following sauna model numbers, are included in this recall:",
+      "timestamp": "2026-09-17T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits"
+    },
+    {
       "id": 10980,
       "text": "SHEIN Distribution Corporation Recalls Pull and Chew Montessori Teething Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Mandatory Standard for Toys — This recall involves Pull & Chew Montessori Teething Toys. The silicone teething toys are green, pink, yellow or blue and have four strings in various colors. The recalled toys are packaged in a clear and white plastic pouch with “BABY PRODUCTS” and “Crafted in Gentle Care” printed on the front. The product SKU (sa25092843915310553, sa2404237092800828, or sa251115653050553503) is printed on the front of the packaging. The manufacturer’s name and address, product date, and batch code are printed on the front and back of the packaging.",
       "timestamp": "2026-09-17T00:00:00",
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Pull & Chew Montessori Teething Toys"
+      "product": null
     },
     {
       "id": 10977,
@@ -91,7 +127,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Jerify Magnetic Humanoid Toy Sets 30 PCS"
+      "product": "Pull & Chew Montessori Teething Toys"
     },
     {
       "id": 10978,
@@ -100,7 +136,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "JKMAX Heated Blankets and Heating Pads"
+      "product": "Basecamp Bike Helmets"
     },
     {
       "id": 10981,
@@ -109,7 +145,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Basecamp Bike Helmets"
+      "product": null
     },
     {
       "id": 10983,
@@ -127,7 +163,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": null
+      "product": "Cade California Electronic Projecting Finger Light Toys"
     },
     {
       "id": 10968,
@@ -136,7 +172,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Lontcs Busy Board"
+      "product": "AGA Elise and Mercury Series Freestanding Dual Fuel Ranges and La Cornue CornuFé 90 and CornuFé 110 Series Freestanding Dual Fuel Ranges"
     },
     {
       "id": 10973,
@@ -145,7 +181,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Light-Up Children’s Toys"
+      "product": "FJTJBSI Six-drawer Dressers"
     },
     {
       "id": 10967,
@@ -154,7 +190,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Cade California Electronic Projecting Finger Light Toys"
+      "product": "Wantefully Hair Dryer Brushes"
     },
     {
       "id": 10971,
@@ -163,7 +199,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "AGA Elise and Mercury Series Freestanding Dual Fuel Ranges and La Cornue CornuFé 90 and CornuFé 110 Series Freestanding Dual Fuel Ranges"
+      "product": "DHASUWT Hair Dryer and Blow Dryer Brushes"
     },
     {
       "id": 10963,
@@ -172,7 +208,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": null
+      "product": "Hero Fire Spray Canisters"
     },
     {
       "id": 10962,
@@ -181,7 +217,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": null
+      "product": "Ricky Joy Sour Crush Rolling Liquid Candy Bottles"
     },
     {
       "id": 10965,
@@ -190,7 +226,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Ricky Joy Sour Crush Rolling Liquid Candy Bottles"
+      "product": "Lontcs Busy Board"
     },
     {
       "id": 10972,
@@ -199,7 +235,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Victgoal Children’s Bike Helmets"
+      "product": "Sweet Cubby Children’s Loungewear Sets"
     },
     {
       "id": 10966,
@@ -208,7 +244,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Hero Fire Spray Canisters"
+      "product": "2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles"
     },
     {
       "id": 10969,
@@ -217,7 +253,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles"
+      "product": "Victgoal Children’s Bike Helmets"
     },
     {
       "id": 10970,
@@ -226,7 +262,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Wantefully Hair Dryer Brushes"
+      "product": "Light-Up Children’s Toys"
     },
     {
       "id": 10949,
