@@ -1,20 +1,11 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-09-18T12:51:58.618Z",
+  "fetched_at": "2026-09-18T17:37:44.765Z",
   "items": [
     {
       "id": 10986,
       "text": "Char-Broil Recalls Bistro Pro Electric Grills Due to Risk of Electric Shock — This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red, Blackout (all black) and Emerald (green). The units have a \"CB\" logo plate on the front of the lid and \"CHARBROIL\" printed on the front control panel. The product label listing the model and serial number, including a four-digit manufacturing date code in year and month (YYMM) format, is located on the bottom shelf of full-size grills and on the side bar of tabletop models. Only Bistro Pro Electric Grills with date codes of 2510 (Oct-2025), 2511 (Nov-2025) and 2512 (Dec-2025) are included in this recall.",
-      "timestamp": "2026-09-17T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "LANCHEZ Pressure Washers"
-    },
-    {
-      "id": 10989,
-      "text": "Char-Broil Recalls Bistro Pro Electric Grills Due to Risk of Electric Shock — This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red, Blackout (all black) and Emerald (green). The units have a “CB” logo plate on the front of the lid and “CHARBROIL” printed on the front control panel. The product label listing the model and serial number, including a four‑digit manufacturing date code in year and month (YYMM) format, is located on the bottom shelf of full-size grills and on the side bar of tabletop models. Only Bistro Pro Electric Grills with date codes of 2510 (Oct-2025), 2511 (Nov-2025) and 2512 (Dec-2025) are included in this recall.",
       "timestamp": "2026-09-17T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -37,7 +28,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Tylö Halmstad and Kiruna Hybrid Saunas"
+      "product": "Esjay Toddler Busy Board Montessori Toys"
     },
     {
       "id": 10985,
@@ -46,25 +37,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Esjay Toddler Busy Board Montessori Toys"
-    },
-    {
-      "id": 10988,
-      "text": "Friedrich Air Conditioning Recalls KÜHL Window Air Conditioners Due to Risk of Serious Injury or Death from Fire and Burn Hazards — This recall involves KÜHL Q and KÜHL S Window Air Conditioners. The products have a gray front and a black air discharge grille and have the name Friedrich and the Friedrich logo in the lower left corner of the unit. The Kühl Q front control panel is located on the top left corner of the unit, and the Kühl S front control panel is located on the right side of the unit below the discharge grille. The models are KCVQ08B10A, KHVQ10B11A, KCVS08B10A, KCVS12B10A, KCVS12B30A and KCVS16B30A. The model and serial number are located inside the air conditioners. Only some serial numbers below have motors that are included in this recall.",
-      "timestamp": "2026-09-17T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
       "product": "Kühl® Q and Kühl® S Window Air Conditioners"
-    },
-    {
-      "id": 10990,
-      "text": "Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard — This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integrated tie-down connections. The heater’s name plate is below the vent with the word “Hayward” appearing at the bottom of the name plate and the model number “HDFS400” appears at the top of the name plate.",
-      "timestamp": "2026-09-17T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "400,000 BTU Universal-HC Series Pool Heaters"
     },
     {
       "id": 10987,
@@ -73,7 +46,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits"
+      "product": "400,000 BTU Universal-HC Series Pool Heaters"
     },
     {
       "id": 10975,
@@ -91,7 +64,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "Rainbow Mystery Squishy Bun Toys"
+      "product": "LANCHEZ Pressure Washers"
     },
     {
       "id": 10976,
@@ -109,7 +82,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": null
+      "product": "BedsPick Mattresses"
     },
     {
       "id": 10979,
@@ -118,7 +91,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": null
+      "product": "Tylö Halmstad and Kiruna Hybrid Saunas"
     },
     {
       "id": 10984,
@@ -127,7 +100,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": "BedsPick Mattresses"
+      "product": "Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits"
     },
     {
       "id": 10977,
@@ -154,7 +127,7 @@
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": null
+      "product": "Rainbow Mystery Squishy Bun Toys"
     },
     {
       "id": 10964,
