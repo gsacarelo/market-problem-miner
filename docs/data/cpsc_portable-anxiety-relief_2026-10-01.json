@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-10-01T19:22:35.558Z",
+  "fetched_at": "2026-10-01T23:49:23.550Z",
   "items": [
     {
       "id": 10992,
@@ -452,15 +452,6 @@
       "hazard": null,
       "remedy": null,
       "product": "XO Poppy Power Trip Magnetic Wireless Power Banks"
-    },
-    {
-      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
-      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
-      "timestamp": null,
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": null
     }
   ]
 }
