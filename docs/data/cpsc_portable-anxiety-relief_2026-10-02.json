@@ -1,8 +1,116 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-09-18T20:43:09.241Z",
+  "fetched_at": "2026-10-02T05:04:12.690Z",
   "items": [
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
+    },
+    {
+      "id": 10992,
+      "text": "5Color Recalls Children’s Bicycle Helmet and Pads Sets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets — This recall involves 5Color-branded bicycle helmet and pads sets. The sets consist of a pink helmet, knee and elbow pads. Only the size small helmets are included in this recall. The helmets are size small (S), fitting a head circumference of about 18 to 22 inches, and have black padding, black straps, a black and a black fit-adjusting knob at the back. “2026/03/20” are included in this recall. “Model No.: YD-001,” “Lot/Ref: YD-260320” and “Date 2026/03/20” are printed on a label on the inside of the helmet and on the product packaging.",
+      "timestamp": "2026-09-24T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "5Color Children’s Bike Helmet and Pads Sets"
+    },
+    {
+      "id": 10999,
+      "text": "ABC Trading Recalls Light-Up Children’s Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys — These recalled products are packaged in a large clear plastic bag. A white label on the clear plastic bag has, in black font, one of the following identifiers: 6502 (for the light-up tie), HD-10 (for the light-up headbands) or L-508 (for the light-up glasses). Each of the items are packaged in individual clear plastic in the larger bag. A white label on the individual clear plastic bag has black lettering that reads: “MADE IN CHINA, Importer: ABC TRADING, INC.”",
+      "timestamp": "2026-09-24T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Light-Up Glasses, Crown Headbands, Sparkle Headbands and Ties"
+    },
+    {
+      "id": 10996,
+      "text": "Hyperfuels Recalls Methanol and Ethanol Fuel Containers Due to Risk of Serious Injury or Death from Child Poisoning and Flame Jetting; Violates Multiple Federal Safety Standards — This recall involves Hyperfuels ethanol and methanol fuel containers. The methanol container bears the Hyperfuels logo in red and associated phone number, the label bears “Methanol”, “Methanol, 3, UN1230, II”, and “Flammable Liquid” in black lettering. The ethanol container bears “E98”, “1 US Quart”, “Hyperfuels LLC” and associated phone number in black lettering.",
+      "timestamp": "2026-09-24T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Hyperfuels Methanol and Ethanol Fuel Containers"
+    },
+    {
+      "id": 10995,
+      "text": "INMO International Technology Limited Recalls INMO Air3 Smart Glasses Due to Risk of Serious Injury or Death from Burn Hazard — This recall involves smart glasses with model number AIR3 and are used for AI translation, AI-assisted productivity and media streaming. The recalled products are black with “AIR3” and “INMO” printed on a label on the right temple of the product.",
+      "timestamp": "2026-09-24T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "INMO AIR3 Smart Glasses"
+    },
+    {
+      "id": 11001,
+      "text": "Love To Dream Recalls Portable Sleep Machines Due to Risk of Injury from Fire and Burn Hazards — This recall involves the portable sleep machine which features various sounds, adjustable volume, a built-in nightlight, and includes a USB charging cable. “Love to Dream” is imprinted on the sleep machine and on the brown handle. Only machines with model number LTD-SM23 and date code 7W15TN are included in this recall. Both can be found on the side of the sleep machine or on the back of the box.",
+      "timestamp": "2026-09-24T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Portable Sleep Machines with Night Light model number LTD-SM23 and date code 7W15TN"
+    },
+    {
+      "id": 11000,
+      "text": "NEWDERY Power Banks Recalled Due to Fire and Burn Hazards; Risk of Serious Injury; Sold on Amazon — This recall involves NEWDERY power banks with model number ZHX-PB22. The power banks are black with yellow cables. The brand name “NEWDERY” is engraved on the front and the model number “ZHX-PB22” is printed on the back.",
+      "timestamp": "2026-09-24T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "NEWDERY power banks"
+    },
+    {
+      "id": 10993,
+      "text": "Style Homeware Recalls Emerspring Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability — This recall involves Emerspring Mattresses. The mattresses are 12 inches thick and sold in queen size. They have a white top and white sides with a green trim. They were sold compressed in a box. “Prototype ID: EMERS-12” and the manufacture date “6/2025” are printed on a sewn-in white label located on one side of the mattress.",
+      "timestamp": "2026-09-24T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Emerspring Mattresses"
+    },
+    {
+      "id": 10997,
+      "text": "The Blue Cactus Company Reclining Chair Battery Packs Recalled Due to Fire and Burn Hazards; Sold on Amazon — This recall involves The Blue Cactus Company Reclining Chair 2500 mAh battery packs with model number RWX-RBP02. The battery packs are black with the brand logo and brand name of “The Blue Cactus Company” imprinted on the front. The recalled battery packs can be identified by the model number RWX-RBP02 printed on the rear of the product and were designed to be used with various brands of reclining chairs. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or in used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact it ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
+      "timestamp": "2026-09-24T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "The Blue Cactus Company 2500 mAh Battery Packs for Reclining Chairs"
+    },
+    {
+      "id": 10994,
+      "text": "Xinan Home Recalls WinxMatrs Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability — This recall involves WinxMatrs-branded mattresses. The black mattresses are 10 inches thick and were sold in a twin size. They were sold compressed in a box. The size and the brand are printed on the mattress’ sewn-in labels.",
+      "timestamp": "2026-09-24T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "WinxMatrs Mattresses"
+    },
+    {
+      "id": 10998,
+      "text": "Yuyitop Recalls Aitjunz 8-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units — This recall involves Aitjunz 8-Drawer Dressers. The recalled dressers come in black, white, brown, oak and cream. The dressers have eight drawers and are made from wood. They measure 15.55 inches wide, 55.11 inches long, 30.78 inches tall and weigh 129 pounds. SKU “LDQMFJ8D-BR,” “LDQMFJ8D-CM,” “LDQMFJ8D-WH,” “LDQMFJ8D-BK,” or “LDQMFJ8D-NA” is printed on the product packaging.",
+      "timestamp": "2026-09-24T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Aitjunz 8-Drawer Dressers"
+    },
+    {
+      "id": 10991,
+      "text": "ZCK01 Recalls Kesyup Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability — This recall involves Kesyup-branded Mattresses. They are 12 inches thick and were sold in twin, full, queen and king sizes. They have a white top and blue sides with blue trim. The mattresses were sold in compressed boxes. “Prototype ID: PU-US” is printed on a sewn-in white label on one side of the mattress.",
+      "timestamp": "2026-09-24T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Kesyup-branded Mattresses"
+    },
     {
       "id": 10986,
       "text": "Char-Broil Recalls Bistro Pro Electric Grills Due to Risk of Electric Shock — This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red, Blackout (all black) and Emerald (green). The units have a \"CB\" logo plate on the front of the lid and \"CHARBROIL\" printed on the front control panel. The product label listing the model and serial number, including a four-digit manufacturing date code in year and month (YYMM) format, is located on the bottom shelf of full-size grills and on the side bar of tabletop models. Only Bistro Pro Electric Grills with date codes of 2510 (Oct-2025), 2511 (Nov-2025) and 2512 (Dec-2025) are included in this recall.",
@@ -41,7 +149,7 @@
     },
     {
       "id": 10987,
-      "text": "Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard — This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integrated tie-down connections. The heater's name plate is below the vent with the word \"Hayward\" appearing at the bottom of the name plate and the model number \"HDFS400\" appears at the top of the name plate.",
+      "text": "Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard. — This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integrated tie-down connections. The heater's name plate is below the vent with the word \"Hayward\" appearing at the bottom of the name plate and the model number \"HDFS400\" appears at the top of the name plate.",
       "timestamp": "2026-09-17T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -50,7 +158,7 @@
     },
     {
       "id": 10975,
-      "text": "JKMAX Recalls Heated Blankets and Heating Pads Due to Fire and Burn Hazards — This recall involves all heating pads and heated blankets sold by JKMax including models JKMAX-002, JKMAX-7284B, JKMAX-6284B, JKMAX-10090B, JKMAX-8490B and JKMAX-6284B. The heated blankets and heating pads are blue, gray, brown or red. They are made of polyester fabric and are machine washable. The blankets and pads were sold in multiple sizes, and both have a detachable white remote that can be used to adjust the heat. The model number is located on the back of the remote and is also printed on a white label affixed to the product packaging along with the brand name “JKMAX”.",
+      "text": "JKMAX Recalls Heated Blankets and Heating Pads Due to Fire and Burn Hazards — This recall involves all heating pads and heated blankets sold by JKMax, including models JKMAX-002, JKMAX-7284B, JKMAX-6284B, JKMAX-10090B, JKMAX-8490B and JKMAX-6284B. The heated blankets and heating pads are blue, gray, brown or red. They are made of polyester fabric and are machine washable. The blankets and pads were sold in multiple sizes, and both have a detachable white remote that can be used to adjust the heat. The model number is located on the back of the remote and is also printed on a white label affixed to the product packaging along with the brand name \"JKMAX\".",
       "timestamp": "2026-09-17T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -113,7 +221,7 @@
     },
     {
       "id": 10978,
-      "text": "Tongyang Cycling Recalls Basecamp Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets — This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit-adjusting knob at the back. \"Basecamp\" is printed on the sides of the helmet and “\"HT-10\" on a label inside of the helmet.",
+      "text": "Tongyang Cycling Recalls Basecamp Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets — This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit-adjusting knob at the back. \"Basecamp\" is printed on the sides of the helmet and \"HT-10\" on a label inside of the helmet.",
       "timestamp": "2026-09-17T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -353,168 +461,6 @@
       "hazard": null,
       "remedy": null,
       "product": "XO Poppy Power Trip Magnetic Wireless Power Banks"
-    },
-    {
-      "id": 10955,
-      "text": "AudioLineOut Recalls Studio Six Headphone Amplifiers Due to Risk of Serious Injury or Death from Electrocution Hazard — This recall involves Studio Six Headphone Amplifiers with model ST6. The amplifiers are black or silver. The amplifiers measure 15-3/4 inches high by 12 inches wide. The height for the lower level of the unit, top to bottom, is 5-3/4 inches; the height from the top of the upper level to bottom of the unit is 20-3/4 inches. In the front of the unit, there are four audio connectors for headphones. In the back, there are three sets (L and R) of RCA inputs. Also in the back is a connector for an auxiliary power device.",
-      "timestamp": "2026-08-27T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Studio Six Headphone Amplifiers"
-    },
-    {
-      "id": 10953,
-      "text": "Conair Expands Recall of Cuisinart Grill Brushes Due to Ingestion Hazard; Over 3.6 Million Brushes Now Recalled — This recall expansion involves Cuisinart metal wire bristle grill brushes. The brushes have black plastic, stainless steel, and wood handles. The following model numbers were previously recalled and can be found on the product packaging: CCB-100, CCB-4125, CCB-5014, CCB-6450, CCB-8012, CCB-4114, CCB-W2, and CSBS-777. The following model numbers are part of this recall expansion: CGWM-024, CGWM-059, FCB-501, CGS-W18, CCB-134, CGWM-061, CB-395, CCB-3001, CGWM-077, CGWM-058, CCB-012/021, CGWM-060, and FBH-51. In addition to the identified models, additional Cuisinart brand wire bristle brushes were sold individually and in sets, prior to 2020. All Cuisinart wire bristle grill brushes are included in the recall. The word “Cuisinart” is stamped on the brush handle of the identified models except FCB-501 and CCB-395, where the handle is not stamped. Some of the recalled brushes were also sold as part of the Premium Grill 10 Piece set (CGS-2010), 13 Piece Wooden Handle Grill Tool Set (CGS-W13), 14 Piece Deluxe Stainless Steel Grill Set (CGS-5014), and 20 Piece Deluxe Grill Set, (CGS-5020). The model numbers listed below are part of this recall:",
-      "timestamp": "2026-08-27T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Metal Wire Bristle Grill Brushes"
-    },
-    {
-      "id": 10958,
-      "text": "Diamond Wipes International Recalls MD Wipe Outz Numbing Tattoo Wipes Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging — This recall involves MD Wipe Outz Numbing Tattoo Wipes. The pain-relieving wipes were sold in individually wrapped 3 x 4 inches foil packets in boxes of 5, 10, 25, and 250. The Wipe Outz logo, “NUMB” and “Lidocaine Infused” is printed on the front of the packet.",
-      "timestamp": "2026-08-27T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "MD Wipe Outz Numbing Tattoo Wipes"
-    },
-    {
-      "id": 10952,
-      "text": "Excel Industries Recalls Accessory LED Light Kits Due to Risk of Serious Injury from Fire Hazard — This recall involves an accessory LED Light Kit containing two LED Light Bars and kit components. These accessory products are used on Hustler or BigDog ride-on mowers as an accessory light at the front of the mower. A black or yellow steel mounting bracket attaches to the mower footrest at the front of the mower and holds two LED Light Bars as headlights. The LED Light Bars are clear plastic with a white and a black wire and an orange plug at the end. They measure 6 inches wide and ¾ of an inch tall.",
-      "timestamp": "2026-08-27T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Accessory LED Light Kits used with certain ride-on mowers"
-    },
-    {
-      "id": 10961,
-      "text": "HABA USA Recalls Rainbow Rattle Grasping and Teething Toys Due to Risk of Serious Injury or Death from Choking and Ingestion Hazards — This recall involves HABA Rainbow Rattle Grasping and Teething Toy item number 2012261001 and batch code 0925. The rattle grasping and teething toy features plastic rattling rings that produce sound when moved. Constructed from wood with multiple materials and colorful components, designed for infant grasping, sensory exploration and early play. Each HABA Rainbow Rattle Grasping and Teething Toy can be identified by the product batch code in black on one of the natural wooden hemisphere pieces and the item number found on the back side of the backer card above the barcode.",
-      "timestamp": "2026-08-27T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "HABA Rainbow Rattle Grasping and Teething Toy"
-    },
-    {
-      "id": 10959,
-      "text": "Kmaier Recalls Infant Walkers Due to Risk of Serious Injury or Death from Fall Hazard; Violate Mandatory Standard for Infant Walkers — This recall involves Kmaier-branded infant walkers. The pink, green or white walkers have a tray, a fabric seat and a round base with six-wheels. The walkers can be adjusted to nine different height levels. \"Model No.: RV001\" is printed on a label located under the walker's seat.",
-      "timestamp": "2026-08-27T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Kmaier Infant Walkers"
-    },
-    {
-      "id": 10951,
-      "text": "Little Loves & Co. Recalls Youth Clothing with Drawstrings Due to Risk of Serious Injury or Death from Entrapment Hazard — This recall involves youth daywear sets and boy short sets with waist drawstrings. The daywear sets were sold with a crew neck shirt and joggers. The boy short sets were sold with a short sleeve shirt and shorts. The products were sold in sizes 12/18 months through youth 9/10 and were sold in a variety of colors and collage style designs. The model number and date code are printed on the neck tag. The following model numbers and date codes are included in the recall:",
-      "timestamp": "2026-08-27T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Little Loves & Co. Youth Clothing with Drawstrings"
-    },
-    {
-      "id": 10960,
-      "text": "Montessori Baby Toy Sets Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by Chillife Official — This recall involves the Chillife 5-in-1 Montessori Baby Toy Sets. The set comes with a pull string teether toy, circular stacking blocks, a sensory toy, a shape sorting cube with blocks and a suction cup spinner. The violative pull string teething toy has an off-white disc shape with a blue ball in the middle and six long, silicone pull strings of various colors running through the ball. There are also three free-spinning rings and soft push buttons on the disc. \"Model: CHILLIFE01\" is printed on the side of the product packaging.",
-      "timestamp": "2026-08-27T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Chillife 5-in-1 Montessori Baby Toy Sets"
-    },
-    {
-      "id": 10954,
-      "text": "Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards; Sold on Amazon by YERYORK — This recall involves YERYORK-branded pressure washers. The recalled, 2.5 GPM electric pressure washers are green with black, and measure about 10.24 inches deep, 16.14 inches wide and 12.01 inches high. The pressure washers come with a 500 ml foam cannon, four quick disconnect nozzles, a 32.81-foot hose and four lockable wheels. Only power washers without a GFCI are included in this recall. The brand is printed at the front of the power washer and model number YE-006 on a label on top of the unit near the handle.",
-      "timestamp": "2026-08-27T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "YERYORK Pressure Washers"
-    },
-    {
-      "id": 10956,
-      "text": "Steelite Pressure Washers Recalled Due to Risk of Serious Injury or Death from Shock and Electrocution Hazards; Sold on Amazon by Longer 3D — This recall involves Steelite-branded pressure washers. They are red and black and measure about 30 inches high, 10 inches wide and 12 inches deep. The 2.5 gpm, electric pressure washers have a foam cannon, four quick connect nozzles and a 20-foot hose. Model “AZ6041VC” is printed on a label on the back of the pressure washer.",
-      "timestamp": "2026-08-27T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Steelite Electric Pressure Washers"
-    },
-    {
-      "id": 10957,
-      "text": "Walmart Reannounces Recall of Mainstays Nine-Drawer Fabric Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Walmart Distributed Recalled Dressers Post-Recall; Sold to Consumers Through Liquidators — This recall involves Mainstays-branded dressers. The fabric dressers have a black metal frame and nine brown or black fabric drawers with handles. The dressers measure about 40 inches long, 13.75 inches wide and 45 inches tall and weigh 32 pounds and were manufactured from September 2023 through December 2025. The Tracking/Lot and the manufacture date in MM/YYYY format are printed on a label under the dresser’s top panel of the dresser. “Mainstays 9-Drawer Fabric Dresser” is printed on the product order receipt and packaging.",
-      "timestamp": "2026-08-27T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Mainstays 9-Drawer Fabric Dressers"
-    },
-    {
-      "id": 10937,
-      "text": "CCM Hockey U.S. Recalls FMHVR Hybrid Visors and ACCHVR Replacement Visor Accessories Due to Risk of Injury from Laceration or Impact Hazards — This recall involves the CCM Hybrid Hockey Visors, style FMHVR and replacement visor accessories, style ACCHVR. The recalled FMHVR Hybrid Visors are marked \"HVR\" at the top of the metal plate (above \"CCM\" in red). Recalled FMHVR visors have serial numbers beginning with \"M/L\" or \"S/M.\" The recalled ACCHVR Replacement Visor accessory has serial numbers beginning with \"SR\". The serial number is printed at the top corner on the right- hand-side metal plate where HVR - CCM are written, inside of the visors, engraved into the polycarbonate. The following visor and visor accessories are included in the recall. Recalled Visors and Visor Accessories: S/M FMHVR SR CCM CAG Visor Black Chrome S/M M/L FMHVR SR CCM CAG Visor Black Chrome M/L M/L ACCHVR CONTAINS REPLACEMENT VISOR(1) + SIDE CLIPS(2) + SPACERS(2) + SCRFEWS(2) S/M ACCHVR CONTAINS REPLACEMENT VISOR(1) + SIDE CLIPS(2) + SPACERS(2) + SCRFEWS(2)",
-      "timestamp": "2026-08-20T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "FMHVR Hybrid Visors and ACCHVR Replacement Visor Accessories"
-    },
-    {
-      "id": 10933,
-      "text": "Goal Zero Recalls YETI 3000X Power Stations Due to Serious Risk of Injury from Fire and Burn Hazards — This recall involves Goal Zero's YETI 3000X power stations. The silver and black portable power stations measure about 24.4 inches high, 18.5 inches wide and 22.3 inches deep, and weigh about 92 pounds. The power stations have yellow handles and a digital display at the front with electrical ports. They sit on a rolling cart with two built-in wheels and a telescoping handle. The Goal Zero logo is printed on the front bar of the cart and on a nameplate located on the underside of the station's lid along with \"YETI 3000X\".",
-      "timestamp": "2026-08-20T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Goal Zero YETI 3000X Portable Power Stations"
-    },
-    {
-      "id": 10934,
-      "text": "JINHEZO Mini Waterproof LED Tea Lights Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries; Imported by Mystic ZO — This recall involves JINHEZO Mini Waterproof LED Tea Lights. The circular tea lights are clear with a white base and are about 1\" in diameter and 1.14\" tall. They come in a pack of 24 lights with 48 coin-cell batteries (two per light).",
-      "timestamp": "2026-08-20T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "JINHEZO Mini Waterproof LED Tea Lights"
-    },
-    {
-      "id": 10935,
-      "text": "Koorlian Mattresses Recalled Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability; Sold on Amazon by Dream Bedding Technology — This recall involves Koorlian branded mattresses. The mattresses are 10 inches thick and were sold in a Twin XL size. They have a white top and blue sides and were sold compressed in a box. \"Dreams Bedding Technology PTE LTD\" the manufacture date and prototype ID \"KY15Q290\" are printed on a sewn-in white label located on one side of the mattress.",
-      "timestamp": "2026-08-20T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Koorlian Mattresses"
-    },
-    {
-      "id": 10931,
-      "text": "KTM North America Recalls Off-Road Motorcycles Due to Risk of Serious Injury or Death from Crash Hazard — This recall involves 2021, 2022, 2023 and 2024 off-road motorcycles. The GASGAS off-road motorcycles are red with the white GASGAS logo on both sides of the shrouds. The Husqvarna motorcycles are white, blue and yellow with the Husqvarna logo on both sides of the shrouds. The VIN and number are located on the right side of the steering head. Recalled 2021, 2022, 2023 and 2024 Off Road Motorcycles Model Year Husqvarna Models 2022 FE 350 2022 FE 501 2022 TE 150i 2022 TE 250i 2022 TE 300i 2023 TE 150 2023 TE 250 2023 TE 300 2023 TE 300 Heritage 2023 FX 350 Heritage 2023 FX 350 2023 FE 450 2023 FE 450 Heritage 2023 FX 450 2023 TX 300 2023 TX 300 Heritage 2024 TE 150 2024 TE 250 2024 TE 300 2024 FE 350w 2024 FE 450 2024 FE 501w Model Year GASGAS Model 2021 EC 300 2022 EC 250 2022 EC 300 2023 EC 250 2023 EC 300 2023 EX 250 2023 EX 250F 2023 EX 300 2023 EX 350F 2023 EX 450F 2023 MC 125 2023 MC 250 2023 MC 250F 2023 MC 350F 2023 MC 450F 2024 MC 125 2024 MC 250 2024 MC 250F 2024 MC 350F 2024 MC 450F 2024 EC 250 2024 EC 300 2024 EC 450F 2024 EX 250 2024 EX 250F 2024 EX 300 2024 EX 350F 2024 EX 450F 2024 EW 500F",
-      "timestamp": "2026-08-20T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "GASGAS and Husqvarna Off-Road Motorcycles"
-    },
-    {
-      "id": 10932,
-      "text": "Modine Manufacturing Company Recalls Airedale Heating and Cooling Ventilation Fans Due to Fire Hazard — This recall involves ventilation fans in ClassMate cooling and air source heat pumps and SchoolMate water/ground source heat pumps that supply heating, cooling and high indoor air quality in classrooms and schools in the following models: Model Ventilation Configuration (Digit 9) CMD C, D, or E CMP C, D, or E SMG H, J, K, N, or P SMW H, J, K, N, or P CMS H, J, K, N, or P The brand name Airedale is located on a sticker on the front of the unit. The model name and serial number are found on the serial plate on the underside of the control unit.",
-      "timestamp": "2026-08-20T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Ventilation Fans in ClassMate® DX Cooling and Air Source Heat Pumps and SchoolMate® Water/Ground Source Heat Pumps"
-    },
-    {
-      "id": 10936,
-      "text": "Workbless Pressure Washers Recalled Due to Risk of Serious Injury or Death from Shock and Electrocution Hazards — This recall involves Workbless-branded pressure washers, models WB0301 and WB0302. Model WB0301 is green and black and measures about 27.24 inches high, 10.83 inches wide and 8.39 inches deep. \"WORKBLESS\",\" WB0301\" and \"ELECTRIC PRESSURE WASHER\" are printed on a label on the back of the pressure washer. Model WB0302 is also green and black and measures about 29.57 inches high, 14.69 inches wide and 10.94 inches deep. \"WORKBLESS\", \"WB0302\" and \"HEAVY DUTY ELECTRIC PRESSURE WASHER\" are printed on a label on the back of the pressure washer. Both models came with four quick connect nozzles and a foam cannon.",
-      "timestamp": "2026-08-20T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Workbless Electric Pressure Washers"
     }
   ]
 }

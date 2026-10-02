@@ -1,0 +1,16 @@
+{
+  "source": "cpsc",
+  "topic_id": "hydration-bottles-problems",
+  "fetched_at": "2026-10-02T05:04:14.159Z",
+  "items": [
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
+    }
+  ]
+}
