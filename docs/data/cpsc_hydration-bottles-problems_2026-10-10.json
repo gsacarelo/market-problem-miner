@@ -1,11 +1,92 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-10-10T12:22:39.371Z",
+  "fetched_at": "2026-10-10T18:29:01.379Z",
   "items": [
     {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
+    },
+    {
+      "id": 11020,
+      "text": "Decathlon America Recalls Van Rysel GRVL AF Bicycles Due to Risk of Serious Injury or Death from Crash Hazard — This recall involves adult multi-terrain gravel bicycles Van Rysel GRVL AF Sword Brown CN FR (model number 8911304), Van Rysel GRVL AF Apex Beige CN FR (model number 8911305), Van Rysel GRVL AF Sword Pink CN FR (model number 8911308), and Van Rysel GRVL AF GRX Black (model number 8929130). The recalled models were sold in sizes x-small, small, medium, large and x-large. The bicycles are designed for off-road gravel riding, road cycling, commuting and bikepacking. Each bicycle can be identified by the model name and Van Rysel Product ID located on the barcode sticker on the frame near the bottom bracket. Only Van Rysel bicycles with the following Product IDs/ SKUs are included in this recall.",
+      "timestamp": "2026-10-08T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Van Rysel GRVL AF Bicycles"
+    },
+    {
+      "id": 11018,
+      "text": "DR Power Equipment Recalls Pilot and Premier Trimmer Mowers Due to Risk of Serious Injury or Death from Fire and Burn Hazards — This recall involves DR Power Equipment Pilot and Premier walk-behind trimmer mowers. The trimmer mowers are orange and black and have the DR Power logo on the top of the motor and on the top of the frame above the cutter head. The trimmer mowers are labeled “Premier” or “Pro” on the side of the frame. The model numbers are printed on a label located on the side of the product’s frame.",
+      "timestamp": "2026-10-08T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "DR Power Equipment Pilot and Premier Trimmer Mowers"
+    },
+    {
+      "id": 11021,
+      "text": "Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries — This recall involves Giant Bicycle-branded black-and-white LED-light bike lock keys that were included as part of a pre-keyed SureLock bicycle lock set that includes a bike lock and two-or-four keys without an LED-light (depending on the model). Only LED-light bike lock keys manufactured after March 2023 are included in this recall. The list of affected serial numbers is included in the table below. Serial numbers are located on the underside of the bike lock, as shown in the below picture.",
+      "timestamp": "2026-10-08T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "LED-light bike lock keys"
+    },
+    {
+      "id": 11014,
+      "text": "ONTHEWEI Recalls Baby Bath Seats Due to Risk of Serious Injury or Death to Children from Drowning; Violate Mandatory Standard for Infant Bath Seats — This recall involves ONTHEWEI-branded baby bath seats. They are sold in gray, pink, blue and mist green and have detachable restraint arms and suction cups on the underside. “Model No: MY002” and “Date of manufacturer: 2026/1/10” are printed on a label on the back of the bath seat.",
+      "timestamp": "2026-10-08T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "ONTHEWEI Baby Bath Seats"
+    },
+    {
+      "id": 11015,
+      "text": "Pacearth Direct Recalls PACEARTH Swing Seats Due to Risk of Serious Injury from Fall Hazard — This recall involves PACEARTH U-type swing seats. The swing seats were sold in various colors including green, blue, pink, red and turquoise. The chain is coated in yellow plastic. Metal carabiners or quick links and yellow webbing straps were included with the swing seats to attach the swing to outdoor swing sets or tree branches. The swing seats were sold as a single unit or a pack of two.",
+      "timestamp": "2026-10-08T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "PACEARTH Swing Seats"
+    },
+    {
+      "id": 11016,
+      "text": "Romorgniz Recalls Six-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units — This recall involves Romorgniz six-drawer dressers. The wooden dressers were sold in white and black, measure about 27.6 inches wide, 15.6 inches long, 43.2 inches tall and weigh 73.3 pounds.",
+      "timestamp": "2026-10-08T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Romorgniz Six-Drawer Dressers"
+    },
+    {
+      "id": 11017,
+      "text": "Snow Peak Recalls Propane Fireplace Inserts and Lava Rocks Due to Risk of Serious Injury or Death from Burn and Fire Hazards — This recall involves the Takibi propane inserts and lava rocks, fireplace accessories that allows Snow Peak’s Pack & Carry Fireplace L (ST-032) and XL (ST-034) to operate on propane fuel instead of wood or charcoal. The propane insert includes a detachable hose with a gas flow regulator that controls the intensity of the flame with the twist of a knob. The product also includes lava rocks. Model number ST-332-US can be found on the product packaging and in the user manual.",
+      "timestamp": "2026-10-08T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Snow Peak Takibi Fireplace Propane Inserts and Lava Rocks"
+    },
+    {
+      "id": 11019,
+      "text": "The Conqueror Recalls Avengers Medals Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Magnets — This recall involves the Avengers Infinity Gauntlet medal. The medal is gold, with colorful gems on the front and comes in a black package marked “Marvel Avengers” with Marvel Avengers artwork. The medals are part of the Avengers virtual challenge series. To receive the medal, customers must have completed the Infinity Gauntlet virtual challenge on the Conqueror App.",
+      "timestamp": "2026-10-08T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Avengers Infinity Gauntlet Medals"
+    },
+    {
       "id": 11013,
-      "text": "ABC Trading Recalls Squishy Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys — This recall involves squishy dumpling and crazy squib ball toys. The squishy dumplings, model 3655, come in multiple translucent colors, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. “SQUISHY DUMPLING” is printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face. The crazy squib balls, model 3984, come in multiple translucent colors, containing glitter and water beads. The toys come individually wrapped in a white netting. “CRAZY SQUIB BALL” and “Squeeze it! Throw it!” are printed on the front of the package labeling.",
+      "text": "ABC Trading Recalls Squishy Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys — This recall involves squishy dumpling and crazy squib ball toys. The squishy dumplings, model 3655, come in multiple translucent colors, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. \"SQUISHY DUMPLING\" is printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face. The crazy squib balls, model 3984, come in multiple translucent colors, containing glitter and water beads. The toys come individually wrapped in a white netting. \"CRAZY SQUIB BALL\" and \"Squeeze it! Throw it!\" are printed on the front of the package labeling.",
       "timestamp": "2026-10-01T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -41,7 +122,7 @@
     },
     {
       "id": 11002,
-      "text": "Gazelle USA Recalls Urban Arrow Cargo Electric Bikes Due to Fall Hazard — This recall involves Urban Arrow cargo electric bikes with model descriptions Urban Arrow Family (in Black and White), Urban Arrow Shorty (in Black and White), Urban Arrow Cargo L/XL (in Black and White) and Urban Arrow Tender 1000/1500 (in White). The frame of the bicycle is made of aluminum with a reinforced foam (EPP) cargo box. “Urban Arrow” is printed on the bottom of the cargo box. The seat posts on the recalled bicycles have two silver bolts.",
+      "text": "Gazelle USA Recalls Urban Arrow Cargo Electric Bikes Due to Fall Hazard — This recall involves Urban Arrow cargo electric bikes with model descriptions Urban Arrow Family (in Black and White), Urban Arrow Shorty (in Black and White), Urban Arrow Cargo L/XL (in Black and White) and Urban Arrow Tender 1000/1500 (in White). The frame of the bicycle is made of aluminum with a reinforced foam (EPP) cargo box. \"Urban Arrow\" is printed on the bottom of the cargo box. The seat posts on the recalled bicycles have two silver bolts.",
       "timestamp": "2026-10-01T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -50,7 +131,7 @@
     },
     {
       "id": 11006,
-      "text": "GBYMIUY Recalls Magnetic Stick Figure Toy Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys — This recall involves GBYMIUY stick figure toy sets. The magnetic toys were sold in packs of 30 multi-colored transparent and opaque human-shaped figures. Each figure measures about 2.91 inches tall by 2.3 inches wide. The toys contain magnets in the hand and foot locations. “GBYMIUY” and number “X004TVHD2Z” are printed on the product packaging.",
+      "text": "GBYMIUY Recalls Magnetic Stick Figure Toy Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys — This recall involves GBYMIUY stick figure toy sets. The magnetic toys were sold in packs of 30 multi-colored transparent and opaque human-shaped figures. Each figure measures about 2.91 inches tall by 2.3 inches wide. The toys contain magnets in the hand and foot locations. \"GBYMIUY\" and number \"X004TVHD2Z\" are printed on the product packaging.",
       "timestamp": "2026-10-01T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -59,7 +140,7 @@
     },
     {
       "id": 11003,
-      "text": "Gobi Heat Recalls Rechargeable Hand Warmers Due to Risk of Serious Injury from Fire and Burn Hazards — This recall involves Gobi Heat-branded rechargeable hand warmers. The black with gray hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard. “Gobi Heat” is printed on the top of the hand warmers and on the product packaging, and model number “UT3053” on the underside.",
+      "text": "Gobi Heat Recalls Rechargeable Hand Warmers Due to Risk of Serious Injury from Fire and Burn Hazards — This recall involves Gobi Heat-branded rechargeable hand warmers. The black with gray hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard. \"Gobi Heat\" is printed on the top of the hand warmers and on the product packaging, and model number \"UT3053\" on the underside.",
       "timestamp": "2026-10-01T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -77,7 +158,7 @@
     },
     {
       "id": 11007,
-      "text": "Kobayashi Recalls Rechargeable Hand Warmers Due to Risk of Serious Injury from Fire and Burn Hazards — This recall involves Kobayashi’s HotHands-branded rechargeable hand warmers. The white with orange hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard. Model number “H163650” and the batch number are on the hand warmer’s underside, and the white HotHands logo is on the top and on the product packaging. Only electric rechargeable hand warmers with the white HotHands logo are included in this recall.",
+      "text": "Kobayashi Recalls Rechargeable Hand Warmers Due to Risk of Serious Injury from Fire and Burn Hazards — This recall involves Kobayashi's HotHands-branded rechargeable hand warmers. The white with orange hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard. Model number \"H163650\" and the batch number are on the hand warmer's underside, and the white HotHands logo is on the top and on the product packaging. Only electric rechargeable hand warmers with the white HotHands logo are included in this recall.",
       "timestamp": "2026-10-01T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -86,7 +167,7 @@
     },
     {
       "id": 11011,
-      "text": "LLK Trading Recalls Mochi Malrang Mystery Dumpling Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys — This recall involves Mochi Malrang Mystery Dumpling Toys. The mystery dumpling toys are a translucent red color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. The phrases “SOFT and SQUISHY” and “MOCHI MALRANG” are visible on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
+      "text": "LLK Trading Recalls Mochi Malrang Mystery Dumpling Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys — This recall involves Mochi Malrang Mystery Dumpling Toys. The mystery dumpling toys are a translucent red color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. The phrases \"SOFT and SQUISHY\" and \"MOCHI MALRANG\" are visible on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
       "timestamp": "2026-10-01T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -95,7 +176,7 @@
     },
     {
       "id": 11009,
-      "text": "Walmart Recalls Over 4.4 Million Expert Grill Brushes Due to Ingestion Hazard — This recall involves certain Walmart Expert Grill metal wire bristle grill brushes. The brushes have black plastic or stainless-steel handles. Some brushes come with metal scraper attached. The following model numbers are included in this recall and can be found on the product packaging or a sticker/tag attached to the brush:",
+      "text": "Walmart Recalls Over 4.4 Million Expert Grill Brushes Due to Ingestion Hazard — This recall involves certain Walmart Expert Grill metal wire bristle grill brushes. The brushes have black plastic or stainless-steel handles. Some brushes come with metal scraper attached. The following model numbers are included in this recall and can be found on the product packaging or a sticker/tag attached to the brush: Model No. Brush Description Distribution Dates EX5607031616002 Expert Grill 16-inch Steel Fiber Scrub Brush and Scraper for Grills January 2025-August 2026 EX5607031616003 Expert Grill Handheld Steel Fiber Scrub Brush with Ergonomic Handle for Grill Cleaning January 2025-August 2026 XG1310700206 Expert Grill 21\" 3-head Grill Brush with Stainless Steel Bristles and Soft-Grip Handle January 2022 to August 2026 XG1136178597003 Expert Grill Long Handle Grill Brush with Scraper, 17.7\" January 2021 to August 2026 XG1410700124 Expert Grill Grilling Accessories BBQ Grill Tools Set, 10 Pieces Stainless Steel Grill Kit December 2023 to August 2026",
       "timestamp": "2026-10-01T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -104,7 +185,7 @@
     },
     {
       "id": 11004,
-      "text": "YunHeng Recalls LandTale Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails — This recall involves the LandTale-branded adult portable bed rails. The bed rails have a white frame with black foam rubber grips and measure about 18 inches wide by 42 inches high. “LandTale” and SKU “EBR001” are printed on the instruction manual and the product packaging.",
+      "text": "YunHeng Recalls LandTale Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails — This recall involves the LandTale-branded adult portable bed rails. The bed rails have a white frame with black foam rubber grips and measure about 18 inches wide by 42 inches high. \"LandTale\" and SKU \"EBR001\" are printed on the instruction manual and the product packaging.",
       "timestamp": "2026-10-01T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -149,7 +230,7 @@
     },
     {
       "id": 11001,
-      "text": "Love To Dream Recalls Portable Sleep Machines Due to Risk of Injury from Fire and Burn Hazards — This recall involves the portable sleep machine which features various sounds, adjustable volume, a built-in nightlight, and includes a USB charging cable. “Love to Dream” is imprinted on the sleep machine and on the brown handle. Only machines with model number LTD-SM23 and date code 7W15TN are included in this recall. Both can be found on the side of the sleep machine or on the back of the box.",
+      "text": "Love To Dream Recalls Portable Sleep Machines Due to Risk of Injury from Fire and Burn Hazards — This recall involves the portable sleep machine, which features various sounds, adjustable volume, a built-in nightlight, and includes a USB charging cable. “Love to Dream” is imprinted on the sleep machine and on the brown handle. Only machines with model number LTD-SM23 and date code 7W15TN are included in this recall. Both can be found on the side of the sleep machine or on the back of the box.",
       "timestamp": "2026-09-24T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -176,7 +257,7 @@
     },
     {
       "id": 10997,
-      "text": "The Blue Cactus Company Reclining Chair Battery Packs Recalled Due to Fire and Burn Hazards; Sold on Amazon — This recall involves The Blue Cactus Company Reclining Chair 2500 mAh battery packs with model number RWX-RBP02. The battery packs are black with the brand logo and brand name of “The Blue Cactus Company” imprinted on the front. The recalled battery packs can be identified by the model number RWX-RBP02 printed on the rear of the product and were designed to be used with various brands of reclining chairs. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or in used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact it ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
+      "text": "The Blue Cactus Company Reclining Chair Battery Packs Recalled Due to Fire and Burn Hazards; Sold on Amazon — This recall involves The Blue Cactus Company Reclining Chair 2500 mAh battery packs with model number RWX-RBP02. The battery packs are black with the brand logo and brand name of \"The Blue Cactus Company\" imprinted on the front. The recalled battery packs can be identified by the model number RWX-RBP02 printed on the rear of the product and were designed to be used with various brands of reclining chairs. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or in used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact it ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
       "timestamp": "2026-09-24T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -335,78 +416,6 @@
       "hazard": null,
       "remedy": null,
       "product": "Rainbow Mystery Squishy Bun Toys"
-    },
-    {
-      "id": 11020,
-      "text": "Decathlon America Recalls Van Rysel GRVL AF Bicycles Due to Risk of Serious Injury or Death from Crash Hazard — This recall involves adult multi-terrain gravel bicycles Van Rysel GRVL AF Sword Brown CN FR (model number 8911304), Van Rysel GRVL AF Apex Beige CN FR (model number 8911305), Van Rysel GRVL AF Sword Pink CN FR (model number 8911308), and Van Rysel GRVL AF GRX Black (model number 8929130). The recalled models were sold in sizes x-small, small, medium, large and x-large. The bicycles are designed for off-road gravel riding, road cycling, commuting and bikepacking. Each bicycle can be identified by the model name and Van Rysel Product ID located on the barcode sticker on the frame near the bottom bracket. Only Van Rysel bicycles with the following Product IDs/ SKUs are included in this recall.",
-      "timestamp": "2026-10-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Van Rysel GRVL AF Bicycles"
-    },
-    {
-      "id": 11018,
-      "text": "DR Power Equipment Recalls Pilot and Premier Trimmer Mowers Due to Risk of Serious Injury or Death from Fire and Burn Hazards — This recall involves DR Power Equipment Pilot and Premier walk-behind trimmer mowers. The trimmer mowers are orange and black and have the DR Power logo on the top of the motor and on the top of the frame above the cutter head. The trimmer mowers are labeled “Premier” or “Pro” on the side of the frame. The model numbers are printed on a label located on the side of the product’s frame.",
-      "timestamp": "2026-10-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "DR Power Equipment Pilot and Premier Trimmer Mowers"
-    },
-    {
-      "id": 11021,
-      "text": "Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries — This recall involves Giant Bicycle-branded black-and-white LED-light bike lock keys that were included as part of a pre-keyed SureLock bicycle lock set that includes a bike lock and two-or-four keys without an LED-light (depending on the model). Only LED-light bike lock keys manufactured after March 2023 are included in this recall. The list of affected serial numbers is included in the table below. Serial numbers are located on the underside of the bike lock, as shown in the below picture.",
-      "timestamp": "2026-10-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "LED-light bike lock keys"
-    },
-    {
-      "id": 11014,
-      "text": "ONTHEWEI Recalls Baby Bath Seats Due to Risk of Serious Injury or Death to Children from Drowning; Violate Mandatory Standard for Infant Bath Seats — This recall involves ONTHEWEI-branded baby bath seats. They are sold in gray, pink, blue and mist green and have detachable restraint arms and suction cups on the underside. “Model No: MY002” and “Date of manufacturer: 2026/1/10” are printed on a label on the back of the bath seat.",
-      "timestamp": "2026-10-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "ONTHEWEI Baby Bath Seats"
-    },
-    {
-      "id": 11015,
-      "text": "Pacearth Direct Recalls PACEARTH Swing Seats Due to Risk of Serious Injury from Fall Hazard — This recall involves PACEARTH U-type swing seats. The swing seats were sold in various colors including green, blue, pink, red and turquoise. The chain is coated in yellow plastic. Metal carabiners or quick links and yellow webbing straps were included with the swing seats to attach the swing to outdoor swing sets or tree branches. The swing seats were sold as a single unit or a pack of two.",
-      "timestamp": "2026-10-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "PACEARTH Swing Seats"
-    },
-    {
-      "id": 11016,
-      "text": "Romorgniz Recalls Six-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units — This recall involves Romorgniz six-drawer dressers. The wooden dressers were sold in white and black, measure about 27.6 inches wide, 15.6 inches long, 43.2 inches tall and weigh 73.3 pounds.",
-      "timestamp": "2026-10-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Romorgniz Six-Drawer Dressers"
-    },
-    {
-      "id": 11017,
-      "text": "Snow Peak Recalls Propane Fireplace Inserts and Lava Rocks Due to Risk of Serious Injury or Death from Burn and Fire Hazards — This recall involves the Takibi propane inserts and lava rocks, fireplace accessories that allows Snow Peak’s Pack & Carry Fireplace L (ST-032) and XL (ST-034) to operate on propane fuel instead of wood or charcoal. The propane insert includes a detachable hose with a gas flow regulator that controls the intensity of the flame with the twist of a knob. The product also includes lava rocks. Model number ST-332-US can be found on the product packaging and in the user manual.",
-      "timestamp": "2026-10-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Snow Peak Takibi Fireplace Propane Inserts and Lava Rocks"
-    },
-    {
-      "id": 11019,
-      "text": "The Conqueror Recalls Avengers Medals Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Magnets — This recall involves the Avengers Infinity Gauntlet medal. The medal is gold, with colorful gems on the front and comes in a black package marked “Marvel Avengers” with Marvel Avengers artwork. The medals are part of the Avengers virtual challenge series. To receive the medal, customers must have completed the Infinity Gauntlet virtual challenge on the Conqueror App.",
-      "timestamp": "2026-10-08T00:00:00",
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": "Avengers Infinity Gauntlet Medals"
     }
   ]
 }
