@@ -1,8 +1,17 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-10-11T12:30:22.214Z",
+  "fetched_at": "2026-10-11T18:50:16.222Z",
   "items": [
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
+    },
     {
       "id": 11020,
       "text": "Decathlon America Recalls Van Rysel GRVL AF Bicycles Due to Risk of Serious Injury or Death from Crash Hazard — This recall involves adult multi-terrain gravel bicycles Van Rysel GRVL AF Sword Brown CN FR (model number 8911304), Van Rysel GRVL AF Apex Beige CN FR (model number 8911305), Van Rysel GRVL AF Sword Pink CN FR (model number 8911308), and Van Rysel GRVL AF GRX Black (model number 8929130). The recalled models were sold in sizes x-small, small, medium, large and x-large. The bicycles are designed for off-road gravel riding, road cycling, commuting and bikepacking. Each bicycle can be identified by the model name and Van Rysel Product ID located on the barcode sticker on the frame near the bottom bracket. Only Van Rysel bicycles with the following Product IDs/ SKUs are included in this recall.",
