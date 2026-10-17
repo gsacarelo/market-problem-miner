@@ -1,11 +1,11 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-10-17T16:56:44.393Z",
+  "fetched_at": "2026-10-17T20:28:27.199Z",
   "items": [
     {
       "id": 11022,
-      "text": "3M Company Recalls Scotch™ Thermal Laminators Due to Risk of Serious Injury or Death from Fire Hazard — This recall involves the Scotch™ thermal laminator, model number TL1302Z. The laminator is light gray/white with gray accents and the word \"Scotch\" is printed in gray on the front. The laminating slot is approximately 13 inches wide, and the machine has a carrying handle on the right side of the machine when viewing from the front. The model number TL1302Z is located on the sticker on the bottom of the laminator and can also be found on the product packaging.",
+      "text": "3M Company Recalls Scotch™ Thermal Laminators Due to Risk of Serious Injury or Death from Fire Hazard — This recall involves the Scotch™ thermal laminator, model number TL1302Z. The laminator is light gray/white with gray accents and the word “Scotch” is printed in gray on the front. The laminating slot is approximately 13 inches wide, and the machine has a carrying handle on the right side of the machine when viewing from the front. The model number TL1302Z is located on the sticker on the bottom of the laminator and can also be found on the product packaging.",
       "timestamp": "2026-10-15T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -14,7 +14,7 @@
     },
     {
       "id": 11026,
-      "text": "HatsanUSA Recalls Blitz Air Rifles Due to Risk of Serious Injury or Death from Projectile Hazard — This recall involves all units of the Hatsan Blitz and Blitz 777 pellet shooting air rifles sold from February 2020 through March 2026. Both the Blitz and Blitz 777 pellet air rifles were sold in .22, .25 and .30 calibers. The pellet air rifles are gas operated and select-fire (semi-auto/full-auto) pre-charged pneumatic (PCP). They are black and feature a synthetic stock, a carbon fiber air tank mounted beneath the barrel and a rotary magazine feed. Serial numbers and manufacturing dates are engraved on the right side of the receiver above the bolt. On the left side of the receiver is the Hatsan logo, featuring a circular mark, with the word \"HATSAN\" next to a graphic of a bow and arrow. The model name \"BLITZ\" or \"BLITZ 777\" is also marked on the left side of the receiver.",
+      "text": "HatsanUSA Recalls Blitz Air Rifles Due to Risk of Serious Injury or Death from Projectile Hazard — This recall involves all units of the Hatsan Blitz and Blitz 777 pellet shooting air rifles sold from February 2020 through March 2026. Both the Blitz and Blitz 777 pellet air rifles were sold in .22, .25 and .30 calibers. The pellet air rifles are gas operated and select-fire (semi-auto/full-auto) pre-charged pneumatic (PCP). They are black and feature a synthetic stock, a carbon fiber air tank mounted beneath the barrel and a rotary magazine feed. Serial numbers and manufacturing dates are engraved on the right side of the receiver above the bolt. On the left side of the receiver is the Hatsan logo, featuring a circular mark, with the word “HATSAN” next to a graphic of a bow and arrow. The model name “BLITZ” or “BLITZ 777” is also marked on the left side of the receiver.",
       "timestamp": "2026-10-15T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -32,7 +32,7 @@
     },
     {
       "id": 11024,
-      "text": "Papablic, of USA Recalls Convertible Bedside Sleepers Due to Risk of Serious Injury or Death from Entrapment, Suffocation and Fall Hazards; Violate Mandatory Standard for Play Yards — This recall involves Papablic bedside sleepers, model PAPA03001AI. These convertible sleepers function as both a bassinet and a play yard and have a gray exterior with an interior printed in a stars‑and‑moon pattern. The products have \"Papablic\" stitched in white on the front gray fabric panel. Model \"PAPA03001AI\" is printed on a label sewn to the interior fabric of the bassinet underneath the mattress pad.",
+      "text": "Papablic, of USA Recalls Convertible Bedside Sleepers Due to Risk of Serious Injury or Death from Entrapment, Suffocation and Fall Hazards; Violate Mandatory Standard for Play Yards — This recall involves Papablic bedside sleepers, model PAPA03001AI. These convertible sleepers function as both a bassinet and a play yard and have a gray exterior with an interior printed in a stars‑and‑moon pattern. The products have “Papablic” stitched in white on the front gray fabric panel. Model “PAPA03001AI” is printed on a label sewn to the interior fabric of the bassinet underneath the mattress pad.",
       "timestamp": "2026-10-15T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -41,7 +41,7 @@
     },
     {
       "id": 11027,
-      "text": "Primark Recalls 101 Dalmatians Faux Leather Children’s Coin Purses Due to Phthalate Levels and Risk of Ingestion — This recall involves the Primark 101 Dalmatians Faux Leather Coin Purse, Model No. 2595301. The coin purse is black and has a picture of a dalmatian and \"101 Dalmatians\" printed on the front. The model number is located on the product tag attached to the zip puller.",
+      "text": "Primark Recalls 101 Dalmatians Faux Leather Children’s Coin Purses Due to Phthalate Levels and Risk of Ingestion — This recall involves the Primark 101 Dalmatians Faux Leather Coin Purse, Model No. 2595301. The coin purse is black and has a picture of a dalmatian and “101 Dalmatians” printed on the front. The model number is located on the product tag attached to the zip puller.",
       "timestamp": "2026-10-15T00:00:00",
       "lang": "en",
       "hazard": null,
@@ -335,6 +335,15 @@
       "hazard": null,
       "remedy": null,
       "product": "Kesyup-branded Mattresses"
+    },
+    {
+      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
+      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
+      "timestamp": null,
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": null
     }
   ]
 }
