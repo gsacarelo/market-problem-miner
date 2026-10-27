@@ -1,16 +1,52 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-10-27T17:59:52.575Z",
+  "fetched_at": "2026-10-27T22:02:21.184Z",
   "items": [
     {
-      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
-      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
-      "timestamp": null,
+      "id": 11031,
+      "text": "BAMAMON Recalls LED Projecting Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys — This recall involves Bamamon LED Projecting Finger Light toys which contain three button cells batteries. The finger lights come in 32 pieces in a box in red, orange, blue, black, purple, clear, green and yellow. The finger lights project eight space themed patterns such as astronauts, rockets, UFO, galaxy and solar systems printed on labels located on the front of the package.",
+      "timestamp": "2026-10-22T00:00:00",
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": null
+      "product": "Bamamon LED Projecting Finger Light Toys"
+    },
+    {
+      "id": 11030,
+      "text": "Costway Recalls Convertible High Chairs Due to Risk of Serious Injury or Death from Entrapment and Fall Hazards; Violate Mandatory Standard for High Chairs — This recall involves Costway high chairs designed to convert into a table and chair set. They were available in several color combinations, including purple and white, red and white, blue and white, and brown and white. There is no tracking information located on the products.",
+      "timestamp": "2026-10-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Costway Convertible High Chairs"
+    },
+    {
+      "id": 11032,
+      "text": "FoShanShiNanHaiQuNuoAiTongZhuangShangHang Recalls CIYTI Light-Up Princess Costumes Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys — This recall involves CIYTI Light-Up Princess Costumes. The costumes include a blue dress with a crown and wand that light up, and a remote control. The crowns, scepters, and remote controls contain button batteries. There are no markings on the product. The package has \"CIYTI\" on the front.",
+      "timestamp": "2026-10-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "CIYTI Light-Up Princess Costumes"
+    },
+    {
+      "id": 11029,
+      "text": "Lithonia Lighting Recalls RSX Luminaires with Adjustable Tilt Arm Mountings Due to Risk of Serious Injury from Impact Hazard — This recall involves Luminaires with certain adjustable tilt mounting arms manufactured between August 2019 to July 2020 and August 2024 to April 2026: AASP, AARP, AAWB, and AAWSC. The adjustable tilt arm mounts the RSX luminaire to a square pole, round pole, wall bracket or wall bracket with surface mount conduit. The arm mount allows the luminaire to be tilted from 0 degrees to 90 degrees above horizontal. Consumers should contact Lithonia Lighting to confirm their Luminaire with adjustable tilt mounting arms are included in the recall.",
+      "timestamp": "2026-10-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Lithonia Lighting RSX Luminaires with AASP, AARP, AAWB, and AAWSC Adjustable Tilt Arm Mountings used for commercial outdoor lighting."
+    },
+    {
+      "id": 11028,
+      "text": "VQQQ Gas Patio Heaters Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards — This recall involves VQQQ-branded natural gas patio heaters, models VQQQ-A1 and VQQQ-001. They have a bronze pole with a round base and a silver mushroom-shaped top with an adjustable height of 55 inches to 78 inches. A 24-foot-long gray gas hose is attached to the heater's base. The brand and model numbers are printed on the product's purchase receipt.",
+      "timestamp": "2026-10-22T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "VQQQ Natural Gas Patio Heaters"
     },
     {
       "id": 11022,
