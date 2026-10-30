@@ -1,8 +1,17 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-10-30T12:33:06.123Z",
+  "fetched_at": "2026-10-30T19:05:42.692Z",
   "items": [
+    {
+      "id": 11041,
+      "text": "Bodum USA Recalls 5.9 Million French Press Coffee Makers with Replaceable Glass Carafes Due to Risk of Serious Burn Injury — This recall involves Bodum 8-cup and 12-cup Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, and Kenya model French Press coffee makers with replaceable glass carafes. The Bodum name appears on the frame and inner lid of most models, and is engraved, along with product warnings, on the glass carafes. Additional photos and model-identifying information are available on the recall website.",
+      "timestamp": "2026-10-29T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Bodum French Press coffee makers with 8-cup and 12-cup replaceable glass carafes (Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, and Kenya models)"
+    },
     {
       "id": 11038,
       "text": "DREO Recalls DR-HSH015 Space Heaters Due to Fire and Burn Hazards — This recall involves DREO space heaters, model number DR-HSH015. The ceramic, electric heaters are black and measure about 11.5 inches wide and 13 inches tall and include a remote control. Only units manufactured from April 2025 through January 2026 are included in this recall. The manufacture date, in YYYY/MM format, and the model number are printed on a label on the heater’s underside and “DREO” on the front of the unit.",
@@ -20,6 +29,15 @@
       "hazard": null,
       "remedy": null,
       "product": "QZH.DUAO Children’s Pajama Sets"
+    },
+    {
+      "id": 11044,
+      "text": "HAIARA Power Banks Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Sold on Amazon.com by Mitrytech — This recall involves HAIARA power banks, model W5 PRO, sold on Amazon.com by Mitrytech. The power banks are black and have “20W” printed on the front and “Model: W5 PRO” printed on the side. The seller name, Mitrytech, and brand name, HAIARA, are located on the purchase receipt. This warning applies to power banks with no date code (formatted “YYYYMMDD”) printed on the side.",
+      "timestamp": "2026-10-29T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "HAIARA power banks"
     },
     {
       "id": 11033,
@@ -74,6 +92,24 @@
       "hazard": null,
       "remedy": null,
       "product": "SOOWERY 8-Drawer Fabric Dresser"
+    },
+    {
+      "id": 11043,
+      "text": "Whatever Works Recalls Microwave Grills Due to Risk of Serious Injury or Death from Fire Hazard — This recall involves Whatever Works microwave grillers. The rectangular grills have a white plastic exterior with black locking clips on the side, hinge tabs at the rear, and two non-stick black metal plates. Model K4001 can be found on the product’s purchase receipt.",
+      "timestamp": "2026-10-29T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Whatever Works Microwave Grillers"
+    },
+    {
+      "id": 11042,
+      "text": "Yinklev Recalls Jocoevol 6-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units — This recall involves Jocoevol 6-Drawer Dressers. The recalled dressers come in black, pink, brown and white colorways. The dressers have six drawers and are made from engineered wood. They are 47.2 inches wide, 15.3 inches long, 32.3 inches tall, and weigh 97 pounds. The dressers have the model number “C-0633” printed on a label inside the top left drawer.",
+      "timestamp": "2026-10-29T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Jocoevol 6-Drawer Dressers"
     },
     {
       "id": 11031,
