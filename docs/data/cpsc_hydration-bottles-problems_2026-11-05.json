@@ -1,7 +1,7 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-11-05T16:21:10.981Z",
+  "fetched_at": "2026-11-05T23:31:55.579Z",
   "items": [
     {
       "id": 11045,
@@ -85,13 +85,22 @@
       "product": "Magnetopia Magnetic Building Cubes and Blocks"
     },
     {
+      "id": 11056,
+      "text": "Sanven Technology Recalls Vevor BMX Bicycles Due to Risk of Serious Injury or Death from Crash Hazard; Violate Federal Requirements for Bicycles — This recall involves Vevor-branded 20-inch and 24-inch BMX bicycles, models SS24001 and SS24002. The model numbers are printed on the product packaging. The bicycles were sold in black. The Vevor logo is printed across the downtube of the frame on the bikes.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Vevor BMX Bicycles"
+    },
+    {
       "id": 11055,
       "text": "U.S. Titan Recalls X-Pro Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash Hazard; Violate Mandatory Standard for ATVs — This recall involves X-Pro Eagle youth ATVs. The gas-powered, 110cc vehicles were sold in black, blue, red, pink, spider black, spider blue, spider red, leaf pink and tree camo. “X-PRO” is printed on the ATV’s side panel and “This ATV is subject to Titan Imports Inc.’s Action Plan approved by the U.S. Consumer Product Safety Commission” on a plate on the left front side of the frame.",
       "timestamp": "2026-11-05T00:00:00",
       "lang": "en",
       "hazard": null,
       "remedy": null,
-      "product": null
+      "product": "X-PRO’s Eagle Youth All-Terrain Vehicles (ATVs)"
     },
     {
       "id": 11050,
