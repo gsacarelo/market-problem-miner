@@ -1,8 +1,71 @@
 {
   "source": "cpsc",
   "topic_id": "hydration-bottles-problems",
-  "fetched_at": "2026-11-12T09:34:26.278Z",
+  "fetched_at": "2026-11-12T18:02:05.928Z",
   "items": [
+    {
+      "id": 11060,
+      "text": "Allstar Recalls Sharper Image Tabletop and Infinity Fire Pits Due to Risk of Serious Injury from Burn and Fire Hazards — This recall involves outdoor Sharper Image-Branded Tabletop Fire Pits and Sharper Image-Branded Tabletop Infinity Fire Pits. The units have a “77” logo on the front, a Lot Code sticker in the center of the base, a round black sticker marked “CHINA” with a 5-digit code, the letters KS-CY or KS-FC, and a date code in YYYY-MM-DD format. The Sharper Image-Branded Tabletop Fire Pits feature a small cylindrical concrete body with a removable snuffing lid and an open burn chamber at the top. The Sharper Image-Branded Tabletop Infinity Fire Pits feature a steel base and tempered‑glass side panels.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Sharper Image Tabletop Fire Pits and Sharper Image Tabletop Infinity Fire Pits"
+    },
+    {
+      "id": 11063,
+      "text": "Boshengya Recalls Rugs Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Carpets and Rugs — This recall involves Boshengya-branded rugs. The pink or orange shag area rugs measure about 5 or 6 feet wide and 8 feet long. ‘INCREDIBLY SOFT’ is printed on a label on the product packaging.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Boshengya Shag Area Rugs"
+    },
+    {
+      "id": 11059,
+      "text": "Cummins Recalls Portable Generators Due to Risk of Serious Injury from Fire and Burn Hazards — This recall involves the Cummins Onan P5000iDF EFI Dual Fuel Portable Generators sold in a dark gray color. The generators can operate on gasoline or propane, and produce between 4,500 and 5,000 watts, depending on fuel. “Cummins” is printed in white on the front of the unit and the handle above the control panel. The Cummins \"C\" logo and \"Onan P5000iDF EFI\" are printed on the side. The model and part number can be found on the label attached to the side of the generator.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Cummins Onan P5000iDF EFI Dual Fuel Portable Generators"
+    },
+    {
+      "id": 11058,
+      "text": "Huffy Recalls Buzz Bicycles Cerana T2 E-Trikes Due to Risk of Serious Injury from Fall Hazard — This recall involves Buzz Bicycles Cerana T2 E-Trike, model E4004. The tricycle is a pedal assist tricycle. The tricycle is gray with \"BUZZ\" logos on the left and right side. The tricycle has a 500-Watt motor and a 48-Volt battery. The tricycle has three 24-inch wheels. The model number is printed on a label near the pedals on the bottom side of the frame’s downtube.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Buzz Bicycles Cerana T2 E-Trike"
+    },
+    {
+      "id": 11057,
+      "text": "Kakgold Recalls 4WD Remote-Controlled Car Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys — This recall involves the Kakgold 4WD stunt vehicles with a remote-control containing button cell and lithium-ion batteries. The toy car has a lime green and blue body, a black chassis and four black wheels with lime green trim and diagonal rollers. The vehicle body features checkered patterns, an “X” design and the words “PRO” and “RACING.” A white hang tag attached to the vehicle body displays “Do Not Twist the Shaft” in red lettering and illustrations marked with red crosses.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Kakgold 4WD Stunt Vehicle Toys"
+    },
+    {
+      "id": 11062,
+      "text": "QIOMALA Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards — This recall involves QIOMALA-branded pressure washers with model number “HWT12P”. The 1.2 GPM electric pressure washers were sold in green with black and in blue with black and measure about 14 inches deep, 11 inches wide and 15 inches high. The pressure washers came with a 500 ml soap tank, four quick disconnect nozzles and a 20-foot hose. Model number “HWT12P” is printed on a label on back of the unit, near the power cord entry point.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "QIOMALA Pressure Washers"
+    },
+    {
+      "id": 11061,
+      "text": "SHEIN Distribution Corporation Recalls Baby Rattle and Teether Toy Sets Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Small Parts Ban — This recall involves Baby Rattle and Teether Toy Sets. The sets include seven toys in a variety of pastel colors and shapes. SKU “sk25070936134444119” is located on the upper right corner of a label on the product packaging.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Baby Rattle and Teether Toy Sets"
+    },
     {
       "id": 11045,
       "text": "Arlopu Recalls Slide Playsets Due to Risk of Serious Injury and Death from Head and Neck Entrapment Hazards — This recall involves Arlopu Slide Playsets with model numbers KT-CS17 and LY-31. The plastic playsets are designed for indoor or outdoor use and contain multiple activity components, including a slide and a basketball hoop. The playsets are available in tan, red, blue, yellow, gray and green. Model number KT-CS17 is printed on a label located on the underside of the elevated platform of the playset. Model LY-31 is printed on a label located on the upper back panel behind the slide of the playset.",
