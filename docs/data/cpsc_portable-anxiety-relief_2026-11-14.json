@@ -1,8 +1,179 @@
 {
   "source": "cpsc",
   "topic_id": "portable-anxiety-relief",
-  "fetched_at": "2026-11-14T05:54:40.574Z",
+  "fetched_at": "2026-11-14T13:17:35.766Z",
   "items": [
+    {
+      "id": 11060,
+      "text": "Allstar Recalls Sharper Image Tabletop and Infinity Fire Pits Due to Risk of Serious Injury from Burn and Fire Hazards — This recall involves outdoor Sharper Image-Branded Tabletop Fire Pits and Sharper Image-Branded Tabletop Infinity Fire Pits. The units have a “77” logo on the front, a Lot Code sticker in the center of the base, a round black sticker marked “CHINA” with a 5-digit code, the letters KS-CY or KS-FC, and a date code in YYYY-MM-DD format. The Sharper Image-Branded Tabletop Fire Pits feature a small cylindrical concrete body with a removable snuffing lid and an open burn chamber at the top. The Sharper Image-Branded Tabletop Infinity Fire Pits feature a steel base and tempered‑glass side panels.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Sharper Image Tabletop Fire Pits and Sharper Image Tabletop Infinity Fire Pits"
+    },
+    {
+      "id": 11063,
+      "text": "Boshengya Recalls Rugs Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Carpets and Rugs — This recall involves Boshengya-branded rugs. The pink or orange shag area rugs measure about 5 or 6 feet wide and 8 feet long. ‘INCREDIBLY SOFT’ is printed on a label on the product packaging.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Boshengya Shag Area Rugs"
+    },
+    {
+      "id": 11059,
+      "text": "Cummins Recalls Portable Generators Due to Risk of Serious Injury from Fire and Burn Hazards — This recall involves the Cummins Onan P5000iDF EFI Dual Fuel Portable Generators sold in a dark gray color. The generators can operate on gasoline or propane, and produce between 4,500 and 5,000 watts, depending on fuel. “Cummins” is printed in white on the front of the unit and the handle above the control panel. The Cummins \"C\" logo and \"Onan P5000iDF EFI\" are printed on the side. The model and part number can be found on the label attached to the side of the generator.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Cummins Onan P5000iDF EFI Dual Fuel Portable Generators"
+    },
+    {
+      "id": 11058,
+      "text": "Huffy Recalls Buzz Bicycles Cerana T2 E-Trikes Due to Risk of Serious Injury from Fall Hazard — This recall involves Buzz Bicycles Cerana T2 E-Trike, model E4004. The tricycle is a pedal assist tricycle. The tricycle is gray with \"BUZZ\" logos on the left and right side. The tricycle has a 500-Watt motor and a 48-Volt battery. The tricycle has three 24-inch wheels. The model number is printed on a label near the pedals on the bottom side of the frame’s downtube.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Buzz Bicycles Cerana T2 E-Trike"
+    },
+    {
+      "id": 11057,
+      "text": "Kakgold Recalls 4WD Remote-Controlled Car Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys — This recall involves the Kakgold 4WD stunt vehicles with a remote-control containing button cell and lithium-ion batteries. The toy car has a lime green and blue body, a black chassis and four black wheels with lime green trim and diagonal rollers. The vehicle body features checkered patterns, an “X” design and the words “PRO” and “RACING.” A white hang tag attached to the vehicle body displays “Do Not Twist the Shaft” in red lettering and illustrations marked with red crosses.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Kakgold 4WD Stunt Vehicle Toys"
+    },
+    {
+      "id": 11062,
+      "text": "QIOMALA Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards — This recall involves QIOMALA-branded pressure washers with model number “HWT12P”. The 1.2 GPM electric pressure washers were sold in green with black and in blue with black and measure about 14 inches deep, 11 inches wide and 15 inches high. The pressure washers came with a 500 ml soap tank, four quick disconnect nozzles and a 20-foot hose. Model number “HWT12P” is printed on a label on back of the unit, near the power cord entry point.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "QIOMALA Pressure Washers"
+    },
+    {
+      "id": 11061,
+      "text": "SHEIN Distribution Corporation Recalls Baby Rattle and Teether Toy Sets Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Small Parts Ban — This recall involves Baby Rattle and Teether Toy Sets. The sets include seven toys in a variety of pastel colors and shapes. SKU “sk25070936134444119” is located on the upper right corner of a label on the product packaging.",
+      "timestamp": "2026-11-12T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Baby Rattle and Teether Toy Sets"
+    },
+    {
+      "id": 11045,
+      "text": "Arlopu Recalls Slide Playsets Due to Risk of Serious Injury and Death from Head and Neck Entrapment Hazards — This recall involves Arlopu Slide Playsets with model numbers KT-CS17 and LY-31. The plastic playsets are designed for indoor or outdoor use and contain multiple activity components, including a slide and a basketball hoop. The playsets are available in tan, red, blue, yellow, gray and green. Model number KT-CS17 is printed on a label located on the underside of the elevated platform of the playset. Model LY-31 is printed on a label located on the upper back panel behind the slide of the playset.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Arlopu Slide Playsets"
+    },
+    {
+      "id": 11054,
+      "text": "Baby Brezza Enterprises Recalls SuperFast Sterilizer Dryers Due to Overheating and Burn Hazards — This recall involves the SuperFast Sterilizer Dryer, a countertop appliance that uses a push-button control to sterilize and dry baby bottles, breast pump parts and accessories in ten minutes. The recalled units have model numbers BRZ0083, BRZ0154 and BRZ0156. The model number is printed on the product label located on the bottom of the unit.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "SuperFast Sterilizer Dryers"
+    },
+    {
+      "id": 11048,
+      "text": "Bose Recalls Lithium-Ion Battery Packs for S1 Pro and S1 Pro+ Bluetooth Speaker Systems Due to Risk of Injury from Fire and Overheating Hazards — This recall involves lithium-ion rechargeable battery packs intended for use with Bose S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems. The serial number of the battery packs included in this recall begins with any one of the following six digits: 083723, 078352, 084105, 078591, 078592, 084106, or 086409. The 17-digit serial number for the battery pack is printed on a label placed at the bottom of the battery pack. The affected battery packs were sold with S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems and sold separately as accessories or replacement parts.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Bose S1 Pro System Battery Pack and S1 Pro+ System Battery Packs for use with Bose S1 Pro and Bose S1 Pro+ Speaker Systems."
+    },
+    {
+      "id": 11053,
+      "text": "C.A.M.P. Recalls Mountain Ice Axes Due to Risk of Serious Injury or Death from Fall Hazard — This recall includes X-Dream, X-Dream Total Dry, X-All Mountain Hammer and X-All Mountain Adze. These products are designed for vertical ice climbing. The batch number is located on the side of the shaft. “CAMP” is written in white lettering on the ice axes shaft. The recalled nut and bolt kit were also sold as an accessory item as model number 3641. Recalled Models and Batches • X-Dream (model: 3570): Batches 10/24, 07/25, 10/25, 12/25 • X-Dream Total Dry (model: 3609): Batches 10/24, 07/25, 11/25 • X-All Mountain Hammer (model: 3630): Batches 10/24, 09/25 • X-All Mountain Adze (model: 3631): Batches 10/24, 09/25 • Accessory Kit (nut and bolt) (model: 3641)",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "X-Dream, X-Dream Total Dry, X-All Mountain Hammer and X-All Mountain Adze"
+    },
+    {
+      "id": 11046,
+      "text": "Gourmia Recalls 9-Slice Digital Air Fryer Ovens Due to Burn Hazard — This recall involves Gourmia 9-SliceDigitalAir Fryer Ovens with model number GTF7530, and UPC Code 810002862779. The recalled ovens are stainless steel and have two spring-loaded glass front French doors with metal handles. The Ovens can be identified with model and UPC codes on packaging. The Model number GTF7530 and codes 3021 to 0126 can also be found on a label on back of the unit.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Gourmia Stainless Steel Digital 9 Slice Digital Air Fryer Ovens"
+    },
+    {
+      "id": 11052,
+      "text": "Jiastfeng Recalls HAUOMS Eight-drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units — This recall involves HAUOM-branded Eight-drawer dressers. The wooden black dressers measure about 27.6 inches wide, 15.8 inches long, 59.1 inches tall, and weigh about 112.4 pounds. \"SKU: AJ_DJ504298_1\" is printed on the product packaging.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "HAUOMS Eight-drawer Dressers"
+    },
+    {
+      "id": 11047,
+      "text": "Kikea Store Recalls X-VESOLJE Nursing Pillows Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows — This recall involves X-VESOLJE Nursing Pillows, model number NP001. The nursing pillows are C-shaped and sold in white with leaves pattern, dark brown with multicolored feather pattern and multicolored puzzle piece pattern. There are no markings or labels on the product.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "X-VESOLJE Nursing Pillows"
+    },
+    {
+      "id": 11051,
+      "text": "Little Giant Recalls Ladders with Rapid Locks Due to Risk of Serious Injury from Fall Hazard — This recall involves Little Giant ladders with Rapid Locks. Rapid Locks are designed to insert into ladder rungs for the purpose of adjusting the ladder’s height. Rapid Locks are black or orange and are located on each ladder leg. The affected models are Adjustable Fortress 2.0, Conquest 2.0, Dark Horse 2.0, Epic, King Kombo XT, Leveler, MegaLite, MegaLite+, Multi, Quantum and Vector. The brand name Little Giant and the model name are located on the side of the ladder. Only ladders without an orange rectangular “QC” sticker on the rail above one of the Rapid Locks are included in this recall.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Little Giant ladders with Rapid Locks"
+    },
+    {
+      "id": 11049,
+      "text": "Magnetopia Recalls Magnetic Building Cubes and Blocks Due to Risk of Serious Injury or Death from Magnet Ingestion Hazard — This recall involves Magnetopia-branded Magnetic Building Cubes and Blocks, which are magnetic cubes sold in sets of 60, 100, 150 and 200. The cubes contain small, powerful magnets that allow the cubes to stick together and create 3D designs. The sets are available in a variety of themed building/landscape designs and colors. The following styles and models are included in the recall: Style Name Model Number Darkhouse MAT-030 Arean MAT-031 Darkgrass MAT-032 Farmday MAT-033 Bluehous MAT-034 Pinkfarm MAT-035 DarkForest MAT-036 PinkHouse MAT-037 Seafight MAT-038 Firefarm MAT-039 Darkfarm MAT-040 Darkhouse T009 BrownFarm T025 Farm T076 Darkhero T078 The model numbers of the recalled cubes are located on the back of the product packaging.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Magnetopia Magnetic Building Cubes and Blocks"
+    },
+    {
+      "id": 11056,
+      "text": "Sanven Technology Recalls Vevor BMX Bicycles Due to Risk of Serious Injury or Death from Crash Hazard; Violate Federal Requirements for Bicycles — This recall involves Vevor-branded 20-inch and 24-inch BMX bicycles, models SS24001 and SS24002. The model numbers are printed on the product packaging. The bicycles were sold in black. The Vevor logo is printed across the downtube of the frame on the bikes.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Vevor BMX Bicycles"
+    },
+    {
+      "id": 11055,
+      "text": "U.S. Titan Recalls X-Pro Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash Hazard; Violate Mandatory Standard for ATVs — This recall involves X-Pro Eagle youth ATVs. The gas-powered, 110cc vehicles were sold in black, blue, red, pink, spider black, spider blue, spider red, leaf pink and tree camo. “X-PRO” is printed on the ATV’s side panel and “This ATV is subject to Titan Imports Inc.’s Action Plan approved by the U.S. Consumer Product Safety Commission” on a plate on the left front side of the frame.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "X-PRO’s Eagle Youth All-Terrain Vehicles (ATVs)"
+    },
+    {
+      "id": 11050,
+      "text": "Vanderhall North America Recalls All Model Year 2024-2026 Brawley Electric Recreational Off-road Vehicles Due to Injury and Crash Hazards — This recall involves all Model Year 2024-2026 Brawley GTS Electric ROVs. Each vehicle has a unique VIN number located under the dashboard on the driver’s side of the vehicle. The VIN Numbers for the recalled vehicles range from XXXXXXXXXXX005927-XXXXXXXXXXX005990 (2024 models), XXXXXXXXXXX005992- XXXXXXXXXXX006074 (2025 models) and XXXXXXXXXXX006077- XXXXXXXXXXX006152 (2026 models) and can be found under the dashboard on the driver’s side of the vehicle. The Vanderhall logo is located on the bottom of the door on each side of the vehicle. The recalled vehicles were sold in Ivory White, Obsidian Black, Royal Blue, Ida Rose, Bosco Blue, Atomic Green, Rossa, Jean Gray and Emerald Green Metallic colors.",
+      "timestamp": "2026-11-05T00:00:00",
+      "lang": "en",
+      "hazard": null,
+      "remedy": null,
+      "product": "Model Year 2024-2026 Brawley GTS Electric Recreational Off-road Vehicles (ROVs)"
+    },
     {
       "id": 11041,
       "text": "Bodum USA Recalls 5.9 Million French Press Coffee Makers with Replaceable Glass Carafes Due to Risk of Serious Burn Injury — This recall involves Bodum 8-cup and 12-cup Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, and Kenya model French Press coffee makers with replaceable glass carafes. The Bodum name appears on the frame and inner lid of most models, and is engraved, along with product warnings, on the glass carafes. Additional photos and model-identifying information are available on the recall website.",
@@ -155,15 +326,6 @@
       "hazard": null,
       "remedy": null,
       "product": "VQQQ Natural Gas Patio Heaters"
-    },
-    {
-      "id": "null-Error retrieving Recalls: The underlying provider failed on Open.",
-      "text": "Error retrieving Recalls: The underlying provider failed on Open.",
-      "timestamp": null,
-      "lang": "en",
-      "hazard": null,
-      "remedy": null,
-      "product": null
     }
   ]
 }
